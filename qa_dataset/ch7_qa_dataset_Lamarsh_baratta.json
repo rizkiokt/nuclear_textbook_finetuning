@@ -1,0 +1,805 @@
+[
+  {
+    "question": "What is the primary function of control rods in a nuclear reactor?",
+    "choices": {
+      "A": "To increase the rate of fuel burnup",
+      "B": "To regulate the degree of criticality",
+      "C": "To cool the reactor core",
+      "D": "To convert fertile material into fissile material"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In reactor kinetics, the study of the behavior of the neutron population in a noncritical reactor is known as:",
+    "choices": {
+      "A": "Fuel management",
+      "B": "Reactor safety analysis",
+      "C": "Reactor kinetics",
+      "D": "Thermal hydraulics"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following is commonly used as a chemical shim for reactor control in water-moderated systems?",
+    "choices": {
+      "A": "Uranium dioxide (UO2)",
+      "B": "Heavy water (D2O)",
+      "C": "Sodium (Na)",
+      "D": "Boric acid (H3BO3)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Intermediate time problems in reactor kinetics, typically spanning hours to a day or two, are primarily characterized by the need to account for:",
+    "choices": {
+      "A": "Rapid changes in neutron flux shape",
+      "B": "Significant depletion of nuclear fuel",
+      "C": "Changing concentrations of fission product poisons",
+      "D": "Large variations in reactor coolant temperature"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In an infinite thermal reactor, the prompt neutron lifetime (lp) is approximately equal to the:",
+    "choices": {
+      "A": "Reactor period",
+      "B": "Mean generation time",
+      "C": "Thermal utilization factor",
+      "D": "Mean diffusion time"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An infinite thermal reactor, initially critical with a prompt neutron lifetime of 10^-4 seconds, experiences a step increase in its infinite multiplication factor (koo) to 1.001. Assuming all fission neutrons are prompt (no delayed neutrons), what is the approximate reactor period?",
+    "choices": {
+      "A": "0.001 seconds",
+      "B": "0.01 seconds",
+      "C": "0.1 seconds",
+      "D": "1.0 seconds"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In nuclear reactor kinetics, what is the definition of reactivity for a finite reactor?",
+    "choices": {
+      "A": "(k - 1) / k",
+      "B": "k - 1",
+      "C": "(1 - k) / k",
+      "D": "k / (k - 1)"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the approximate magnitude of the prompt neutron lifetime in a fast nuclear reactor?",
+    "choices": {
+      "A": "10\u207b\u2074 seconds",
+      "B": "10\u207b\u2077 seconds",
+      "C": "0.1 seconds",
+      "D": "57 seconds"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In reactor kinetics, how is the unit of reactivity called a 'dollar' defined?",
+    "choices": {
+      "A": "The reactivity value of 1.0",
+      "B": "The reactivity value equal to the effective delayed neutron fraction (\u03b2)",
+      "C": "The reactivity value equal to the multiplication factor minus one (k-1)",
+      "D": "The reactivity value equal to the prompt neutron lifetime (l\u209a)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A thermal reactor fueled with Uranium-235 experiences a change in multiplication factor from 1.000 to 1.001. Given that the effective delayed neutron fraction for Uranium-235 thermal fission is approximately 0.0065, what is the reactivity change in dollars?",
+    "choices": {
+      "A": "0.1 dollars",
+      "B": "0.154 dollars",
+      "C": "0.65 dollars",
+      "D": "1.001 dollars"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Despite being a small fraction of the total fission neutrons, delayed neutrons are essential for controlling thermal reactors primarily because they:",
+    "choices": {
+      "A": "Significantly increase the neutron multiplication factor.",
+      "B": "Are preferentially absorbed by control rods.",
+      "C": "Substantially lengthen the reactor period.",
+      "D": "Prevent the prompt jump phenomenon."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A Uranium-235 fueled thermal reactor is critical. If the reactivity is suddenly increased by 0.5 dollars, what is the approximate stable reactor period? Assume a prompt neutron lifetime of 10\u207b\u2074 seconds and use the provided typical period curve for a 235U-fueled reactor.",
+    "choices": {
+      "A": "0.1 seconds",
+      "B": "57 seconds",
+      "C": "Approximately 15 seconds",
+      "D": "Approximately 100 seconds"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the reactivity value, in dollars, that corresponds to the prompt critical condition for a nuclear reactor fueled with 235U?",
+    "choices": {
+      "A": "0 dollars",
+      "B": "1 dollar",
+      "C": "0.0065 dollars",
+      "D": "100 dollars"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If a nuclear reactor has an effective multiplication factor (k_eff) of 1.002, what is its reactivity?",
+    "choices": {
+      "A": "0.002",
+      "B": "0.001996",
+      "C": "1.002",
+      "D": "0.001"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In reactor kinetics, what is the unit of reactivity known as a \"cent\" defined as?",
+    "choices": {
+      "A": "One dollar",
+      "B": "One one-hundredth of a dollar",
+      "C": "One thousandth of a dollar",
+      "D": "One percent reactivity"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A 235U-fueled reactor operating at steady state is scrammed by a sudden insertion of -0.2 in reactivity. To what approximate fraction of its initial power level does the reactor power drop immediately after the scram? (Assume the delayed neutron fraction for 235U is 0.0065).",
+    "choices": {
+      "A": "0.038",
+      "B": "0.20",
+      "C": "0.96",
+      "D": "0.0065"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When a thermal reactor fueled with 235U experiences a very large negative reactivity insertion (significantly more negative than the delayed neutron fraction), what does the reactor period asymptotically approach?",
+    "choices": {
+      "A": "A very short period determined by the prompt neutron lifetime.",
+      "B": "A period related to the mean life of the longest-lived delayed neutron precursor group.",
+      "C": "Zero period (instantaneous shutdown).",
+      "D": "A period solely dependent on the magnitude of the negative reactivity insertion."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider the general reactivity equation for a reactor with six groups of delayed neutrons. How many roots (values of w) does this equation have for a given non-zero reactivity, and what does the root with the smallest absolute value primarily determine?",
+    "choices": {
+      "A": "Six roots; the initial prompt jump behavior.",
+      "B": "Seven roots; the stable reactor period.",
+      "C": "Six roots; the stable reactor period.",
+      "D": "Seven roots; the prompt neutron lifetime."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In reactor kinetics, what is the relationship between the reactor period (T) and the inverse period (w)?",
+    "choices": {
+      "A": "T = w",
+      "B": "T = 1/w",
+      "C": "T = -w",
+      "D": "T = w^2"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a primary function of control rods in a nuclear reactor?",
+    "choices": {
+      "A": "To generate electricity",
+      "B": "To moderate neutrons to thermal energies",
+      "C": "To change the degree of reactor criticality",
+      "D": "To circulate coolant through the core"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The prompt jump approximation for the ratio of reactor power after a reactivity change to the power before the change is generally considered valid for reactivities below what approximate threshold?",
+    "choices": {
+      "A": "0.10$",
+      "B": "0.25$",
+      "C": "0.50$",
+      "D": "1.00$"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which material is commonly used as a neutron absorber in cluster control rods for power reactors?",
+    "choices": {
+      "A": "Uranium dioxide (UO2)",
+      "B": "Zirconium alloy (Zircaloy)",
+      "C": "Boron carbide (B4C)",
+      "D": "Graphite"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For small positive reactivities, the stable reactor period is primarily determined by a sum involving which properties of the delayed neutron precursors?",
+    "choices": {
+      "A": "Their mean lives and yields",
+      "B": "Their energy spectra and prompt neutron lifetime",
+      "C": "The core temperature and pressure coefficients",
+      "D": "The moderator-to-fuel ratio and fuel enrichment"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When calculating the worth of a control rod using diffusion theory, an extrapolation distance 'd' is typically applied at the surface of a strongly absorbing rod. What is the main purpose of this boundary condition?",
+    "choices": {
+      "A": "To account for neutron scattering within the rod material",
+      "B": "To correct for the breakdown of diffusion theory near a strong neutron sink",
+      "C": "To represent the effective increase in the rod's physical radius due to thermal expansion",
+      "D": "To adjust for the energy dependence of the neutron absorption cross-section"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the Wigner-Seitz method applied to estimate the worth of a large number of cluster control rods arranged in a lattice, the concept of 'rod utilization' (fR) is used. What does this parameter physically represent?",
+    "choices": {
+      "A": "The total reactivity worth provided by all control rods in the core",
+      "B": "The average thermal neutron flux within a unit cell containing a control rod",
+      "C": "The fraction of fission neutrons slowing down within a unit cell that are absorbed in the control rod",
+      "D": "The ratio of the neutron current density entering the rod surface to the average flux in the cell"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary purpose of control rods in a nuclear reactor?",
+    "choices": {
+      "A": "To increase the rate of neutron multiplication",
+      "B": "To decrease reactivity by absorbing neutrons",
+      "C": "To moderate fast neutrons to thermal energies",
+      "D": "To provide structural support for fuel assemblies"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following materials is commonly used as a neutron absorber in control rods?",
+    "choices": {
+      "A": "Zirconium alloy",
+      "B": "Enriched Uranium",
+      "C": "Heavy Water",
+      "D": "Boron Carbide"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a cluster control rod assembly, multiple small absorber rods are typically connected at one end by a component often referred to as a:",
+    "choices": {
+      "A": "Moderator block",
+      "B": "Spider",
+      "C": "Reflector plate",
+      "D": "Fuel pellet"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "High-power reactors commonly use multiple control rods in configurations like clusters or cruciform shapes, rather than a single large rod. The primary reason for this design choice is to:",
+    "choices": {
+      "A": "Reduce the total weight of the control system",
+      "B": "Minimize neutron flux distortion and improve power distribution uniformity",
+      "C": "Lower the manufacturing cost of the control rods",
+      "D": "Increase the overall neutron multiplication factor of the core"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In many modern power reactors, an online computer system plays a significant role in the operation of control rods. What is a typical function of this computer system?",
+    "choices": {
+      "A": "It calculates the exact isotopic composition of the fuel",
+      "B": "It directly overrides all manual operator inputs",
+      "C": "It controls rod movements based on real-time reactor parameters to maintain desired conditions and optimize core performance",
+      "D": "It is solely responsible for initiating reactor scram events"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When estimating the worth of control rods in a fast reactor using simplified methods, the neutron flux inside the rod is sometimes approximated as being uniform and similar to the surrounding medium. This approximation is more applicable in fast reactors than thermal reactors primarily because:",
+    "choices": {
+      "A": "Fast neutron diffusion lengths are much shorter",
+      "B": "The absorption cross-sections of control rod materials are relatively small at fast neutron energies, resulting in a large neutron absorption mean free path compared to rod dimensions",
+      "C": "Fast reactors have a significantly higher neutron leakage probability",
+      "D": "The scattering cross-sections are negligible in fast reactors"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary function of control rods in a nuclear reactor?",
+    "choices": {
+      "A": "To generate power through nuclear reactions.",
+      "B": "To provide structural support for fuel assemblies.",
+      "C": "To absorb neutrons and control the reactivity of the core.",
+      "D": "To circulate coolant and remove heat from the core."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In water-moderated reactors, chemical shim, typically using boric acid, is often employed. What is a common application for chemical shim?",
+    "choices": {
+      "A": "To provide rapid reactor shutdown during emergencies.",
+      "B": "To compensate for swift reactivity changes caused by temperature fluctuations.",
+      "C": "To manage long-term reactivity changes such as fuel depletion and fission product buildup.",
+      "D": "To increase the neutron multiplication factor beyond criticality."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The temperature coefficient of reactivity (\u03b1T) is a measure of how reactivity changes with temperature. Which of the following expressions approximately relates \u03b1T to the multiplication factor (k) and temperature (T)?",
+    "choices": {
+      "A": "\u03b1T \u2248 k * (dk/dT)",
+      "B": "\u03b1T \u2248 (dk/dT) / k",
+      "C": "\u03b1T \u2248 (1/k) * (dk/dT)",
+      "D": "\u03b1T \u2248 k / (dT/dk)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How does the neutron flux profile inside a control rod typically differ between a thermal reactor and a fast reactor?",
+    "choices": {
+      "A": "The flux drop near the rod surface is significant in both thermal and fast reactors.",
+      "B": "The flux dip inside the rod is generally more pronounced in fast reactors due to higher neutron energies.",
+      "C": "The flux inside the rod in a fast reactor is often more uniform and similar to the surrounding medium compared to a thermal reactor.",
+      "D": "Control rods are designed to create a steep flux gradient in fast reactors but not in thermal reactors."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a control rod inserted axially into a cylindrical reactor core, at what approximate fractional insertion distance (relative to the total core height) is the rate of change of reactivity with respect to insertion distance the greatest?",
+    "choices": {
+      "A": "When the rod is just beginning to enter the core (near 0).",
+      "B": "When the rod is inserted halfway into the core (near 0.5).",
+      "C": "When the rod is almost fully inserted into the core (near 1.0).",
+      "D": "The rate of change is constant throughout the insertion distance."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A thermal reactor uses chemical shim control. If the thermal utilization (f\u2080) in the absence of boron is 0.900, what approximate concentration of boric acid (H\u2083BO\u2083) in parts per million (ppm) is needed to achieve a shim worth of 10% \u0394k/k?",
+    "choices": {
+      "A": "521 ppm",
+      "B": "789 ppm",
+      "C": "1042 ppm",
+      "D": "1301 ppm"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is one significant benefit of using chemical shim control in a reactor in conjunction with mechanical control rods?",
+    "choices": {
+      "A": "It allows for faster reactor shutdown.",
+      "B": "It substantially reduces the number of mechanical control rods required.",
+      "C": "It increases the moderator temperature coefficient.",
+      "D": "It eliminates the need to compensate for xenon transients."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For inherent stability, what sign is generally required for the prompt temperature coefficient of reactivity in licensed reactors?",
+    "choices": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Zero",
+      "D": "It depends on the coolant type."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Where along the length of an axial control rod is the fractional rate of change in reactivity per unit distance of movement typically the greatest?",
+    "choices": {
+      "A": "Near the very beginning of insertion.",
+      "B": "Near the center of the core.",
+      "C": "Just as the rod is fully inserted.",
+      "D": "The rate of change is constant along the rod length."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following is NOT listed as a primary function of chemical shim in the text?",
+    "choices": {
+      "A": "Compensating for fuel depletion over core life.",
+      "B": "Providing fast reactivity control for reactor shutdown.",
+      "C": "Keeping the reactor critical during xenon transients.",
+      "D": "Compensating for the buildup of fission products."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The nuclear Doppler effect contributes to a negative prompt temperature coefficient in thermal reactors primarily because:",
+    "choices": {
+      "A": "The total area under the resonance absorption cross-section curves decreases with increasing temperature.",
+      "B": "Increasing temperature causes resonance broadening, which leads to an increase in the neutron flux within the broadened resonance region, thereby increasing resonance absorption.",
+      "C": "The moderator scattering cross-section increases with temperature, thermalizing neutrons away from resonance energies.",
+      "D": "Fuel expansion reduces the fuel density, decreasing the macroscopic absorption cross-section."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A bare square cylindrical reactor 70 cm in height has an axial control rod worth 6.5% reactivity when fully inserted. If the reactor is critical with the rod fully withdrawn, approximately how far must the rod be inserted from the top to introduce 1.0% negative reactivity?",
+    "choices": {
+      "A": "10.5 cm",
+      "B": "15.8 cm",
+      "C": "21.3 cm",
+      "D": "28.7 cm"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The prompt temperature coefficient is primarily associated with temperature changes in which component of the reactor?",
+    "choices": {
+      "A": "Fuel",
+      "B": "Moderator",
+      "C": "Coolant",
+      "D": "Control rods"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For reactor safety, the Nuclear Regulatory Commission (NRC) requires that the prompt temperature coefficient be:",
+    "choices": {
+      "A": "Positive",
+      "B": "Negative",
+      "C": "Zero",
+      "D": "Independent of temperature"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The phenomenon where neutron absorption resonance peaks become shorter and wider with increasing fuel temperature is known as the:",
+    "choices": {
+      "A": "Moderator effect",
+      "B": "Void effect",
+      "C": "Doppler broadening",
+      "D": "Fission product poisoning"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a thermal reactor, the nuclear Doppler effect leads to an increase in resonance absorption with increasing fuel temperature. This occurs because the increased thermal motion of fuel nuclei causes:",
+    "choices": {
+      "A": "The total area under the resonance to increase, increasing absorption.",
+      "B": "The resonance to broaden, leading to an increase in the average neutron flux within the resonance energy range.",
+      "C": "The scattering cross-section to increase, slowing down more neutrons into resonances.",
+      "D": "The fission cross-section to increase at resonance energies."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a thermal reactor utilizing a liquid moderator/coolant, an increase in moderator temperature typically results in some moderator being expelled from the core due to thermal expansion. This expulsion has which of the following effects on the thermal utilization factor (f) and the resonance escape probability (p)?",
+    "choices": {
+      "A": "f decreases, p decreases",
+      "B": "f decreases, p increases",
+      "C": "f increases, p decreases",
+      "D": "f increases, p increases"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a sodium-cooled fast reactor, void formation due to sodium boiling introduces competing effects that influence the void coefficient (\u03b1_v). Which pair of effects correctly describes the primary opposing contributions to \u03b1_v in such a reactor?",
+    "choices": {
+      "A": "Increased thermal absorption (positive \u03b1_v contribution) vs. decreased neutron leakage (negative \u03b1_v contribution).",
+      "B": "Spectrum hardening leading to increased \u03b7 (positive \u03b1_v contribution) vs. increased neutron leakage (negative \u03b1_v contribution).",
+      "C": "Decreased resonance absorption (positive \u03b1_v contribution) vs. increased thermalization (negative \u03b1_v contribution).",
+      "D": "Increased moderation (positive \u03b1_v contribution) vs. decreased fission rate (negative \u03b1_v contribution)."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In a thermal reactor with a liquid moderator, an increase in moderator temperature typically affects the probability that a thermal neutron is absorbed in fuel (f) in which of the following ways?",
+    "choices": {
+      "A": "It increases f.",
+      "B": "It decreases f.",
+      "C": "It has no significant effect on f.",
+      "D": "It initially increases then decreases f."
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is generally considered the most important fission product poison in thermal reactors due to its high thermal absorption cross-section?",
+    "choices": {
+      "A": "Iodine-135",
+      "B": "Cesium-135",
+      "C": "Barium-135",
+      "D": "Xenon-135"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the definition of the void coefficient (\u03b1v) as it relates to reactor physics?",
+    "choices": {
+      "A": "The rate of change of reactor power with respect to void fraction.",
+      "B": "The rate of change of reactivity with respect to void fraction.",
+      "C": "The rate of change of neutron flux with respect to void fraction.",
+      "D": "The rate of change of moderator temperature with respect to void fraction."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a liquid moderator/coolant like water, an increase in temperature causes a decrease in density due to thermal expansion and potential expulsion from the core. How does this decrease in moderator density affect the overall neutron non-leakage probability (P)?",
+    "choices": {
+      "A": "P increases because neutrons diffuse less readily in less dense media.",
+      "B": "P decreases because neutrons diffuse more readily in less dense media.",
+      "C": "P remains constant because the buckling (B\u00b2) is determined by the reactor's physical dimensions.",
+      "D": "The effect on P is negligible compared to the effect on thermal utilization."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a pressurized-water reactor (PWR) with a negative moderator temperature coefficient, how does the reactor automatically respond to a decrease in the electrical load demand from the turbine?",
+    "choices": {
+      "A": "Decreased load leads to increased coolant temperature, which decreases reactivity and reactor power.",
+      "B": "Decreased load leads to decreased coolant temperature, which increases reactivity and reactor power.",
+      "C": "Decreased load leads to increased coolant temperature, which increases reactivity and reactor power.",
+      "D": "Decreased load leads to decreased coolant temperature, which decreases reactivity and reactor power."
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a large sodium-cooled fast reactor, the void coefficient (\u03b1v) can be positive in the central region of the core but negative near the outer edge. Which statement best explains this phenomenon?",
+    "choices": {
+      "A": "Voiding in the center primarily reduces moderation, hardening the neutron spectrum and increasing \u03b7 (neutrons per absorption), which outweighs the increase in leakage. Near the edge, increased leakage from voiding is the dominant negative effect.",
+      "B": "Voiding in the center primarily increases neutron leakage, which is the dominant negative effect. Near the edge, spectrum hardening due to reduced moderation is the dominant positive effect.",
+      "C": "Sodium is a strong neutron absorber in fast reactors, so voiding always increases reactivity by reducing absorption, regardless of location.",
+      "D": "The sign of the void coefficient in fast reactors is solely determined by the fissile fuel composition, not the location of the void."
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary mechanism by which the fission product Xenon-135 affects the reactivity of a nuclear reactor?",
+    "choices": {
+      "A": "It increases neutron production through delayed neutron emission.",
+      "B": "It absorbs thermal neutrons, effectively reducing the neutron population available for fission.",
+      "C": "It acts as a neutron moderator, slowing down fast neutrons.",
+      "D": "It causes swelling and distortion of the fuel elements."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following fission products is stable and acts as a neutron poison?",
+    "choices": {
+      "A": "Xenon-135",
+      "B": "Iodine-135",
+      "C": "Samarium-149",
+      "D": "Promethium-149"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Xenon-135 is produced in a nuclear reactor primarily through which processes?",
+    "choices": {
+      "A": "Only by direct fission yield.",
+      "B": "Only by the decay of Iodine-135.",
+      "C": "By both direct fission yield and the decay of Iodine-135.",
+      "D": "By the decay of Samarium-149."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which significant fission product poison has an equilibrium reactivity worth that is essentially independent of the reactor's thermal neutron flux level?",
+    "choices": {
+      "A": "Xenon-135",
+      "B": "Iodine-135",
+      "C": "Samarium-149",
+      "D": "Cesium-135"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Following the shutdown of a nuclear reactor that was operating at a high power level, how does the concentration of Xenon-135 in the core typically behave over the first 24 hours?",
+    "choices": {
+      "A": "It continuously decreases due to radioactive decay.",
+      "B": "It continuously increases as Iodine-135 decays into Xenon-135.",
+      "C": "It initially increases to a peak concentration and then begins to decrease.",
+      "D": "It remains constant as production and removal mechanisms cease simultaneously."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a typical Uranium-235 fueled thermal reactor operating at equilibrium with a very high thermal neutron flux (significantly greater than the characteristic flux \u03c6_x), approximately what is the maximum percentage of negative reactivity introduced by Xenon-135 poisoning? Assume prompt neutron reproduction factor \u03bd \u2248 2.42 and that resonance escape probability and thermal utilization factor product (p\u03b5) is approximately 1.",
+    "choices": {
+      "A": "-0.4%",
+      "B": "-1.5%",
+      "C": "-2.7%",
+      "D": "-5.0%"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary reason a high-flux nuclear reactor may experience a period, known as deadtime, where it cannot be restarted after a shutdown?",
+    "choices": {
+      "A": "Fuel depletion below the critical mass.",
+      "B": "Positive reactivity insertion from moderator temperature effects.",
+      "C": "Buildup of Xenon-135, causing significant negative reactivity.",
+      "D": "Mechanical failure of control rods preventing withdrawal."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Samarium-149, a significant neutron poison in nuclear reactors, is primarily formed through the decay chain originating from which nuclide produced in fission?",
+    "choices": {
+      "A": "Iodine-135",
+      "B": "Neodymium-149",
+      "C": "Cesium-137",
+      "D": "Strontium-90"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If a nuclear reactor operating at steady state experiences a significant reduction in power, how does the concentration of Xenon-135 typically change?",
+    "choices": {
+      "A": "It decreases due to reduced fission rate.",
+      "B": "It increases due to decreased burnout.",
+      "C": "It remains constant as production and removal rates balance.",
+      "D": "It rapidly decays away, reducing negative reactivity."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Consider Samarium-149 poisoning in a nuclear reactor. Which statement accurately describes its behavior?",
+    "choices": {
+      "A": "Its equilibrium reactivity worth is highly dependent on the operating neutron flux.",
+      "B": "Its concentration decreases immediately after reactor shutdown due to decay.",
+      "C": "The maximum post-shutdown Samarium-149 reactivity depends on the operating flux before shutdown.",
+      "D": "Samarium-149 is effectively removed from the core primarily by radioactive decay."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is a primary characteristic distinguishing 'permanent poisons' from transient fission product poisons like Xenon-135 in a nuclear reactor?",
+    "choices": {
+      "A": "Permanent poisons have very short half-lives and decay quickly after production.",
+      "B": "Permanent poisons are stable or have very long effective half-lives compared to the core lifetime, leading to continuous accumulation.",
+      "C": "Permanent poisons are only produced during reactor shutdown and decay during operation.",
+      "D": "Permanent poisons are removed from the core via control rod insertion or chemical shim."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In nuclear reactor burnup calculations for an initially uniform core, why do numerical methods typically become necessary after the initial time step, rather than relying solely on analytical solutions?",
+    "choices": {
+      "A": "The total reactor power changes unpredictably over time, requiring iterative solutions.",
+      "B": "The spatial distribution of fuel, fertile material, and poisons becomes non-uniform due to the shape of the neutron flux.",
+      "C": "The neutron cross-sections of the core materials change drastically and non-linearly with burnup.",
+      "D": "Control rod positions are constantly adjusted during operation, which cannot be modeled analytically."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which pair of fission products are considered major poisons in a nuclear reactor due to their high neutron absorption cross-sections and accumulation characteristics?",
+    "choices": {
+      "A": "Iodine-131 and Cesium-137",
+      "B": "Strontium-90 and Krypton-85",
+      "C": "Xenon-135 and Samarium-149",
+      "D": "Tritium and Carbon-14"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Fission products that are either stable or have very long effective half-lives compared to the reactor core lifetime are typically referred to as:",
+    "choices": {
+      "A": "Transient poisons",
+      "B": "Saturating poisons",
+      "C": "Permanent poisons",
+      "D": "Burnable poisons"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a Pressurized Water Reactor (PWR) utilizing a chemical shim system (boron in the coolant) for control, how does the critical boron concentration typically change over the operating lifetime of a core after the initial startup adjustments?",
+    "choices": {
+      "A": "It increases steadily.",
+      "B": "It decreases steadily.",
+      "C": "It remains constant.",
+      "D": "It fluctuates randomly."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a reactor core, how does the spatial distribution of neutron flux typically change over core life due to fuel burnup and poison accumulation, assuming the reactor operates at constant power?",
+    "choices": {
+      "A": "The flux becomes more peaked in the center.",
+      "B": "The flux becomes flatter across the core.",
+      "C": "The flux profile remains unchanged.",
+      "D": "The flux decreases uniformly throughout the core."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculations that predict the changes in reactor core properties over time, such as fuel depletion, fertile material conversion, and poison accumulation, are commonly known as:",
+    "choices": {
+      "A": "Thermal-hydraulic analysis",
+      "B": "Neutron transport calculations",
+      "C": "Burnup or lifetime calculations",
+      "D": "Reactor kinetics analysis"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a PWR controlled by chemical shim, burnable poisons are often used in fresh fuel. What is a primary reason for using burnable poisons in this type of reactor control system?",
+    "choices": {
+      "A": "To increase the initial excess reactivity of the core.",
+      "B": "To counteract the positive reactivity insertion from control rod withdrawal.",
+      "C": "To reduce the required initial boron concentration, helping to ensure a negative moderator temperature coefficient.",
+      "D": "To increase the production of plutonium-239."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  }
+]

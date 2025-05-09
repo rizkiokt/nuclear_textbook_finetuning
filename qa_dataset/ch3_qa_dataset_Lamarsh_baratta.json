@@ -1,0 +1,662 @@
+[
+  {
+    "question": "Neutrons interact directly with which part of an atom?",
+    "choices": {
+      "A": "Electrons",
+      "B": "Nucleus",
+      "C": "Protons",
+      "D": "Neutrons"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the standard unit used to express microscopic nuclear cross-sections?",
+    "choices": {
+      "A": "cm\u00b2/sec",
+      "B": "barn",
+      "C": "cm\u207b\u00b9",
+      "D": "MeV"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The sum of the cross-sections for all possible interactions between a neutron and a nucleus is known as the:",
+    "choices": {
+      "A": "Absorption cross-section",
+      "B": "Scattering cross-section",
+      "C": "Fission cross-section",
+      "D": "Total cross-section"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A material has an atom density of 0.080 x 10\u00b2\u2074 atoms/cm\u00b3 and a total microscopic cross-section of 2.6 barns. What is the macroscopic total cross-section for this material?",
+    "choices": {
+      "A": "0.0208 cm\u207b\u00b9",
+      "B": "0.208 cm\u207b\u00b9",
+      "C": "2.08 cm\u207b\u00b9",
+      "D": "20.8 cm\u207b\u00b9"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The macroscopic total cross-section for neutrons in a specific material is 0.0864 cm\u207b\u00b9. What is the mean free path of neutrons in this material?",
+    "choices": {
+      "A": "0.0864 cm",
+      "B": "1.16 cm",
+      "C": "11.6 cm",
+      "D": "116 cm"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A neutron beam with an intensity of 5 x 10\u2078 neutrons/cm\u00b2-sec and a cross-sectional area of 0.1 cm\u00b2 strikes a thin target. The target material has an atom density of 0.080 x 10\u00b2\u2074 atoms/cm\u00b3 and a total microscopic cross-section of 2.6 barns. If the target is 0.05 cm thick, at what rate do neutron interactions occur in the target?",
+    "choices": {
+      "A": "5.2 x 10\u2074 interactions/sec",
+      "B": "5.2 x 10\u2075 interactions/sec",
+      "C": "5.2 x 10\u2076 interactions/sec",
+      "D": "5.2 x 10\u2077 interactions/sec"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The relationship between the neutron mean free path (\u03bb) and the total macroscopic cross-section (\u03a3\u209c) in a material is given by:",
+    "choices": {
+      "A": "\u03bb = \u03a3\u209c",
+      "B": "\u03bb = 1/\u03a3\u209c",
+      "C": "\u03bb = \u03a3\u209c\u00b2",
+      "D": "\u03bb = 1/\u03a3\u209c\u00b2"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For monoenergetic neutrons, the neutron flux (\u03d5) is defined as the product of:",
+    "choices": {
+      "A": "Neutron density and macroscopic cross-section",
+      "B": "Neutron intensity and neutron speed",
+      "C": "Neutron density and neutron speed",
+      "D": "Macroscopic cross-section and neutron speed"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The intensity of a monoenergetic, monodirectional neutron beam that has not collided after penetrating a distance 'x' into a material decreases exponentially with distance according to which factor?",
+    "choices": {
+      "A": "e^(\u03a3\u209cx)",
+      "B": "e^(-\u03a3\u209cx)",
+      "C": "\u03a3\u209cx",
+      "D": "1/(\u03a3\u209cx)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A material has a total macroscopic cross-section of 0.25 cm\u207b\u00b9. If a neutron flux of 5 x 10\u2079 neutrons/cm\u00b2-sec is present in this material, what is the collision density (collisions/cm\u00b3-sec)?",
+    "choices": {
+      "A": "1.25 x 10\u2079",
+      "B": "2.0 x 10\u2079",
+      "C": "1.25 x 10\u00b9\u2070",
+      "D": "2.0 x 10\u00b9\u2070"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A material is composed of two isotopes, X and Y, with atom densities of N\u2093 atoms/cm\u00b3 and N\u1d67 atoms/cm\u00b3, respectively. The absorption cross-sections for isotopes X and Y at a specific energy are \u03c3\u2093 barns and \u03c3\u1d67 barns. What is the total macroscopic absorption cross-section (\u03a3\u2090) of the mixture at this energy? (Note: 1 barn = 10\u207b\u00b2\u2074 cm\u00b2)",
+    "choices": {
+      "A": "N\u2093\u03c3\u2093 + N\u1d67\u03c3\u1d67",
+      "B": "(N\u2093\u03c3\u2093 + N\u1d67\u03c3\u1d67) \u00d7 10\u00b2\u2074",
+      "C": "N\u2093\u03c3\u2093 \u00d7 10\u207b\u00b2\u2074 + N\u1d67\u03c3\u1d67 \u00d7 10\u207b\u00b2\u2074",
+      "D": "(N\u2093 + N\u1d67)(\u03c3\u2093 + \u03c3\u1d67) \u00d7 10\u207b\u00b2\u2074"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The probability p(x)dx that a neutron will have its first collision in the distance interval dx around distance x is given by \u03a3\u209ce^(-\u03a3\u209cx) dx. Based on this probability distribution, what is the physical meaning of the quantity 1/\u03a3\u209c?",
+    "choices": {
+      "A": "The maximum distance a neutron can travel without a collision",
+      "B": "The distance at which the probability of a collision becomes zero",
+      "C": "The average distance a neutron travels between collisions",
+      "D": "The distance at which half of the neutrons have collided"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are the two primary steps involved when a neutron interacts with a nucleus via compound nucleus formation?",
+    "choices": {
+      "A": "The neutron is absorbed, and then the nucleus fissions.",
+      "B": "The neutron scatters elastically, and then scatters inelastically.",
+      "C": "The incident neutron coalesces with the target nucleus to form a compound nucleus, which then decays.",
+      "D": "The target nucleus emits a gamma ray upon impact, followed by neutron scattering."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For most nuclei at low neutron energies, the radiative capture cross-section typically exhibits a dependence on the neutron energy (E) that is proportional to:",
+    "choices": {
+      "A": "E",
+      "B": "1/E",
+      "C": "\u221aE",
+      "D": "1/\u221aE"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "As the mass number of the target nucleus increases, how does the average fractional energy loss of a neutron in an elastic collision generally change?",
+    "choices": {
+      "A": "It increases.",
+      "B": "It decreases.",
+      "C": "It remains constant.",
+      "D": "It becomes zero."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following light nuclei is particularly effective at absorbing low-energy neutrons due to a large exothermic charged-particle reaction cross-section that exhibits 1/v behavior?",
+    "choices": {
+      "A": "Carbon-12",
+      "B": "Oxygen-16",
+      "C": "Boron-10",
+      "D": "Deuterium"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In nuclear engineering calculations, the quantity known as 'lethargy' (u) is defined in terms of the neutron energy (E) and an arbitrary reference energy (EM) as:",
+    "choices": {
+      "A": "u = EM / E",
+      "B": "u = ln(E / EM)",
+      "C": "u = ln(EM / E)",
+      "D": "u = E - EM"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A neutron with initial energy E undergoes an elastic collision with a nucleus of mass number A. If the neutron is scattered directly backward (scattering angle \u03b8 = \u03c0), what is the kinetic energy of the scattered neutron (E')?",
+    "choices": {
+      "A": "E' = ((A+1)/(A-1))\u00b2 * E",
+      "B": "E' = ((A-1)/(A+1))\u00b2 * E",
+      "C": "E' = (A-1)/(A+1) * E",
+      "D": "E' = (A+1)/(A-1) * E"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The absorption cross-section for a specific nuclide exhibits a 1/v dependence at low neutron energies. If the absorption cross-section is 0.332 barns at a neutron energy of 0.0253 eV, what is the absorption cross-section for this nuclide at a neutron energy of 1 eV?",
+    "choices": {
+      "A": "0.332 b",
+      "B": "0.166 b",
+      "C": "0.0528 b",
+      "D": "1.000 b"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a material exhibiting 1/v absorption at thermal energies, the absorption rate is often calculated using the 2200 meters-per-second flux. How is the 2200 meters-per-second flux defined?",
+    "choices": {
+      "A": "The integral of n(E)v(E) over all energies in the spectrum.",
+      "B": "The product of the total thermal neutron density and the speed corresponding to 0.0253 eV.",
+      "C": "The neutron intensity specifically at the energy of 0.0253 eV.",
+      "D": "The macroscopic absorption cross-section at 0.0253 eV multiplied by the average neutron speed."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In elastic scattering collisions, which type of target nucleus is generally most effective at slowing down fast neutrons?",
+    "choices": {
+      "A": "Nuclei with a high atomic mass number (A).",
+      "B": "Nuclei with a low atomic mass number (A).",
+      "C": "Nuclei that have significant inelastic scattering cross-sections.",
+      "D": "Nuclei that have resonances in their total cross-section at high energies."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A 1 MeV neutron undergoes an elastic scattering collision with a deuterium nucleus (atomic mass number A = 2). If the neutron is scattered at an angle of 45 degrees in the laboratory frame, what is the kinetic energy of the scattered neutron?",
+    "choices": {
+      "A": "1.000 MeV",
+      "B": "0.738 MeV",
+      "C": "0.500 MeV",
+      "D": "0.262 MeV"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When calculating the absorption rate for a non-1/v absorber in a thermal neutron spectrum, an additional factor is required compared to a pure 1/v absorber calculation using the 2200 m/s flux. What is this factor called?",
+    "choices": {
+      "A": "The collision parameter (\u03b1).",
+      "B": "The average change in lethargy (\u03be).",
+      "C": "The non-1/v factor (ga).",
+      "D": "The resonance escape probability (p)."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Approximately how many elastic scattering collisions are required, on average, for a fast neutron to slow down from an energy of 1 MeV to thermal energy (0.025 eV) in a medium composed solely of deuterium (atomic mass number A=2)?",
+    "choices": {
+      "A": "Around 6 collisions.",
+      "B": "Around 18 collisions.",
+      "C": "Around 30 collisions.",
+      "D": "Around 100 collisions."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "At what standard energy are thermal neutron absorption cross-sections typically specified for tabulation?",
+    "choices": {
+      "A": "1 MeV",
+      "B": "0.1 eV",
+      "C": "0.0253 eV",
+      "D": "2200 m/s"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a nuclear material exhibiting 1/v absorption characteristics at low energies, how does the absorption rate per unit volume primarily depend on the energy distribution of the incident thermal neutrons?",
+    "choices": {
+      "A": "It is directly proportional to the average neutron energy.",
+      "B": "It is inversely proportional to the square root of the average neutron energy.",
+      "C": "It is independent of the specific energy distribution of the neutrons.",
+      "D": "It is proportional to the most probable neutron speed in the distribution."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following isotopes is classified as fissile, meaning it can be fissioned by absorbing a neutron with essentially zero kinetic energy?",
+    "choices": {
+      "A": "Uranium-238",
+      "B": "Thorium-232",
+      "C": "Plutonium-239",
+      "D": "Uranium-236"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Based on the liquid drop model and the semi-empirical mass formula, the primary reason for the decrease in binding energy per nucleon for very heavy nuclei (A > ~50) and the tendency towards fission is that:",
+    "choices": {
+      "A": "The asymmetry term becomes increasingly dominant.",
+      "B": "The surface tension term significantly increases.",
+      "C": "The attractive strong nuclear force weakens with increasing A.",
+      "D": "The repulsive Coulomb term increases faster than the attractive volume term."
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When a neutron is absorbed by a nucleus, the resulting compound nucleus is formed in an excited state. If the binding energy of the absorbed neutron alone is less than the critical energy required for the compound nucleus to fission, what additional condition is necessary for induced fission to occur?",
+    "choices": {
+      "A": "The nucleus must have an odd number of neutrons.",
+      "B": "The incident neutron must possess sufficient kinetic energy.",
+      "C": "The nucleus must be cooled to cryogenic temperatures.",
+      "D": "The neutron must be absorbed via an inelastic scattering process."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A small Indium sample is placed in a thermal neutron field where the 2200 m/s flux is 5 x 10^12 neutrons/cm^2-sec. The neutron energy distribution is Maxwellian with a temperature of 600\u00b0C. Given that the macroscopic absorption cross-section for Indium at 0.0253 eV is 7.43 cm^-1 and the non-1/v factor (ga) for Indium at 600\u00b0C is 1.15, calculate the thermal neutron absorption rate per cm^3 in the Indium sample.",
+    "choices": {
+      "A": "7.43 x 10^12 neutrons/cm^3-sec",
+      "B": "5.00 x 10^12 neutrons/cm^3-sec",
+      "C": "4.27 x 10^13 neutrons/cm^3-sec",
+      "D": "8.55 x 10^12 neutrons/cm^3-sec"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What characteristic defines a fissile nucleus?",
+    "choices": {
+      "A": "It fissions only with fast neutrons.",
+      "B": "It fissions readily upon absorption of a zero-energy (thermal) neutron.",
+      "C": "It can be used as fertile material.",
+      "D": "It has a high scattering cross-section."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following isotopes is typically classified as fissile?",
+    "choices": {
+      "A": "Uranium-238",
+      "B": "Thorium-232",
+      "C": "Plutonium-239",
+      "D": "Lead-208"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The vast majority of neutrons released during a nuclear fission event are known as:",
+    "choices": {
+      "A": "Thermal neutrons",
+      "B": "Delayed neutrons",
+      "C": "Prompt neutrons",
+      "D": "Resonance neutrons"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Compared to the fission cross-section of Uranium-238, the fission cross-section of Uranium-235 at low neutron energies is typically:",
+    "choices": {
+      "A": "Zero below a threshold energy.",
+      "B": "Relatively smooth across all energies.",
+      "C": "Much larger and exhibits a 1/v dependence.",
+      "D": "Dominated by elastic scattering resonances."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The parameter \u03b7 (eta) for a fissile nucleus is defined as the number of neutrons released in fission per neutron absorbed. How is \u03b7 related to \u03bd (nu), the average number of neutrons released per fission, and the capture-to-fission ratio \u03b1 (alpha = \u03c3_\u03b3 / \u03c3_f)?",
+    "choices": {
+      "A": "\u03b7 = \u03bd * \u03b1",
+      "B": "\u03b7 = \u03bd / \u03b1",
+      "C": "\u03b7 = \u03bd * (1 + \u03b1)",
+      "D": "\u03b7 = \u03bd / (1 + \u03b1)"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A nuclear reactor operates at a constant power of 50 MW for 30 days. Using the approximate formula for total fission product activity, Activity \u2248 1.4 \u00d7 10\u2076 P [t\u207b\u2070.\u00b2 - (t + T)\u207b\u2070.\u00b2] Ci, where P is power in MW, T is operating time in days, and t is time after shutdown in days, estimate the total activity (in Curies) of the accumulated fission products 7 days after shutdown.",
+    "choices": {
+      "A": "1.4 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - 37\u207b\u2070.\u00b2]",
+      "B": "0.28 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - 37\u207b\u2070.\u00b2]",
+      "C": "1.4 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - (7+30)\u207b\u2070.\u00b2]",
+      "D": "0.28 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - (7+30)\u207b\u2070.\u00b2]"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the approximate recoverable energy released per fission of 235U?",
+    "choices": {
+      "A": "12 MeV",
+      "B": "5 MeV",
+      "C": "200 MeV",
+      "D": "168 MeV"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Excessively neutron-rich fission products primarily decay by emitting which type of radiation?",
+    "choices": {
+      "A": "Alpha particles",
+      "B": "Negative beta particles",
+      "C": "Positrons",
+      "D": "Neutrons"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the approximate average energy of prompt neutrons released in 235U fission?",
+    "choices": {
+      "A": "0.73 MeV",
+      "B": "1.98 MeV",
+      "C": "5 MeV",
+      "D": "12 MeV"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Using the thermal neutron data for 235U, what is the capture-to-fission ratio (\u03b1)?",
+    "choices": {
+      "A": "0.0899",
+      "B": "0.169",
+      "C": "0.362",
+      "D": "0.365"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Approximately how much 235U undergoes fission per day in a reactor operating at a steady thermal power of 50 MW?",
+    "choices": {
+      "A": "1.05 g",
+      "B": "50 g",
+      "C": "52.5 g",
+      "D": "123 g"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Based on the provided data for thermal fission in 235U, what is the approximate fraction of all fission neutrons that are emitted as prompt neutrons?",
+    "choices": {
+      "A": "0.0065",
+      "B": "0.9935",
+      "C": "0.9993",
+      "D": "0.0158"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the approximate recoverable energy per fission event in a 235U fueled thermal reactor?",
+    "choices": {
+      "A": "168 MeV",
+      "B": "200 MeV",
+      "C": "207 MeV",
+      "D": "12 MeV"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which type of neutron emitted during nuclear fission plays a crucial role in the control of nuclear reactors?",
+    "choices": {
+      "A": "Prompt neutrons",
+      "B": "Delayed neutrons",
+      "C": "Thermal neutrons",
+      "D": "Fast neutrons"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following gamma-ray interaction processes has a minimum energy threshold of 1.02 MeV?",
+    "choices": {
+      "A": "Photoelectric effect",
+      "B": "Compton scattering",
+      "C": "Pair production",
+      "D": "Annihilation radiation"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A nuclear reactor fueled by 235U operates at a thermal power of 500 MW. Assuming a recoverable energy per fission of 200 MeV, what is the approximate rate at which 235U nuclei undergo fission per day?",
+    "choices": {
+      "A": "1.35 x 10^24 fissions/day",
+      "B": "2.70 x 10^21 fissions/day",
+      "C": "5.40 x 10^23 fissions/day",
+      "D": "1.05 x 10^3 g/day"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For gamma-ray interactions with lead, which interaction process is typically the most dominant mode of interaction in the energy range from approximately 0.5 MeV to 5 MeV?",
+    "choices": {
+      "A": "Photoelectric effect",
+      "B": "Compton scattering",
+      "C": "Pair production",
+      "D": "Neutron capture"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider the dependence of gamma-ray interaction cross-sections on the atomic number (Z) of the interacting material. How do the photoelectric effect and pair production cross-sections generally vary with Z?",
+    "choices": {
+      "A": "Photoelectric varies approximately as Z^2, Pair Production varies approximately as Z^4-5.",
+      "B": "Photoelectric varies approximately as Z^4-5, Pair Production varies approximately as Z^2.",
+      "C": "Both vary approximately linearly with Z.",
+      "D": "Both are largely independent of Z."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the minimum energy required for a photon to undergo pair production?",
+    "choices": {
+      "A": "0.511 MeV",
+      "B": "1.02 MeV",
+      "C": "2.04 MeV",
+      "D": "0 MeV"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which gamma-ray interaction process is typically of greatest importance for heavier atoms, such as lead, especially at lower photon energies?",
+    "choices": {
+      "A": "Compton Scattering",
+      "B": "Pair Production",
+      "C": "Photoelectric Effect",
+      "D": "Bremsstrahlung"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What type of radiation is produced when a positron and an electron (negatron) annihilate?",
+    "choices": {
+      "A": "Alpha radiation",
+      "B": "Bremsstrahlung",
+      "C": "Annihilation radiation",
+      "D": "Neutron radiation"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a material like lead, which gamma-ray interaction process is dominant in the energy range from approximately 0.5 MeV to 5 MeV?",
+    "choices": {
+      "A": "Photoelectric Effect",
+      "B": "Pair Production",
+      "C": "Compton Scattering",
+      "D": "Nuclear Reactions"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A monoenergetic gamma-ray beam with initial intensity I\u2080 is incident normally on a target of thickness X and density \u03c1. If the mass attenuation coefficient of the target material is (\u03bc/\u03c1), what is the intensity of the uncollided photons transmitted through the target?",
+    "choices": {
+      "A": "I = I\u2080 exp[-(\u03bc/\u03c1)X]",
+      "B": "I = I\u2080 exp[-(\u03bc/\u03c1)\u03c1X]",
+      "C": "I = I\u2080 (\u03bc/\u03c1)\u03c1X",
+      "D": "I = I\u2080 / exp[-(\u03bc/\u03c1)\u03c1X]"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the energy range where Compton scattering is the dominant interaction process for gamma rays, how does the mass attenuation coefficient (\u03bc/\u03c1) generally compare for different elements (excluding hydrogen and very heavy elements)?",
+    "choices": {
+      "A": "It is significantly higher for elements with higher atomic numbers.",
+      "B": "It is significantly lower for elements with higher atomic numbers.",
+      "C": "It tends to be roughly the same for most elements.",
+      "D": "It varies approximately as the square of the atomic number (Z\u00b2)."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which type of radiation is classified as directly ionizing?",
+    "choices": {
+      "A": "Gamma rays",
+      "B": "Neutrons",
+      "C": "Alpha particles",
+      "D": "X-rays"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The mean free path of a gamma ray in a medium is defined as the reciprocal of which quantity?",
+    "choices": {
+      "A": "Mass attenuation coefficient",
+      "B": "Linear attenuation coefficient",
+      "C": "Mass absorption coefficient",
+      "D": "Linear absorption coefficient"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "As an alpha particle approaches the end of its path in a medium, its specific ionization typically:",
+    "choices": {
+      "A": "Decreases to zero gradually",
+      "B": "Stays constant until it stops",
+      "C": "Increases to a maximum before dropping to zero",
+      "D": "Fluctuates randomly"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "To calculate the mass attenuation coefficient for a mixture of elements, given the mass attenuation coefficients and weight percentages of the individual elements, one should use:",
+    "choices": {
+      "A": "The sum of the individual mass attenuation coefficients.",
+      "B": "The product of the individual mass attenuation coefficients.",
+      "C": "A weighted average of the individual mass attenuation coefficients, where the weights are the percent by weight of each element.",
+      "D": "A weighted average of the individual mass attenuation coefficients, where the weights are the atomic fractions of each element."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A beam of monoenergetic photons passes through a material layer whose thickness is equal to the photon's mean free path. What fraction of the incident photons is expected to pass through the layer without undergoing any interaction?",
+    "choices": {
+      "A": "Approximately 63.2%",
+      "B": "Approximately 36.8%",
+      "C": "Approximately 50.0%",
+      "D": "Approximately 13.5%"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Estimate the maximum range in g/cm\u00b2 for a beta particle with a maximum energy of 3.0 MeV in a material using the appropriate empirical formula.",
+    "choices": {
+      "A": "~0.62 g/cm\u00b2",
+      "B": "~0.70 g/cm\u00b2",
+      "C": "~1.48 g/cm\u00b2",
+      "D": "~1.60 g/cm\u00b2"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  }
+]

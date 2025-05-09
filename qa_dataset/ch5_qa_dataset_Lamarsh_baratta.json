@@ -1,0 +1,332 @@
+[
+  {
+    "question": "In nuclear reactor design, predicting the distribution of neutrons throughout the system is essential. The overall effect of repeated nuclear collisions on neutron movement is often approximated as a type of:",
+    "choices": {
+      "A": "Radioactive decay",
+      "B": "Nuclear fission",
+      "C": "Neutron diffusion",
+      "D": "Gamma ray scattering"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In neutron diffusion theory, the neutron flux is typically defined as the product of the neutron density and the neutron speed. What are the common units for neutron flux?",
+    "choices": {
+      "A": "neutrons/cm\u00b3",
+      "B": "neutrons/sec",
+      "C": "neutrons/cm\u00b2-sec",
+      "D": "cm\u207b\u00b9"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to Fick's Law as applied in neutron diffusion theory, the neutron current density vector is proportional to the negative gradient of which scalar quantity?",
+    "choices": {
+      "A": "Neutron density",
+      "B": "Macroscopic absorption cross-section",
+      "C": "Neutron flux",
+      "D": "Diffusion coefficient"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The diffusion coefficient (D) is a key parameter in neutron diffusion theory. Based on its definition relating neutron current density and flux gradient (J = -D grad \u03c6), what are the typical units for the diffusion coefficient in neutron diffusion problems?",
+    "choices": {
+      "A": "cm\u00b2/sec",
+      "B": "cm\u207b\u00b9",
+      "C": "cm",
+      "D": "neutrons/cm\u00b3"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The steady-state neutron continuity equation relates the rate of neutron leakage, absorption, and production per unit volume. Which term in this equation represents the rate at which neutrons are absorbed per unit volume?",
+    "choices": {
+      "A": "The divergence of the neutron current density",
+      "B": "The product of the macroscopic absorption cross-section and the neutron flux",
+      "C": "The neutron source rate per unit volume",
+      "D": "The time rate of change of neutron density"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Neutron diffusion theory provides a useful approximation for calculating neutron distributions in a reactor. However, this approximation has limitations. Under which of the following conditions is the neutron diffusion approximation generally considered NOT valid?",
+    "choices": {
+      "A": "In a medium where scattering is primarily isotropic.",
+      "B": "In regions far from strong neutron sources or material boundaries.",
+      "C": "When the medium strongly absorbs neutrons.",
+      "D": "For problems involving time-independent neutron distributions."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "According to the equation of continuity for neutrons, the time rate of change in the number of neutrons within a volume must be accounted for by which of the following processes?",
+    "choices": {
+      "A": "Radioactive decay of neutrons only.",
+      "B": "The net flow of neutrons into or out of the volume, absorption within the volume, and production from sources within the volume.",
+      "C": "Elastic and inelastic scattering events.",
+      "D": "Only absorption and fission events within the volume."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In neutron diffusion theory, the quantity L\u00b2, known as the diffusion area, is defined in terms of the diffusion coefficient (D) and the macroscopic absorption cross-section (\u03a3a). What is the correct definition of L\u00b2?",
+    "choices": {
+      "A": "L\u00b2 = D * \u03a3a",
+      "B": "L\u00b2 = \u03a3a / D",
+      "C": "L\u00b2 = D / \u03a3a",
+      "D": "L\u00b2 = 1 / (D * \u03a3a)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When applying boundary conditions at an interface between two different diffusing media, which two quantities must be continuous across the boundary?",
+    "choices": {
+      "A": "Neutron density and the diffusion coefficient.",
+      "B": "Neutron flux and the diffusion coefficient.",
+      "C": "Neutron density and the neutron current density vector.",
+      "D": "Neutron flux and the component of the neutron current density vector normal to the surface."
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The steady-state neutron diffusion equation for a medium with a constant diffusion coefficient D and a neutron source s is given by D\u2207\u00b2\u03c6 - \u03a3a\u03c6 + s = 0. How is this equation typically written when divided by the diffusion coefficient D, and using the definition of the diffusion length L?",
+    "choices": {
+      "A": "\u2207\u00b2\u03c6 - (1/L\u00b2)\u03c6 + s/D = 0",
+      "B": "\u2207\u00b2\u03c6 + (1/L\u00b2)\u03c6 - s/D = 0",
+      "C": "\u2207\u00b2\u03c6 - L\u00b2\u03c6 + sD = 0",
+      "D": "\u2207\u00b2\u03c6 + L\u00b2\u03c6 - sD = 0"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Fick's law and diffusion theory are approximations used in neutron transport. Under which of the following conditions are these approximations generally considered less accurate?",
+    "choices": {
+      "A": "In regions far from neutron sources and material boundaries.",
+      "B": "In a medium where neutron scattering is predominantly isotropic.",
+      "C": "Within a few mean free paths of a neutron source or the surface of a medium.",
+      "D": "In a large, weakly absorbing medium."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For an infinite medium containing a point source emitting S neutrons/sec at the origin, the neutron flux at a distance r is given by \u03c6(r) = (S/(4\u03c0Dr))e^(-r/L). Based on this flux solution and Fick's Law (J = -D\u2207\u03c6), what is the limiting value of r\u00b2 times the magnitude of the neutron current density, |J|, as the distance r approaches zero?",
+    "choices": {
+      "A": "S/(4\u03c0D)",
+      "B": "S/(4\u03c0)",
+      "C": "S",
+      "D": "0"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are the primary interface boundary conditions that must be satisfied for neutron flux and current density at the boundary between two different diffusing regions?",
+    "choices": {
+      "A": "The neutron flux must be zero, and the normal component of the neutron current must be continuous.",
+      "B": "The neutron flux must be continuous, and the normal component of the neutron current must be zero.",
+      "C": "The neutron flux must be continuous, and the normal component of the neutron current must be continuous.",
+      "D": "The neutron flux must be zero, and the normal component of the neutron current must be zero."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of neutron diffusion theory in a source-free, infinite, homogeneous medium, what is the general form of the one-dimensional differential equation governing the neutron flux, \\phi(x), where L is the diffusion length?",
+    "choices": {
+      "A": "\\frac{d^2\\phi}{dx^2} + \\frac{1}{L^2}\\phi = 0",
+      "B": "\\frac{d\\phi}{dx} - L^2\\phi = 0",
+      "C": "\\frac{d^2\\phi}{dx^2} - \\frac{1}{L^2}\\phi = 0",
+      "D": "\\frac{d\\phi}{dx} + L\\phi = 0"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the group-diffusion method, the neutron flux for a specific energy group, denoted as \\phi_g, is defined as:",
+    "choices": {
+      "A": "The total number of neutrons in that energy group.",
+      "B": "The average energy of neutrons within the group's energy range.",
+      "C": "The integral of the energy-dependent neutron flux \\phi(E) over the energy range corresponding to group g.",
+      "D": "The average scattering cross-section for neutrons in group g."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For an infinite point source emitting S neutrons per second isotropically in an infinite diffusing medium, the source condition used to determine the constants in the diffusion equation solution involves the limit of the product of the radial distance squared and the neutron current density as the radial distance approaches zero. Which of the following correctly represents this source condition?",
+    "choices": {
+      "A": "\\lim_{r\\to 0} J(r) = \\frac{S}{4\\pi}",
+      "B": "\\lim_{r\\to 0} r J(r) = \\frac{S}{4\\pi}",
+      "C": "\\lim_{r\\to 0} r^2 J(r) = \\frac{S}{4\\pi}",
+      "D": "\\lim_{r\\to 0} r^2 \\phi(r) = \\frac{S}{4\\pi D}"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The square of the diffusion length (L^2) in a homogeneous moderating medium is physically interpreted as being proportional to:",
+    "choices": {
+      "A": "The average energy of neutrons at thermal equilibrium.",
+      "B": "The average distance a neutron travels in a straight line before being absorbed.",
+      "C": "The average of the square of the vector distance a neutron travels from its point of emission to its point of absorption.",
+      "D": "The reciprocal of the macroscopic scattering cross-section."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider two identical infinite planar sources, each emitting S neutrons per cm\u00b2 per second, placed symmetrically at x = -a and x = +a in an infinite homogeneous diffusing medium with diffusion coefficient D and diffusion length L. Using the principle of superposition, what is the total neutron flux at the point x = 0, located midway between the two sources?",
+    "choices": {
+      "A": "\\frac{SL}{D} e^{-a/L}",
+      "B": "\\frac{SL}{2D} e^{-a/L}",
+      "C": "\\frac{S}{2D} e^{-a/L}",
+      "D": "\\frac{S}{D} e^{-a/L}"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What does the square of the diffusion length (L\u00b2) represent physically in the context of neutron diffusion?",
+    "choices": {
+      "A": "The average distance a neutron travels before its first collision.",
+      "B": "One-sixth the average of the square of the vector distance a neutron travels from its emission point to its absorption point.",
+      "C": "The average energy lost by a neutron per collision.",
+      "D": "The reciprocal of the macroscopic absorption cross-section."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the group-diffusion method, how is the total absorption rate per unit volume in a specific energy group typically expressed?",
+    "choices": {
+      "A": "The product of the group diffusion coefficient and the group flux gradient.",
+      "B": "The sum of scattering rates into and out of the group.",
+      "C": "The product of the macroscopic group absorption cross-section and the group flux.",
+      "D": "The group source term minus the leakage term."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a slab geometry in neutron diffusion theory, what is a common boundary condition applied to the neutron flux at the extrapolated surfaces?",
+    "choices": {
+      "A": "The flux gradient is zero (symmetric boundary).",
+      "B": "The flux is equal to the source strength.",
+      "C": "The flux is zero.",
+      "D": "The current is zero."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the relationship between the thermal neutron flux (\u03c6T) and the 2200 m/s flux (\u03c60) at a temperature T (in Kelvin), assuming the neutron energy distribution is Maxwellian?",
+    "choices": {
+      "A": "\u03c6T = \u03c60 * (T / 293.61)^0.5",
+      "B": "\u03c60 = \u03c6T * (T / 293.61)^0.5",
+      "C": "\u03c60 = (sqrt(pi)/2) * \u03c6T * (293.61 / T)^0.5",
+      "D": "\u03c6T = (sqrt(pi)/2) * \u03c60 * (293.61 / T)^0.5"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the standard formulation of multi-group diffusion equations for energetic neutrons, scattering is typically assumed to occur only in which direction regarding energy, and how does this assumption change for low thermal neutrons?",
+    "choices": {
+      "A": "Only upscattering for energetic neutrons; only downscattering for thermal neutrons.",
+      "B": "Only downscattering for energetic neutrons; both upscattering and downscattering for low thermal neutrons.",
+      "C": "Isotropic scattering for all energies.",
+      "D": "Scattering is ignored for energetic neutrons but included for thermal neutrons."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a material has a microscopic absorption cross-section \u03c3_a,g for each energy group g and an atom density N, and the group fluxes are \u03c6_g, what is the total neutron absorption rate per unit volume in the material?",
+    "choices": {
+      "A": "\u03a3_g \u03c3_a,g * \u03c6_g",
+      "B": "N * \u03a3_g \u03c3_a,g * \u03c6_g",
+      "C": "\u03a3_g (1/N) * \u03c3_a,g * \u03c6_g",
+      "D": "N / (\u03a3_g \u03c3_a,g * \u03c6_g)"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In the multigroup diffusion approximation, what is the assumed primary direction of neutron energy transfer during scattering between groups?",
+    "choices": {
+      "A": "Upscattering (lower to higher energy)",
+      "B": "Down scattering (higher to lower energy)",
+      "C": "Isotropic scattering (equal probability in all directions)",
+      "D": "Elastic scattering only"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For ordinary water at 20\u00b0C, what is the thermal neutron diffusion length (LT)?",
+    "choices": {
+      "A": "0.16 cm",
+      "B": "2.85 cm",
+      "C": "8.1 cm\u00b2",
+      "D": "0.0197 cm\u207b\u00b9"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a two-group neutron diffusion model used for thermal reactors, which group represents neutrons that are slowing down from fission energies?",
+    "choices": {
+      "A": "The thermal group",
+      "B": "The fast group",
+      "C": "The intermediate group",
+      "D": "The epithermal group"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The thermal diffusion area (L_T\u00b2) of a moderator depends on both density (\u03c1) and absolute temperature (T). For ordinary water, if the temperature changes from a reference temperature T\u2080 to T, the dependence on the temperature ratio (T/T\u2080) in the formula for L_T\u00b2 is raised to which power?",
+    "choices": {
+      "A": "0.470",
+      "B": "0.112",
+      "C": "0.970",
+      "D": "1.0"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The 2200 meters-per-second flux (\u03c6\u2080) is a pseudoflux commonly used in thermal reactor calculations. For what primary purpose is \u03c6\u2080 most useful?",
+    "choices": {
+      "A": "Calculating the total thermal neutron density.",
+      "B": "Determining the spatial distribution of thermal neutrons.",
+      "C": "Computing neutron absorption rates using 0.0253 eV cross-sections.",
+      "D": "Estimating the average energy of thermal neutrons."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The neutron age (\u03c4) is a parameter used in slowing-down theory, often defined as D\u2081/\u03a3\u2081. For fission neutrons in a moderator, what is the physical interpretation of the neutron age?",
+    "choices": {
+      "A": "The average time required for a neutron to slow down to thermal energy.",
+      "B": "The mean free path for scattering in the fast group.",
+      "C": "One-sixth of the mean square distance a neutron travels from its birth as a fast neutron to the point where it slows down to thermal energies.",
+      "D": "The average number of collisions required for a neutron to become thermalized."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  }
+]

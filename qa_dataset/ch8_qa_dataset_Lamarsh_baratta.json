@@ -1,0 +1,475 @@
+[
+  {
+    "question": "What is the primary function of the coolant system in a nuclear reactor operating at steady state?",
+    "choices": {
+      "A": "To absorb excess neutrons",
+      "B": "To maintain the reactor's critical state",
+      "C": "To remove heat generated in the core",
+      "D": "To moderate neutron energy"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What metallurgical consideration places an upper limit on the temperature to which a nuclear fuel rod can safely be raised?",
+    "choices": {
+      "A": "Increased neutron absorption cross-section",
+      "B": "Potential for fuel melting and cladding rupture",
+      "C": "Reduced fuel enrichment",
+      "D": "Decreased coolant flow rate"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which form of energy released during nuclear fission is generally not retained and absorbed within the reactor system?",
+    "choices": {
+      "A": "Kinetic energy of fission fragments",
+      "B": "Gamma rays from fission product decay",
+      "C": "Beta rays from fission product decay",
+      "D": "Neutrinos"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How does the process of heat absorption by the primary coolant typically differ between a Pressurized Water Reactor (PWR) and a Boiling Water Reactor (BWR)?",
+    "choices": {
+      "A": "In a PWR, the coolant undergoes a net phase change; in a BWR, it does not.",
+      "B": "In a BWR, the coolant undergoes a net phase change (boiling); in a PWR, it does not.",
+      "C": "Both PWRs and BWRs involve boiling the primary coolant.",
+      "D": "Neither PWRs nor BWRs involve a phase change in the primary coolant."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a theoretical bare, finite cylindrical thermal reactor with homogeneous fuel distribution, where is the rate of heat production per unit volume typically maximized?",
+    "choices": {
+      "A": "At the outer surface of the core",
+      "B": "Near the reflector boundary",
+      "C": "At the exact center of the core",
+      "D": "Uniformly throughout the core volume"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The maximum volumetric heat production rate (q'''_max) in a reactor core operating at a total power (P) is related to the maximum-to-average flux ratio (Q), the core volume (V), the recoverable energy per fission (ER), and the average macroscopic fission cross-section (\u03a3f). Which of the following relationships is most consistent with the principles governing heat generation?",
+    "choices": {
+      "A": "q'''_max is proportional to P * Q / (\u03a3f * ER * V)",
+      "B": "q'''_max is proportional to (\u03a3f * ER * V) / (P * Q)",
+      "C": "q'''_max is proportional to P * \u03a3f * ER * V * Q",
+      "D": "q'''_max is proportional to P * \u03a3f * ER / (V * Q)"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In a nuclear reactor, where is the majority of the kinetic energy of fission fragments primarily deposited?",
+    "choices": {
+      "A": "Moderator",
+      "B": "Coolant",
+      "C": "Fuel",
+      "D": "Radiation Shield"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Approximately what percentage of the total recoverable energy per fission is deposited locally within the fuel material?",
+    "choices": {
+      "A": "About 50%",
+      "B": "About 70%",
+      "C": "About 90%",
+      "D": "About 100%"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A Boiling Water Reactor (BWR) is operating at a pressure of 6.895 MPa. What is the approximate temperature of the steam produced?",
+    "choices": {
+      "A": "190.6 \u00b0C",
+      "B": "2773.2 \u00b0C",
+      "C": "284.86 \u00b0C",
+      "D": "599.1 \u00b0F"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A reactor core operating at a thermal power of 1,893 MW contains 39,372 fuel rods. Assuming 180 MeV is deposited locally in the fuel per fission and the total recoverable energy per fission is 200 MeV, what is the approximate total heat production rate in a fuel rod located at the axis of the reactor core?",
+    "choices": {
+      "A": "87.9 kW",
+      "B": "100 kW",
+      "C": "343 kW",
+      "D": "482.3 kW"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A Boiling Water Reactor operates at a pressure of 6.895 MPa and produces 2.93 x 10^6 kg of steam per hour. If the enthalpy of the steam is 2773.2 kJ/kg and the enthalpy of the feedwater is 807.8 kJ/kg, what is the thermal power output of the reactor in MW?",
+    "choices": {
+      "A": "807.8 MW",
+      "B": "1599 MW",
+      "C": "2773.2 MW",
+      "D": "5758 MW"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 235U-fueled thermal reactor operates at a constant thermal power of 825 MW for 1.5 years. Using the ratio of fission product decay power to operating power (P(ts)/Po) values corresponding to operating times and cooling times provided in typical calculations for such reactors, estimate the approximate total fission product decay power 1 year after shutdown.",
+    "choices": {
+      "A": "0.132 MW",
+      "B": "11.5 MW",
+      "C": "57.7 MW",
+      "D": "0.00016 MW"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In nuclear fuel elements, what heat transfer mechanism is primarily responsible for moving heat from the interior of a solid fuel rod to its surface?",
+    "choices": {
+      "A": "Convection",
+      "B": "Radiation",
+      "C": "Conduction",
+      "D": "Neutron scattering"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What physical property quantifies a material's ability to transfer heat through conduction?",
+    "choices": {
+      "A": "Specific heat capacity",
+      "B": "Thermal conductivity",
+      "C": "Density",
+      "D": "Viscosity"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a typical thermal reactor operating at steady state, approximately what percentage of the total thermal power is contributed by fission product decay heating after several days of continuous operation?",
+    "choices": {
+      "A": "Less than 1%",
+      "B": "Around 7%",
+      "C": "About 15%",
+      "D": "More than 20%"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a plate-type fuel element with uniform heat generation in the fuel and constant thermal conductivity, the temperature distribution within the fuel region varies with position primarily as a:",
+    "choices": {
+      "A": "Linear function",
+      "B": "Logarithmic function",
+      "C": "Exponential function",
+      "D": "Quadratic (parabolic) function"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A reactor has operated for a prolonged period at a thermal power of 825 MW. Based on typical data for a 235U-fueled thermal reactor, what is the approximate fission product decay power 1 hour after shutdown?",
+    "choices": {
+      "A": "0.13 MW",
+      "B": "1.95 MW",
+      "C": "11.5 MW",
+      "D": "57.7 MW"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider a plate-type fuel element with fuel thickness 2a and cladding thickness h. Assuming uniform volumetric heat generation rate q''' in the fuel, thermal conductivity kf for the fuel, and kc for the cladding (no heat generation in cladding), derive the total heat flow rate per unit area out of one side of the element in terms of the maximum fuel temperature Tm (at the center) and the outer cladding surface temperature Tc.",
+    "choices": {
+      "A": "q'' = (Tm - Tc) / [(a/kf) + (h/kc)]",
+      "B": "q'' = (Tm - Tc) / [(a/2kf) + (h/kc)]",
+      "C": "q'' = (Tm - Tc) / [(a/kf) + (h/2kc)]",
+      "D": "q'' = (Tm - Tc) / [(2a/kf) + (h/kc)]"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are the standard SI units for heat flux?",
+    "choices": {
+      "A": "W/m-K",
+      "B": "Btu/hr-ft\u00b2-\u00b0F",
+      "C": "W/m\u00b2",
+      "D": "Btu/hr-ft-\u00b0F"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the thermal analysis of heat flow through materials in series, the total thermal resistance is analogous to what electrical concept?",
+    "choices": {
+      "A": "Parallel resistance",
+      "B": "Series resistance",
+      "C": "Capacitance",
+      "D": "Inductance"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to Newton's law of cooling, the heat flux (q'') from a solid surface at temperature Tc to a fluid at bulk temperature Tb is proportional to the temperature difference (Tc - Tb) and a coefficient h. What is the relationship?",
+    "choices": {
+      "A": "q'' = h / (Tc - Tb)",
+      "B": "q'' = h * (Tc - Tb)",
+      "C": "q'' = (Tc - Tb) / h",
+      "D": "q'' = h * (Tb - Tc)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When analyzing heat flow through a fuel element consisting of fuel and cladding, the presence of a thin gas-filled gap between the fuel and cladding will generally have what effect on the total thermal resistance compared to perfect contact?",
+    "choices": {
+      "A": "Decrease the total thermal resistance",
+      "B": "Increase the total thermal resistance",
+      "C": "Have no effect on the total thermal resistance",
+      "D": "Make the thermal resistance infinite"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a long cylindrical fuel rod of radius 'a' surrounded by cladding of thickness 'b', the thermal resistance of the fuel (Rf) and the cladding (Rc) from the fuel center to the cladding surface are given by Rf = 1/(4\u03c0Hkf) and Rc = ln(1 + b/a)/(2\u03c0Hkc), where H is the rod length, kf and kc are the thermal conductivities of the fuel and cladding, respectively. What is the total thermal resistance from the fuel center to the cladding surface?",
+    "choices": {
+      "A": "Rf * Rc",
+      "B": "Rf + Rc",
+      "C": "(Rf * Rc) / (Rf + Rc)",
+      "D": "Rf - Rc"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A fuel cladding surface is at a temperature of 650\u00b0F. The bulk coolant temperature is 601\u00b0F. If the heat transfer coefficient between the cladding and the coolant is 7500 BTU/hr-ft\u00b2-\u00b0F, what is the heat flux from the cladding surface?",
+    "choices": {
+      "A": "49 BTU/hr-ft\u00b2",
+      "B": "367500 BTU/hr-ft\u00b2",
+      "C": "45000 BTU/hr-ft\u00b2",
+      "D": "7500 BTU/hr-ft\u00b2"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a nuclear fuel rod with a cosine axial heat generation profile (peaking at the core vertical midpoint, z=0) and coolant flowing upward, the location along the rod where the maximum fuel temperature occurs is typically:",
+    "choices": {
+      "A": "At the core inlet (bottom of the channel)",
+      "B": "Exactly at the core vertical midpoint (z=0)",
+      "C": "At the core outlet (top of the channel)",
+      "D": "Downstream from the core vertical midpoint, but before the outlet"
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which fundamental relation describes the transfer of heat from a heated solid surface to a moving fluid?",
+    "choices": {
+      "A": "Fourier's Law of Conduction",
+      "B": "Fick's Law of Diffusion",
+      "C": "Newton's Law of Cooling",
+      "D": "Stefan-Boltzmann Law of Radiation"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a typical range for the heat transfer coefficient (h) for ordinary or heavy water used as a reactor coolant?",
+    "choices": {
+      "A": "10 - 100 Btu/hr-ft\u00b2-\u00b0F",
+      "B": "4,000 - 50,000 Btu/hr-ft\u00b2-\u00b0F",
+      "C": "5,000 - 8,000 Btu/hr-ft\u00b2-\u00b0F",
+      "D": "20 - 300 kW/m\u00b2 K"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In reactor heat transfer calculations, the reference fluid temperature in Newton's law of cooling is often taken as the mixed mean or bulk temperature. How is the bulk temperature of a fluid defined?",
+    "choices": {
+      "A": "The average temperature across the channel cross-section.",
+      "B": "The maximum temperature in the channel.",
+      "C": "The temperature the fluid would achieve if mixed adiabatically.",
+      "D": "The temperature at the center of the channel."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A reactor fuel rod cladding surface is at 650\u00b0F. The heat flux from the surface is 3.66 x 10\u2075 Btu/hr-ft\u00b2. If the heat transfer coefficient is 7,500 Btu/hr-ft\u00b2-\u00b0F, what is the bulk temperature of the coolant?",
+    "choices": {
+      "A": "543\u00b0F",
+      "B": "601\u00b0F",
+      "C": "626\u00b0F",
+      "D": "650\u00b0F"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The flow characteristics of a fluid in a non-circular coolant channel are often characterized using the equivalent diameter (De). How is the equivalent diameter typically calculated?",
+    "choices": {
+      "A": "De = 4 \u00d7 (Wetted Perimeter / Cross-sectional Area)",
+      "B": "De = (Cross-sectional Area / Wetted Perimeter)",
+      "C": "De = 4 \u00d7 (Cross-sectional Area / Wetted Perimeter)",
+      "D": "De = 4 \u00d7 (Wetted Perimeter \u00d7 Cross-sectional Area)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a reactor coolant channel with non-uniform axial heat production (e.g., a cosine distribution), the maximum fuel and cladding temperatures typically occur beyond the axial midpoint of the fuel. What are the primary reasons for this phenomenon?",
+    "choices": {
+      "A": "The heat flux is highest at the midpoint, causing the temperature difference (Tm - Tb) to be maximum there, while Tb increases.",
+      "B": "The coolant temperature continually increases along the channel, and the heat flux, although decreasing past the midpoint, decreases slowly enough initially that the increasing coolant temperature drives the fuel/cladding temperature higher.",
+      "C": "Turbulent flow causes significant radial temperature gradients, shifting the maximum temperature axially.",
+      "D": "Axial heat conduction in the fuel and cladding shifts the maximum temperature upstream from the peak heat production location."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "As coolant flows along a reactor fuel channel, how does the bulk coolant temperature typically change axially in the non-boiling region?",
+    "choices": {
+      "A": "Decreases",
+      "B": "Remains constant",
+      "C": "Increases",
+      "D": "First decreases then increases"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which characteristic describes turbulent flow in a coolant channel?",
+    "choices": {
+      "A": "Fluid moves primarily parallel to channel walls",
+      "B": "Heat transfer occurs mainly by conduction",
+      "C": "Significant radial velocity fluctuations are present",
+      "D": "Reynolds number is typically below 2000"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What dimensionless parameter is used to characterize the flow regime (laminar or turbulent) of a fluid in a channel?",
+    "choices": {
+      "A": "Nusselt number",
+      "B": "Prandtl number",
+      "C": "Peclet number",
+      "D": "Reynolds number"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a given temperature difference between the cladding and the coolant, a high value of the Reynolds number for a non-metallic coolant generally indicates what regarding heat transfer?",
+    "choices": {
+      "A": "Lower rate of heat flow into the coolant",
+      "B": "Higher value of the heat transfer coefficient",
+      "C": "Fluid is undergoing laminar flow",
+      "D": "Heat transfer is dominated by conduction"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate the equivalent diameter for a coolant channel in a square lattice array of fuel rods with a pitch of 0.60 inches and a fuel rod outer radius of 0.234 inches.",
+    "choices": {
+      "A": "0.450 inches",
+      "B": "0.512 inches",
+      "C": "0.580 inches",
+      "D": "0.650 inches"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How does the temperature distribution across a coolant channel typically differ between a liquid metal coolant and a non-metallic coolant under turbulent flow conditions?",
+    "choices": {
+      "A": "Liquid metals show a steeper temperature drop near the wall and a more uniform core temperature than non-metallic coolants.",
+      "B": "Non-metallic coolants show a steeper temperature drop near the wall and a more uniform core temperature than liquid metals.",
+      "C": "Both coolants show similar temperature distributions with gradual changes across the channel.",
+      "D": "Liquid metals have higher bulk temperatures while non-metallic coolants have higher cladding temperatures."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary mechanism of heat transfer for liquid metal coolants like sodium under turbulent flow conditions in a nuclear reactor channel?",
+    "choices": {
+      "A": "Convection",
+      "B": "Radiation",
+      "C": "Conduction",
+      "D": "Boiling"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of heat transfer from nuclear fuel rods to a liquid coolant, which boiling regime is characterized by the formation of vapor bubbles at the rod surface that condense as they move into the cooler bulk fluid, where the bulk fluid temperature is below saturation?",
+    "choices": {
+      "A": "Saturated Nucleate Boiling",
+      "B": "Subcooled Nucleate Boiling",
+      "C": "Full Film Boiling",
+      "D": "Ordinary Convection"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A high value of the Reynolds number for a coolant flow in a nuclear reactor channel generally indicates:",
+    "choices": {
+      "A": "Laminar flow conditions with low heat transfer coefficient.",
+      "B": "Turbulent flow conditions with low heat transfer coefficient.",
+      "C": "Laminar flow conditions with high heat transfer coefficient.",
+      "D": "Turbulent flow conditions with high heat transfer coefficient."
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The equivalent diameter (De) for coolant flow in a square lattice array of fuel rods with pitch 's' and rod radius 'a' is calculated using the formula:",
+    "choices": {
+      "A": "De = (s\u00b2 - \u03c0a\u00b2) / (\u03c0a)",
+      "B": "De = 2 * (s\u00b2 - \u03c0a\u00b2) / (\u03c0a)",
+      "C": "De = (s - a) / a",
+      "D": "De = 4 * (s\u00b2 - \u03c0a\u00b2) / (\u03c0a)"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For ordinary water, heavy water, organic liquids, and most gases flowing through long straight circular tubes under turbulent conditions, the recommended constants C, m, and n in the correlation h = C * (k/De) * Re^m * Pr^n (known as the Dittus-Boelter form) are:",
+    "choices": {
+      "A": "C=0.023, m=0.8, n=1/3",
+      "B": "C=0.042, m=0.8, n=0.4",
+      "C": "C=0.023, m=0.8, n=0.4",
+      "D": "C=0.026, m=1.0, n=0.4"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider a nuclear reactor coolant channel operating with water under nucleate boiling conditions near the Departure from Nucleate Boiling (DNB) point. If the heat flux from the fuel rods suddenly increases above the critical heat flux (CHF) value, which of the following phenomena is most likely to occur and potentially lead to fuel damage?",
+    "choices": {
+      "A": "The coolant flow will transition to a laminar regime, reducing heat transfer.",
+      "B": "A stable vapor film will form on the rod surface, significantly reducing heat transfer efficiency and causing the rod temperature to rise rapidly.",
+      "C": "The bulk coolant temperature will immediately drop, increasing the margin to saturation.",
+      "D": "The heat transfer coefficient will increase sharply, efficiently removing the excess heat."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  }
+]

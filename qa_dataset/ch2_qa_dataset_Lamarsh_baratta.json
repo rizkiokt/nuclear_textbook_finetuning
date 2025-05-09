@@ -1,0 +1,409 @@
+[
+  {
+    "question": "Which of the following particles are the primary constituents of an atomic nucleus?",
+    "choices": {
+      "A": "Electrons and Photons",
+      "B": "Protons and Neutrons",
+      "C": "Leptons and Hadrons",
+      "D": "Quarks and Gluons"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the approximate rest-mass energy of an electron?",
+    "choices": {
+      "A": "931.5 MeV",
+      "B": "1.602 x 10^-19 J",
+      "C": "0.511 MeV",
+      "D": "12 MeV"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Atoms of the same chemical element that have different numbers of neutrons are known as:",
+    "choices": {
+      "A": "Nuclides",
+      "B": "Isotopes",
+      "C": "Ions",
+      "D": "Molecules"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Using the approximation R = 1.25 fm * A^(1/3) for the nuclear radius, estimate the radius of a nucleus with an atomic mass number (A) of 125.",
+    "choices": {
+      "A": "1.25 fm",
+      "B": "5.0 fm",
+      "C": "6.25 fm",
+      "D": "125 fm"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How many atoms are contained in one gram atomic weight of any substance?",
+    "choices": {
+      "A": "A number known as Avogadro's number",
+      "B": "A number equal to the atomic mass number of the substance",
+      "C": "A number equal to the atomic weight of the substance",
+      "D": "A number that varies depending on the element"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A neutron has a kinetic energy of 5 MeV. Using the classical approximation for neutron speed (v in cm/sec, E in eV: v = 1.383 x 10^6 * sqrt(E)), what is its approximate speed in m/sec?",
+    "choices": {
+      "A": "~1.38 x 10^6 m/sec",
+      "B": "~3.10 x 10^7 m/sec",
+      "C": "~4.37 x 10^7 m/sec",
+      "D": "~1.00 x 10^9 m/sec"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the definition of one atomic mass unit (amu)?",
+    "choices": {
+      "A": "The mass of a single proton.",
+      "B": "The mass of a single neutron.",
+      "C": "One twelfth the mass of a neutral carbon-12 atom.",
+      "D": "The average mass of a hydrogen atom."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the term for the lowest energy state in which an atom is normally found?",
+    "choices": {
+      "A": "Ionized state",
+      "B": "Ground state",
+      "C": "Excited state",
+      "D": "Metastable state"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An alpha particle emitted during radioactive decay consists of which of the following?",
+    "choices": {
+      "A": "One proton and one neutron",
+      "B": "Two protons and two neutrons",
+      "C": "One electron",
+      "D": "A high-energy photon"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the SI unit used to measure the activity of a radioactive sample?",
+    "choices": {
+      "A": "Curie",
+      "B": "Roentgen",
+      "C": "Becquerel",
+      "D": "Sievert"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A photon is emitted from an atom with an energy of 10.19 eV. What is the approximate wavelength of this photon?",
+    "choices": {
+      "A": "1.217 x 10\u207b\u2077 m",
+      "B": "1.240 x 10\u207b\u2076 m",
+      "C": "1.019 x 10\u207b\u2075 m",
+      "D": "8.203 x 10\u207b\u2078 m"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The half-life (T\u2081/\u2082) of a radioactive nuclide is related to its decay constant (\u03bb) by which of the following expressions?",
+    "choices": {
+      "A": "T\u2081/\u2082 = \u03bb / ln(2)",
+      "B": "T\u2081/\u2082 = 1 / \u03bb",
+      "C": "T\u2081/\u2082 = ln(2) / \u03bb",
+      "D": "T\u2081/\u2082 = 0.693 * \u03bb"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When a nucleus in an excited state undergoes internal conversion, which of the following processes subsequently occurs in the atomic electron cloud?",
+    "choices": {
+      "A": "The nucleus emits a gamma ray to fill the electron vacancy.",
+      "B": "An outer electron transitions to fill the inner shell vacancy, possibly followed by x-ray or Auger electron emission.",
+      "C": "The ejected electron causes a chain reaction of ionization.",
+      "D": "The nucleus captures another electron to regain stability."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the definition of the activity of a radioactive sample?",
+    "choices": {
+      "A": "The average energy of emitted particles.",
+      "B": "The probability per unit time that a nucleus will decay.",
+      "C": "The rate at which atoms decay in the sample.",
+      "D": "The total number of undecayed nuclei in the sample."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the standard SI unit for radioactivity?",
+    "choices": {
+      "A": "Curie (Ci)",
+      "B": "Becquerel (Bq)",
+      "C": "Roentgen (R)",
+      "D": "Gray (Gy)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An alpha particle consists of which combination of nucleons?",
+    "choices": {
+      "A": "One proton and one neutron",
+      "B": "Two protons and two neutrons",
+      "C": "One proton and two neutrons",
+      "D": "Two protons and one neutron"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If a radioactive nuclide has a decay constant (\u03bb) of 0.05 hr\u207b\u00b9, what is its half-life (T\u2081/\u2082)?",
+    "choices": {
+      "A": "Approximately 6.93 hours",
+      "B": "Approximately 13.86 hours",
+      "C": "Approximately 20.0 hours",
+      "D": "Approximately 0.072 hours"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the process of electron capture (K-capture), an atomic electron interacts with a proton in the nucleus. What is the primary result within the nucleus?",
+    "choices": {
+      "A": "A proton is converted into a neutron.",
+      "B": "A neutron is converted into a proton.",
+      "C": "A proton is emitted from the nucleus.",
+      "D": "An electron is emitted from the nucleus."
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A nuclear reactor produces a radioactive nuclide at a constant rate R. The nuclide has a decay constant \u03bb. If there were initially no atoms of this nuclide present, what is the number of atoms (n) of this nuclide present after a time t?",
+    "choices": {
+      "A": "n = R\u03bbt",
+      "B": "n = R(1 - e\u207b\u03bbt)",
+      "C": "n = (R/\u03bb) * e\u207b\u03bbt",
+      "D": "n = (R/\u03bb) * (1 - e\u207b\u03bbt)"
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which of the following quantities is always conserved in any nuclear reaction?",
+    "choices": {
+      "A": "Number of protons",
+      "B": "Number of neutrons",
+      "C": "Number of nucleons",
+      "D": "Total kinetic energy"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The difference between the mass of a nucleus and the sum of the masses of its constituent protons and neutrons is called the:",
+    "choices": {
+      "A": "Q-value",
+      "B": "Activity",
+      "C": "Mass defect",
+      "D": "Separation energy"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a radioactive nuclide being produced at a constant rate, what value does the activity approach after a very long time?",
+    "choices": {
+      "A": "Zero",
+      "B": "The initial activity",
+      "C": "The production rate (in equivalent activity units)",
+      "D": "Infinity"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A nuclear reaction with a positive Q-value is classified as:",
+    "choices": {
+      "A": "Endothermic, resulting in a net increase in mass.",
+      "B": "Exothermic, resulting in a net decrease in mass.",
+      "C": "Endothermic, resulting in a net decrease in kinetic energy.",
+      "D": "Exothermic, resulting in a net increase in mass."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Based on the typical binding energy per nucleon curve, which of the following nuclear processes generally releases energy?",
+    "choices": {
+      "A": "Fission of light nuclei (A < 50)",
+      "B": "Fusion of heavy nuclei (A > 150)",
+      "C": "Fission of heavy nuclei (A > 200)",
+      "D": "Alpha decay of nuclei around A = 100"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate the binding energy of the last neutron in a nucleus, given the following neutral atomic masses:\nMass of nucleus (A, Z): 13.00335 amu\nMass of residual nucleus (A-1, Z): 12.00000 amu\nMass of neutron: 1.008665 amu\n(Assume 1 amu = 931.5 MeV)",
+    "choices": {
+      "A": "4.95 MeV",
+      "B": "5.31 MeV",
+      "C": "8.48 MeV",
+      "D": "17.59 MeV"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the approximate binding energy of the deuteron?",
+    "choices": {
+      "A": "1.11 MeV",
+      "B": "2.23 MeV",
+      "C": "8.48 MeV",
+      "D": "15.56 MeV"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Nuclei containing specific numbers of neutrons or protons, such as 2, 8, 20, 50, or 82, exhibit enhanced stability. What are these numbers commonly called?",
+    "choices": {
+      "A": "Atomic numbers",
+      "B": "Isotope numbers",
+      "C": "Magic numbers",
+      "D": "Mass numbers"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which nuclear model is analogous to the electron shells in an atom and is used to explain the stability associated with magic numbers?",
+    "choices": {
+      "A": "Liquid Drop Model",
+      "B": "Collective Model",
+      "C": "Shell Model",
+      "D": "Compound Nucleus Model"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How is the Q value of a nuclear reaction (a + b \u2192 c + d) related to the total binding energies (BE) of the initial and product nuclei?",
+    "choices": {
+      "A": "Q = BE(a) + BE(b) - (BE(c) + BE(d))",
+      "B": "Q = (BE(c) + BE(d)) - (BE(a) + BE(b))",
+      "C": "Q = BE(c) - BE(d) - (BE(a) - BE(b))",
+      "D": "Q = (BE(a) + BE(c)) - (BE(b) + BE(d))"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "According to the Maxwellian energy distribution for particles in a gas, how does the average energy (E) relate to the most probable energy (Ep)?",
+    "choices": {
+      "A": "E = Ep",
+      "B": "E = Ep / 3",
+      "C": "E = 2 * Ep",
+      "D": "E = 3 * Ep"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Based on the typical binding energy per nucleon curve, nuclear fission of a very heavy nucleus releases energy because:",
+    "choices": {
+      "A": "The binding energy per nucleon is lower for the resulting fission products compared to the original heavy nucleus.",
+      "B": "The total binding energy of the heavy nucleus is greater than the sum of the total binding energies of the fission products.",
+      "C": "The binding energy per nucleon is higher for the resulting fission products compared to the original heavy nucleus.",
+      "D": "The mass defect of the heavy nucleus is greater than the sum of the mass defects of the fission products."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In a Maxwellian energy distribution describing the energies of particles in a gas, what is the most probable energy?",
+    "choices": {
+      "A": "kT",
+      "B": "3/2 kT",
+      "C": "1/2 kT",
+      "D": "2 kT"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are the three classical states of physical matter commonly discussed in introductory physics?",
+    "choices": {
+      "A": "Plasma, Solid, Liquid",
+      "B": "Gas, Liquid, Solid",
+      "C": "Bose-Einstein Condensate, Gas, Liquid",
+      "D": "Solid, Liquid, Plasma"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a pure substance with physical density \u03c1 (g/cm\u00b3) and gram atomic or molecular weight M (g/mol), how is the number density (atoms or molecules per cm\u00b3) calculated, where N_A is Avogadro's number?",
+    "choices": {
+      "A": "\u03c1 * M / N_A",
+      "B": "M / (\u03c1 * N_A)",
+      "C": "\u03c1 * N_A / M",
+      "D": "N_A / (\u03c1 * M)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the semi-empirical mass equation, which term is primarily responsible for accounting for the increased binding energy (and thus reduced mass) associated with the pairing of nucleons (neutron-neutron, proton-proton)?",
+    "choices": {
+      "A": "Surface correction term",
+      "B": "Coulomb repulsion term",
+      "C": "Asymmetry term",
+      "D": "Pairing term"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using the approximate value kT \u2248 0.0253 eV at room temperature (\u2248 293.6 K), what is the average energy of air molecules in a room at 25\u00b0C?",
+    "choices": {
+      "A": "~0.0129 eV",
+      "B": "~0.0258 eV",
+      "C": "~0.0387 eV",
+      "D": "~0.0516 eV"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A material is composed of a mixture of elements. If the physical density of the mixture is \u03c1 and the weight percent of element 'i' is w\u1d62, with gram atomic weight M\u1d62, what is the atom density of element 'i' (atoms/cm\u00b3), using N_A for Avogadro's number?",
+    "choices": {
+      "A": "(w\u1d62/100) * \u03c1 * N_A / M\u1d62",
+      "B": "\u03c1 * N_A / (M\u1d62 * w\u1d62/100)",
+      "C": "(w\u1d62/100) * M\u1d62 * N_A / \u03c1",
+      "D": "\u03c1 * M\u1d62 / (N_A * w\u1d62/100)"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  }
+]

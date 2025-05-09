@@ -1,0 +1,1212 @@
+[
+  {
+    "question": "In a nuclear reactor, what is the ratio of the number of fissions in one neutron generation to the number of fissions in the preceding generation called?",
+    "choices": {
+      "A": "Conversion Ratio",
+      "B": "Breeding Gain",
+      "C": "Multiplication Factor",
+      "D": "Neutron Yield"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary function of a condenser in a nuclear steam power plant?",
+    "choices": {
+      "A": "To produce steam from water",
+      "B": "To cool the steam and condense it back into water",
+      "C": "To remove moisture from steam before it enters the turbine",
+      "D": "To heat feedwater using extracted turbine steam"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In nuclear reactor terminology, what does the term \"specific burnup\" refer to?",
+    "choices": {
+      "A": "The total energy released from a fuel assembly in MWd.",
+      "B": "The ratio of fissions to the initial number of heavy atoms.",
+      "C": "The energy released per unit mass of the heavy metal originally in the fuel.",
+      "D": "The time required to double the amount of fissile material."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to a common numerical code used to identify nuclides, what nuclide is represented by the number \"49\"?",
+    "choices": {
+      "A": "Uranium-235",
+      "B": "Uranium-238",
+      "C": "Plutonium-239",
+      "D": "Plutonium-241"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A reactor is described as a \"breeder reactor.\" This implies that for every fissile atom consumed, the breeding ratio (C) must be:",
+    "choices": {
+      "A": "Greater than 0 but less than 1",
+      "B": "Exactly equal to 1",
+      "C": "Greater than 1 but less than 2",
+      "D": "Greater than 2"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider the fissile isotopes 233U, 235U, and 239Pu. At thermal neutron energies, which of these isotopes has a value of \u03b7 (neutrons produced per fissile atom consumed) that is generally considered sufficient to make breeding possible in a properly designed thermal reactor?",
+    "choices": {
+      "A": "Only 233U",
+      "B": "Only 235U",
+      "C": "Only 239Pu",
+      "D": "All three isotopes (233U, 235U, and 239Pu)"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A fast breeder reactor is fueled with 500 kg of 239Pu initially and consumes plutonium at a rate of 1 kg per day. If the breeding gain is 0.15, what is the approximate exponential doubling time of the fissile inventory?",
+    "choices": {
+      "A": "5.5 years",
+      "B": "6.3 years",
+      "C": "9.1 years",
+      "D": "13.1 years"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary function of the moderator in a thermal nuclear reactor?",
+    "choices": {
+      "A": "To absorb surplus neutrons",
+      "B": "To cool the reactor core",
+      "C": "To slow down fast neutrons",
+      "D": "To contain radioactive materials"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Using the two-digit coding system described for nuclides, which code represents the isotope Uranium-235 (235U)?",
+    "choices": {
+      "A": "23",
+      "B": "35",
+      "C": "25",
+      "D": "52"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The total energy released by fission per unit mass of nuclear fuel is known as:",
+    "choices": {
+      "A": "Total burnup",
+      "B": "Breeding gain",
+      "C": "Specific burnup",
+      "D": "Fractional burnup"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a typical nuclear power plant steam cycle, which component receives spent steam from the turbines and cools it to condense it back into water?",
+    "choices": {
+      "A": "Steam Generator",
+      "B": "Feedwater Heater",
+      "C": "Condenser",
+      "D": "Demineralizer"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A fast breeder reactor has an initial fissile inventory of 800 kg. Fissile material is consumed at a rate of 1.5 kg per day, and the breeding gain is 0.25. Assuming continuous operation and ignoring out-of-reactor time, what is the approximate linear doubling time for this reactor?",
+    "choices": {
+      "A": "4.1 years",
+      "B": "5.8 years",
+      "C": "7.5 years",
+      "D": "9.3 years"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In thermal reactors fueled with low-enriched uranium, the specific burnup and corresponding fractional burnup often exceed the initial percentage enrichment of the fuel. This is primarily because:",
+    "choices": {
+      "A": "The latent heat of vaporization of water contributes significantly to the energy output.",
+      "B": "The fission rate of 235U increases significantly over the fuel lifetime.",
+      "C": "Fissile isotopes produced from the conversion of fertile material undergo fission.",
+      "D": "Neutron absorption in control rods releases additional energy through (n,gamma) reactions."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary function of the moderator in a thermal nuclear reactor?",
+    "choices": {
+      "A": "Remove heat from the core",
+      "B": "Absorb excess neutrons to control the reaction",
+      "C": "Slow down fast neutrons to thermal energies",
+      "D": "Contain the fuel and fission products"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which component in a nuclear reactor is primarily used to control the reactor's power level by absorbing neutrons?",
+    "choices": {
+      "A": "Reflector",
+      "B": "Moderator",
+      "C": "Coolant",
+      "D": "Control rods"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In thermal reactors, which material is commonly used as a moderator?",
+    "choices": {
+      "A": "Liquid Sodium",
+      "B": "Iron",
+      "C": "Water or Heavy Water",
+      "D": "Uranium Dioxide"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Why is enriched uranium typically used as fuel in light-water reactors (LWRs)?",
+    "choices": {
+      "A": "Enriched uranium allows the reactor to operate at higher temperatures.",
+      "B": "Ordinary water has a significant absorption cross-section for thermal neutrons.",
+      "C": "Natural uranium produces too many fast neutrons in a water environment.",
+      "D": "Enriched uranium is less expensive than natural uranium."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a Pressurized Water Reactor (PWR), what is the main function of the pressurizer?",
+    "choices": {
+      "A": "To convert thermal energy into electrical energy.",
+      "B": "To remove dissolved gases from the primary coolant.",
+      "C": "To maintain the primary coolant system pressure within desired limits.",
+      "D": "To absorb neutrons escaping from the core."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Compared to fossil fuel plants, current nuclear power plants often operate at lower thermal efficiencies. What is a significant consequence of this lower efficiency?",
+    "choices": {
+      "A": "Nuclear plants require significantly more fuel to produce the same amount of electricity.",
+      "B": "Nuclear plants reject more waste heat to the environment for the same electrical output.",
+      "C": "Nuclear plants have higher capital costs but lower operating costs due to fuel savings.",
+      "D": "Nuclear plants are limited in their ability to use cooling towers."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What type of water is commonly used as both the coolant and moderator in Light-Water Reactors (LWRs)?",
+    "choices": {
+      "A": "Heavy water (D2O)",
+      "B": "Ordinary water (H2O)",
+      "C": "Demineralized water with boron",
+      "D": "Saltwater"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a Pressurized Water Reactor (PWR), where is the steam for the turbine generated?",
+    "choices": {
+      "A": "Directly within the reactor core",
+      "B": "In external steam generators",
+      "C": "In the pressurizer",
+      "D": "In the condenser"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Why must uranium fuel in Light-Water Reactors (LWRs) be enriched?",
+    "choices": {
+      "A": "To increase the fuel's melting point",
+      "B": "To reduce the operating pressure of the primary loop",
+      "C": "Because ordinary water significantly absorbs thermal neutrons",
+      "D": "To simplify the control rod design"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary function of the pressurizer component in a Pressurized Water Reactor (PWR) system?",
+    "choices": {
+      "A": "To remove dissolved gases from the primary coolant",
+      "B": "To control the concentration of chemical shim (boric acid)",
+      "C": "To maintain and control the system pressure within specified limits",
+      "D": "To separate steam from liquid water in the primary loop"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which statement accurately describes a key difference between a typical Pressurized Water Reactor (PWR) and a Boiling Water Reactor (BWR)?",
+    "choices": {
+      "A": "PWRs operate at significantly lower primary system pressures than BWRs.",
+      "B": "BWRs utilize external steam generators, whereas PWRs generate steam directly in the core.",
+      "C": "PWRs require external steam generators, whereas BWRs generate steam directly in the reactor vessel.",
+      "D": "BWRs use heavy water as a moderator, while PWRs use light water."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a Pressurized Water Reactor (PWR), Zircaloy fuel tubes are often pressurized internally with helium. What issue is this primarily intended to mitigate?",
+    "choices": {
+      "A": "Improving neutron thermalization within the fuel rod.",
+      "B": "Preventing the buildup of fission product gases.",
+      "C": "Reducing thermal stress on the cladding during power changes.",
+      "D": "Counteracting the external pressure from the coolant to prevent cladding collapse due to fuel densification."
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which type of light-water reactor typically uses steam generators to transfer heat from the primary coolant to a secondary loop where steam is produced?",
+    "choices": {
+      "A": "Boiling-Water Reactor (BWR)",
+      "B": "Pressurized Water Reactor (PWR)",
+      "C": "Advanced Boiling-Water Reactor (ABWR)",
+      "D": "Simplified Boiling Water Reactor (SBWR)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a standard Boiling-Water Reactor (BWR), control rods are typically inserted from which location?",
+    "choices": {
+      "A": "Top of the core",
+      "B": "Bottom of the core",
+      "C": "Side of the core",
+      "D": "Outside the pressure vessel"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Fuel rods in a Pressurized Water Reactor (PWR) are often pressurized with helium. What is the primary reason for this?",
+    "choices": {
+      "A": "To improve neutron moderation",
+      "B": "To prevent fuel densification",
+      "C": "To counteract external pressure and reduce cladding stress",
+      "D": "To facilitate fission product release"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A Boiling-Water Reactor (BWR) operates on a direct cycle, meaning steam is generated directly in the reactor core and sent to the turbine. What is a significant consequence of this design choice compared to a PWR?",
+    "choices": {
+      "A": "The reactor pressure vessel must be significantly thicker than a PWR vessel for the same power output.",
+      "B": "Less water needs to be pumped through the core per unit time for the same power output.",
+      "C": "Chemical shim control using boric acid is the primary method for reactivity control.",
+      "D": "Components in the steam utilization system require shielding due to radioactive contamination."
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How does the Advanced Boiling-Water Reactor (ABWR) design primarily differ from conventional BWRs in its recirculation system?",
+    "choices": {
+      "A": "It uses external recirculation pumps located outside the pressure vessel.",
+      "B": "It utilizes a natural circulation system without any pumps.",
+      "C": "It incorporates internal centrifugal pumps within the reactor vessel.",
+      "D": "It uses jet pumps located in the lower plenum."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Westinghouse AP600 advanced PWR design relies heavily on passive safety systems. Which of the following is a specific passive core cooling feature implemented in the AP600 during a Loss of Coolant Accident (LOCA)?",
+    "choices": {
+      "A": "Recirculation of water from the suppression pool using motor-driven pumps.",
+      "B": "Injection of borated water from accumulators pressurized by nitrogen.",
+      "C": "Flow of coolant from an external pool to the reactor under gravity, enabled by an automatic depressurization system.",
+      "D": "Use of part-strength control rods to reduce reactivity insertion during an accident."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In a typical Boiling Water Reactor (BWR), where are the control rods primarily located?",
+    "choices": {
+      "A": "Top of the reactor vessel",
+      "B": "Bottom of the reactor vessel",
+      "C": "Radially around the core periphery",
+      "D": "Integrated within the fuel assemblies"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What material is used as the primary moderator in an RBMK reactor?",
+    "choices": {
+      "A": "Light Water",
+      "B": "Heavy Water",
+      "C": "Graphite",
+      "D": "Beryllium"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What type of fuel is commonly used in both Pressurized Water Reactors (PWRs) and Boiling Water Reactors (BWRs)?",
+    "choices": {
+      "A": "Natural Uranium Metal",
+      "B": "Highly Enriched Uranium",
+      "C": "Slightly Enriched UO2 pellets",
+      "D": "Thorium Oxide"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A significant factor contributing to the increase in nuclear power plant construction costs during the late 1970s and early 1980s was the requirement for:",
+    "choices": {
+      "A": "Development of new, complex reactor designs",
+      "B": "Extensive backfit modifications following the Three Mile Island accident",
+      "C": "Increased labor costs due to unionization",
+      "D": "Higher prices for enriched uranium fuel"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Compared to conventional Boiling Water Reactors (BWRs), the Advanced Boiling Water Reactor (ABWR) design simplifies the primary system and reduces the risk of a Loss of Coolant Accident (LOCA) primarily by:",
+    "choices": {
+      "A": "Using a smaller reactor vessel",
+      "B": "Eliminating external recirculation piping and pumps",
+      "C": "Operating at significantly lower pressures",
+      "D": "Utilizing a different fuel enrichment"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Boiling Water Reactors (BWRs) typically locate control rods at the bottom of the core rather than the top. This placement is primarily advantageous because:",
+    "choices": {
+      "A": "It allows for easier maintenance access to the control rod drives",
+      "B": "The lower portion of the core has a higher neutron flux",
+      "C": "The presence of steam voids in the upper core region reduces the effectiveness of control rods placed there",
+      "D": "Bottom entry rods are less susceptible to seismic events"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a primary difference in the reactor coolant circulation method between the Simplified Boiling Water Reactor (SBWR) and conventional Boiling Water Reactor (BWR) designs?",
+    "choices": {
+      "A": "SBWR uses natural circulation, while conventional BWRs use forced circulation.",
+      "B": "SBWR uses forced circulation, while conventional BWRs use natural circulation.",
+      "C": "SBWR uses a closed-loop system, while conventional BWRs use an open-loop system.",
+      "D": "SBWR uses heavy water as a coolant, while conventional BWRs use light water."
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In RBMK reactor designs, what material is primarily used as the neutron moderator?",
+    "choices": {
+      "A": "Light water",
+      "B": "Heavy water",
+      "C": "Graphite",
+      "D": "Beryllium"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What type of steam generators are characteristic of both VVER 440 and VVER 1000 reactor designs?",
+    "choices": {
+      "A": "Vertical U-tube steam generators",
+      "B": "Horizontal steam generators",
+      "C": "Once-through helical steam generators",
+      "D": "Shell and tube heat exchangers"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which passive system in some advanced reactor designs, such as the AP600, is specifically designed to remove decay heat when the main steam generators are not available?",
+    "choices": {
+      "A": "Automatic Depressurization System (ADS)",
+      "B": "Gravity-Driven Cooling System (GDCS)",
+      "C": "Passive Residual Heat Removal System",
+      "D": "In-containment Refueling Water Storage Tank (IRWST)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A significant structural difference between the RBMK reactor and typical Western-designed BWRs is related to the primary containment boundary. How does the RBMK design differ in this regard?",
+    "choices": {
+      "A": "RBMK uses a large pressure vessel, while Western BWRs use channelized pressure tubes.",
+      "B": "RBMK uses channelized pressure tubes and lacks a large pressure vessel, while Western BWRs use a pressure vessel.",
+      "C": "RBMK uses a concrete containment building, while Western BWRs use a steel containment sphere.",
+      "D": "RBMK uses a pool-type reactor, while Western BWRs use a loop-type reactor."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Advanced passive reactor designs incorporate systems that rely on natural forces like gravity or natural circulation for safety functions. Based on typical nuclear power plant designs, which of the following systems is NOT primarily driven by such passive means, but rather relies on active components like pumps?",
+    "choices": {
+      "A": "Gravity-driven core cooling during a LOCA",
+      "B": "Natural circulation for normal or emergency cooling",
+      "C": "Forced circulation in a conventional reactor's primary coolant loop",
+      "D": "Condensation of steam in a passive containment cooling system"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary moderator and coolant used in a typical CANDU reactor?",
+    "choices": {
+      "A": "Light water",
+      "B": "Graphite",
+      "C": "Heavy water",
+      "D": "Carbon Dioxide"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which type of reactor design discussed commonly utilizes horizontal steam generators?",
+    "choices": {
+      "A": "CANDU",
+      "B": "HTGR",
+      "C": "AGR",
+      "D": "VVER"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What gas is typically used as the coolant in the Advanced Gas Reactor (AGR)?",
+    "choices": {
+      "A": "Helium",
+      "B": "Carbon Dioxide",
+      "C": "Nitrogen",
+      "D": "Steam"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The VVER 440 reactor design, while sharing similarities with Western PWRs, includes distinct features. Which of the following is NOT a characteristic of the VVER 440 series described?",
+    "choices": {
+      "A": "Uses hexagonal fuel assemblies.",
+      "B": "Has six primary coolant loops.",
+      "C": "Employs a containment system similar to standard Western PWR pressure suppression designs.",
+      "D": "Utilizes boric acid for reactivity control."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Compared to Light Water Reactors (LWRs), Heavy Water Reactors (HWRs) like the CANDU are designed with which significant advantage?",
+    "choices": {
+      "A": "Smaller core size due to superior neutron moderation.",
+      "B": "Higher thermal efficiency achieved through higher operating temperatures.",
+      "C": "Ability to operate on natural uranium fuel.",
+      "D": "Simpler refueling procedures requiring less frequent shutdowns."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider the High-Temperature Gas-Cooled Reactor (HTGR) and the Advanced Gas Reactor (AGR). Which statement accurately describes a key difference in their fuel or coolant characteristics?",
+    "choices": {
+      "A": "The HTGR uses Carbon Dioxide as a coolant, while the AGR uses Helium.",
+      "B": "The AGR is designed for significantly higher coolant outlet temperatures than the HTGR.",
+      "C": "The HTGR utilizes coated fuel particles in graphite blocks, whereas the AGR uses fuel pellets in stainless steel tubes within graphite sleeves.",
+      "D": "Both reactor types require highly enriched uranium fuel for operation."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What gas is commonly used as the primary coolant in High-Temperature Gas-cooled Reactors (HTGRs)?",
+    "choices": {
+      "A": "Carbon Dioxide",
+      "B": "Nitrogen",
+      "C": "Helium",
+      "D": "Steam"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which reactor type is specifically designed to operate on natural uranium fuel due to its moderator choice?",
+    "choices": {
+      "A": "Liquid-Metal Fast Breeder Reactor (LMFBR)",
+      "B": "High-Temperature Gas-cooled Reactor (HTGR)",
+      "C": "Light-Water Reactor (LWR)",
+      "D": "Heavy-Water Reactor (HWR)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a major advantage of using sodium as the coolant in a Liquid-Metal Fast Breeder Reactor (LMFBR)?",
+    "choices": {
+      "A": "It is an effective neutron moderator.",
+      "B": "It has a low melting point, simplifying operation.",
+      "C": "It allows operation at high temperatures with low pressure.",
+      "D": "It does not become radioactive when exposed to neutrons."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Liquid-Metal Fast Breeder Reactors (LMFBRs) utilize an intermediate sodium loop primarily to address which safety concern?",
+    "choices": {
+      "A": "Reducing the overall plant efficiency.",
+      "B": "Preventing the highly radioactive primary sodium from reacting violently with water in the steam generator.",
+      "C": "Increasing the neutron flux in the core for better breeding.",
+      "D": "Allowing for online refueling of the reactor."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The CANDU reactor design employs a calandria and pressure tubes instead of a single large pressure vessel. What is the main reason for this design choice?",
+    "choices": {
+      "A": "To facilitate the use of enriched uranium fuel.",
+      "B": "To allow for a smaller core size compared to other heavy-water reactors.",
+      "C": "To manage the large core volume required for natural uranium fueling without needing a massive, high-pressure vessel.",
+      "D": "To enable the use of light water as the primary coolant."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Considering the descriptions of the HTGR and CANDU reactor types, which statement accurately reflects a consequence of their design choices regarding fuel and moderation?",
+    "choices": {
+      "A": "The HTGR's use of graphite moderation and helium cooling allows for a lower operating temperature than the CANDU.",
+      "B": "The CANDU's heavy water moderation, while enabling natural uranium fuel, results in a lower thermodynamic efficiency compared to HTGRs described, which achieve higher steam temperatures.",
+      "C": "The HTGR requires online refueling due to its high enrichment fuel, while the CANDU is refueled offline.",
+      "D": "The CANDU's pressure tube design necessitates the use of slightly enriched uranium to achieve criticality, unlike the HTGR which can use natural uranium."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What material is typically used as the primary moderator in a CANDU reactor?",
+    "choices": {
+      "A": "Light Water",
+      "B": "Graphite",
+      "C": "Heavy Water",
+      "D": "Beryllium"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which liquid metal is universally chosen as the coolant for modern Liquid Metal Cooled Fast Breeder Reactors (LMFBRs)?",
+    "choices": {
+      "A": "Mercury",
+      "B": "Sodium",
+      "C": "Lead-Bismuth",
+      "D": "Potassium"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which type of breeder reactor is characterized by its fuel, fertile material, and coolant being combined as a homogeneous molten salt fluid?",
+    "choices": {
+      "A": "Liquid Metal Cooled Fast Breeder Reactor (LMFBR)",
+      "B": "Gas-Cooled Fast Breeder Reactor (GCFR)",
+      "C": "Light Water Breeder Reactor (LWBR)",
+      "D": "Molten Salt Breeder Reactor (MSBR)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Why do Liquid Metal Cooled Fast Breeder Reactor (LMFBR) power plants typically utilize an intermediate sodium loop between the primary reactor loop and the steam generators?",
+    "choices": {
+      "A": "To increase the overall thermal efficiency of the plant.",
+      "B": "To prevent the highly radioactive primary sodium from directly contacting water.",
+      "C": "To reduce pressure in the steam generators.",
+      "D": "To filter impurities from the primary sodium coolant."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Compared to the fuel pins in a Gas-Cooled Fast Breeder Reactor (GCFR), how are the fuel pins typically spaced in a Liquid Metal Cooled Fast Breeder Reactor (LMFBR), and why?",
+    "choices": {
+      "A": "Further apart, due to the lower heat capacity of sodium compared to helium.",
+      "B": "Further apart, to enhance moderation for a softer neutron spectrum.",
+      "C": "More tightly packed, due to the superior heat transfer properties of sodium compared to helium.",
+      "D": "More tightly packed, to reduce the overall size of the reactor vessel."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Considering the relationship between neutron spectrum and breeding ratio, and the coolant properties discussed, which reactor type and fuel combination is generally expected to achieve a higher breeding ratio compared to an LMFBR with Uranium-Plutonium Oxide fuel?",
+    "choices": {
+      "A": "LMFBR with Thorium-233U Oxide fuel.",
+      "B": "GCFR with Uranium-Plutonium Oxide fuel.",
+      "C": "MSBR with Thorium-233U fuel.",
+      "D": "LMFBR with Uranium-Plutonium Oxide fuel operating at lower temperature."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What type of coolant is primarily used in the Liquid Metal Fast Breeder Reactor (LMFBR)?",
+    "choices": {
+      "A": "Heavy Water",
+      "B": "Helium Gas",
+      "C": "Liquid Sodium",
+      "D": "Molten Salt"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a typical Liquid Metal Fast Breeder Reactor (LMFBR), the fuel and fertile materials are contained within long pins primarily made of which material?",
+    "choices": {
+      "A": "Zirconium alloy",
+      "B": "Graphite",
+      "C": "Stainless steel",
+      "D": "Aluminum"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary coolant used in a Gas-Cooled Fast Reactor (GCFR)?",
+    "choices": {
+      "A": "Water",
+      "B": "Carbon Dioxide",
+      "C": "Helium",
+      "D": "Nitrogen"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which statement accurately describes a key difference between a loop-type and a pool-type Liquid Metal Fast Breeder Reactor (LMFBR)?",
+    "choices": {
+      "A": "Loop-type systems contain all primary loop components within the reactor vessel, while pool-type systems have them external.",
+      "B": "Pool-type systems require extensive shielding around external primary loops, while loop-type systems do not.",
+      "C": "In a pool-type system, all primary heat transfer system components are located within the reactor vessel, unlike a loop-type system.",
+      "D": "The sodium in the secondary loop is radioactive in a loop-type system but not in a pool-type system."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A significant challenge for maintenance and repairs in a Molten Salt Breeder Reactor (MSBR) is related to which characteristic?",
+    "choices": {
+      "A": "The high pressure required for operation necessitates specialized tools.",
+      "B": "The solid fuel elements must be frequently replaced using remote handling.",
+      "C": "Delayed neutron precursors carried in the circulating fluid activate the entire primary loop.",
+      "D": "The graphite moderator elements degrade rapidly in the high-temperature salt."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Light Water Breeder Reactor (LWBR) utilizes a unique control method involving the movement of seed regions within fuel modules. The primary reason ordinary neutron-absorbing control rods are avoided in the LWBR design is because:",
+    "choices": {
+      "A": "The fast neutron spectrum makes them ineffective.",
+      "B": "They would corrode rapidly in the high-temperature water.",
+      "C": "They would absorb too many neutrons, preventing breeding.",
+      "D": "The homogeneous fuel mixture makes rod insertion impossible."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary coolant and fuel carrier in a Molten Salt Breeder Reactor (MSBR)?",
+    "choices": {
+      "A": "Liquid Sodium",
+      "B": "Pressurized Light Water",
+      "C": "Molten Fluoride Salts",
+      "D": "Heavy Water"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How is reactivity primarily controlled in the Light Water Breeder Reactor (LWBR) design discussed?",
+    "choices": {
+      "A": "By inserting neutron-absorbing control rods.",
+      "B": "By varying the concentration of soluble boron in the coolant.",
+      "C": "By axially moving seed fuel regions within the core.",
+      "D": "By adjusting the flow rate of the coolant."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which type of nuclear reactor became the standard for propulsion in U.S. Navy submarines after initial development?",
+    "choices": {
+      "A": "Boiling Water Reactor (BWR)",
+      "B": "Pressurized Water Reactor (PWR)",
+      "C": "Liquid Metal-Cooled Reactor",
+      "D": "Gas-Cooled Reactor (GCR)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Continuous chemical processing in a Molten Salt Breeder Reactor (MSBR) includes removing the intermediate nuclide 233Pa from the circulating fuel salt. Why is this removal important for efficient breeding?",
+    "choices": {
+      "A": "233Pa decays rapidly into undesirable fission products.",
+      "B": "233Pa has a long half-life and a high thermal neutron absorption cross-section, potentially absorbing neutrons needed for breeding before decaying to 233U.",
+      "C": "Removing 233Pa reduces the overall fuel inventory in the core.",
+      "D": "233Pa causes significant damage to the graphite moderator elements."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When comparing the Molten Salt Breeder Reactor (MSBR) to Light Water Reactors (LWRs) and Liquid Metal Fast Breeder Reactors (LMFBRs), which performance parameter is indicated as significantly lower for the MSBR?",
+    "choices": {
+      "A": "Overall plant thermal efficiency.",
+      "B": "Fuel inventory per MWe.",
+      "C": "Breeding ratio.",
+      "D": "Operating pressure."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Light Water Breeder Reactor (LWBR) design utilizes axial movement of seed regions for control rather than conventional neutron-absorbing control rods. What fundamental nuclear principle, critical for achieving breeding in the LWBR, is the primary reason for this design choice?",
+    "choices": {
+      "A": "Minimizing neutron leakage from the core.",
+      "B": "Shifting the neutron energy spectrum to higher energies.",
+      "C": "Conserving neutrons by avoiding parasitic absorption.",
+      "D": "Increasing the multiplication factor (k) in the blanket region."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is a significant advantage of using nuclear power for submarine propulsion compared to fossil fuels?",
+    "choices": {
+      "A": "Requires frequent refueling",
+      "B": "Needs a constant supply of oxygen",
+      "C": "Provides nearly unlimited submerged endurance",
+      "D": "Produces significant air pollution"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What term describes the entire sequence of activities involving the procurement, preparation, utilization, and ultimate disposition of fuel for a nuclear reactor?",
+    "choices": {
+      "A": "Fuel reprocessing",
+      "B": "Nuclear reaction cycle",
+      "C": "Fuel cycle",
+      "D": "Reactor operation cycle"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which country is mentioned as generating a significant portion of its electricity from nuclear energy, specifically over 75% according to data from 1996?",
+    "choices": {
+      "A": "United States",
+      "B": "Japan",
+      "C": "Germany",
+      "D": "France"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Based on data provided for 1996, approximately what percentage of the United States' electricity supply was generated by nuclear power plants?",
+    "choices": {
+      "A": "10%",
+      "B": "20%",
+      "C": "40%",
+      "D": "75%"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a typical Light Water Reactor (LWR) once-through fuel cycle, what is the primary method for managing spent nuclear fuel after it is removed from the reactor and cooled in a spent fuel pool?",
+    "choices": {
+      "A": "Reprocessing to extract usable materials",
+      "B": "Immediate disposal as low-level waste",
+      "C": "Transfer to special storage facilities, often in dry casks, prior to ultimate disposal",
+      "D": "Re-enrichment and immediate reuse in the reactor"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a CANDU reactor operating on a once-through fuel cycle with a maximum specific burnup of 7500 MWd per metric ton of natural uranium, what is the approximate nuclear resource utilization? (Assume 1 gram of fissile material fissioned releases 1 MWd of energy)",
+    "choices": {
+      "A": "0.0075%",
+      "B": "0.75%",
+      "C": "7.5%",
+      "D": "75%"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is mixed-oxide (MOX) fuel?",
+    "choices": {
+      "A": "Fuel consisting solely of enriched uranium dioxide.",
+      "B": "Fuel made by mixing plutonium dioxide with uranium dioxide.",
+      "C": "Fuel used only in CANDU reactors.",
+      "D": "Spent nuclear fuel that has been vitrified for disposal."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a typical Light Water Reactor (LWR) once-through fuel cycle, what is the immediate post-reactor handling step for spent fuel assemblies?",
+    "choices": {
+      "A": "Direct reprocessing for uranium and plutonium extraction.",
+      "B": "Placement in a spent fuel pool adjacent to the reactor building.",
+      "C": "Conversion to UF6 for reenrichment.",
+      "D": "Immediate disposal as high-level radioactive waste."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What type of uranium fuel is primarily used in a CANDU reactor operating on a once-through fuel cycle?",
+    "choices": {
+      "A": "Highly Enriched Uranium (>20% 235U)",
+      "B": "Low Enriched Uranium (typically 3-5% 235U)",
+      "C": "Depleted Uranium (<0.71% 235U)",
+      "D": "Natural Uranium (approx. 0.71% 235U)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Compared to an LWR once-through fuel cycle, how does adopting a uranium-plutonium recycling fuel cycle affect the cumulative natural uranium requirements for a given electrical capacity over the plant lifetime?",
+    "choices": {
+      "A": "Recycling increases the requirement by approximately 40%.",
+      "B": "Recycling reduces the requirement by approximately 40%.",
+      "C": "Recycling results in roughly the same requirement.",
+      "D": "Recycling eliminates the need for natural uranium entirely."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How is nuclear resource utilization (U) defined?",
+    "choices": {
+      "A": "The ratio of the mass of fissile material loaded to the total fuel load.",
+      "B": "The ratio of the total energy produced to the initial fuel mass.",
+      "C": "The ratio of the amount of fuel that fissions to the amount of natural uranium or thorium input required.",
+      "D": "The fraction of spent fuel that is recycled."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Compared to an LWR operating on a once-through fuel cycle, transitioning to an LMFBR operating with uranium-plutonium recycling can extend the potential lifespan of a given natural uranium resource by a factor of approximately:",
+    "choices": {
+      "A": "Less than 10",
+      "B": "Between 10 and 50",
+      "C": "Between 50 and 200",
+      "D": "More than 200"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the approximate nuclear resource utilization for a Light Water Reactor (LWR) operating on a once-through fuel cycle?",
+    "choices": {
+      "A": "Between 60% and 70%",
+      "B": "Around 5%",
+      "C": "Around 0.55%",
+      "D": "Between 20% and 30%"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary challenge in separating the isotopes 235U and 238U for uranium enrichment?",
+    "choices": {
+      "A": "They are different elements with significantly different chemical properties.",
+      "B": "They are isotopes of the same element with nearly identical atomic weights.",
+      "C": "One is highly radioactive while the other is stable.",
+      "D": "They exist in significantly different natural abundances."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a true breeder reactor operating with recycling, what is the approximate range of nuclear resource utilization?",
+    "choices": {
+      "A": "Less than 1%",
+      "B": "Around 5%",
+      "C": "Between 20% and 40%",
+      "D": "Between 60% and 70%"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Compared to a once-through fuel cycle, how does the use of fuel reprocessing and recycling in a nuclear power plant generally impact the lifetime natural uranium requirements for a given electrical capacity?",
+    "choices": {
+      "A": "It significantly increases the required amount of natural uranium.",
+      "B": "It significantly decreases the required amount of natural uranium.",
+      "C": "It has no significant impact on the required amount of natural uranium.",
+      "D": "It eliminates the need for natural uranium entirely."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the equations describing nuclear fuel cycle resource utilization, what does the parameter '\u03b3' primarily represent?",
+    "choices": {
+      "A": "The capture-to-fission ratio in fissile material.",
+      "B": "The fraction of fissions occurring in fertile material.",
+      "C": "The fractional loss of isotope incurred during reprocessing and fabrication.",
+      "D": "The specific burnup of the fuel."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How does nuclear resource utilization (U) typically behave as the conversion ratio (C) increases from below unity towards unity, and what happens to U once the reactor enters the breeding region (C > 1)?",
+    "choices": {
+      "A": "U increases as C increases below unity and continues to increase rapidly in the breeding region.",
+      "B": "U decreases as C increases below unity and remains constant in the breeding region.",
+      "C": "U increases as C increases below unity but becomes constant in the breeding region.",
+      "D": "U remains constant regardless of the conversion ratio C."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In the context of nuclear fuel resources, how abundant is uranium in the Earth's crust compared to common substances like silver, mercury, and iodine?",
+    "choices": {
+      "A": "Less abundant",
+      "B": "Approximately the same abundance",
+      "C": "More abundant",
+      "D": "Uranium is considered a rare earth element"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a uranium enrichment plant utilizing the material balance concept, which stream represents the depleted uranium that remains after the desired fissile isotope concentration has been increased in another stream?",
+    "choices": {
+      "A": "Feed",
+      "B": "Product",
+      "C": "Tails",
+      "D": "Waste"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Among the estimated world uranium resource categories, which category refers to uranium expected to occur in deposits where the evidence is inferred from geological extrapolation and indirect evidence?",
+    "choices": {
+      "A": "Reasonably Assured Resources (RAR)",
+      "B": "Estimated Additional Resources - Category I (EAR-I)",
+      "C": "Estimated Additional Resources - Category II (EAR-II)",
+      "D": "Speculative Resources"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Assuming a fixed feed enrichment (natural uranium) and a fixed product enrichment, how do the required natural uranium feed quantity and the required separative work change as the tails assay (the concentration of the desired isotope in the depleted stream) is decreased?",
+    "choices": {
+      "A": "Feed decreases, Separative Work decreases",
+      "B": "Feed decreases, Separative Work increases",
+      "C": "Feed increases, Separative Work decreases",
+      "D": "Feed increases, Separative Work increases"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Since the early 1990s, global uranium production has generally been less than reactor requirements. This imbalance has primarily been met by:",
+    "choices": {
+      "A": "Increased mining of high-cost unconventional resources.",
+      "B": "Significant reductions in global nuclear power capacity.",
+      "C": "Drawing down existing stockpiles and utilizing secondary sources like blended excess weapons material.",
+      "D": "A shift towards breeder reactors which require less natural uranium."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A PWR requires 28,000 kg of UO2 enriched to 3.5 w/o 235U for a reload. If the enrichment plant uses natural uranium feed (0.711 w/o 235U) and operates with a tails assay of 0.20 w/o 235U, approximately how much separative work (SWU) is required for this reload? Use the value function V(x) = (1-2x)ln((1-x)/x). Note: Molecular weight of UO2 is ~270, U is 238.",
+    "choices": {
+      "A": "105,000 kg SWU",
+      "B": "112,000 kg SWU",
+      "C": "125,000 kg SWU",
+      "D": "138,000 kg SWU"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary compound of uranium used as the process gas in the gaseous diffusion enrichment method?",
+    "choices": {
+      "A": "UO2",
+      "B": "UF6",
+      "C": "U3O8",
+      "D": "Metallic Uranium"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the standard unit used to measure the amount of work required to separate isotopes during the uranium enrichment process?",
+    "choices": {
+      "A": "Kilowatt-hour (kWh)",
+      "B": "Metric Ton (MT)",
+      "C": "Separative Work Unit (SWU)",
+      "D": "Joule (J)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which uranium enrichment process relies on the principle that lighter gas molecules pass through a porous barrier more readily than heavier ones?",
+    "choices": {
+      "A": "Gas Centrifuge",
+      "B": "Gaseous Diffusion",
+      "C": "Electromagnetic Separation",
+      "D": "Aerodynamic Separation"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When comparing the gas centrifuge enrichment process to the gaseous diffusion process for the same separative work capacity, what is a significant difference in their operational requirements?",
+    "choices": {
+      "A": "Gas centrifuge requires significantly more electrical power.",
+      "B": "Gas centrifuge requires significantly less electrical power.",
+      "C": "Gas centrifuge requires a higher operating temperature.",
+      "D": "Gas centrifuge requires fewer stages for the same enrichment factor."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A nuclear power plant reload requires 29,089 kg of enriched uranium product with an enrichment of 3.2 weight percent 235U. If the feed material is natural uranium (0.711 w/o 235U) and the tails assay is 0.2 w/o 235U, approximately how much natural uranium feed (in kg) is required for this reload?",
+    "choices": {
+      "A": "50,000 kg",
+      "B": "100,000 kg",
+      "C": "171,000 kg",
+      "D": "250,000 kg"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a fixed amount and enrichment of enriched uranium product (with fixed feed enrichment), how do the required natural uranium feed and the separative work unit (SWU) change as the tails enrichment is decreased?",
+    "choices": {
+      "A": "Feed decreases, SWU decreases",
+      "B": "Feed decreases, SWU increases",
+      "C": "Feed increases, SWU decreases",
+      "D": "Feed increases, SWU increases"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What chemical compound of uranium is commonly used as the working fluid in the gaseous diffusion method for uranium enrichment?",
+    "choices": {
+      "A": "Uranium Dioxide (UO2)",
+      "B": "Uranium Hexafluoride (UF6)",
+      "C": "Uranium Metal (U)",
+      "D": "Uranium Trioxide (UO3)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Compared to the gaseous diffusion process for uranium enrichment, the gas centrifuge method primarily offers a significant advantage in terms of:",
+    "choices": {
+      "A": "Single-stage separation factor",
+      "B": "Required cascade size",
+      "C": "Corrosion resistance of materials",
+      "D": "Electrical power consumption"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Reactors designed to operate on natural uranium fuel often require the use of which special material as a moderator or coolant?",
+    "choices": {
+      "A": "Graphite",
+      "B": "Light water (H2O)",
+      "C": "Heavy water (D2O)",
+      "D": "Beryllium"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Laser Isotope Separation (LIS) techniques, such as AVLIS, rely on which fundamental property of isotopes to achieve separation?",
+    "choices": {
+      "A": "Differences in neutron absorption cross-sections",
+      "B": "Differences in nuclear binding energies",
+      "C": "Differences in electron energy level transitions (isotope shift)",
+      "D": "Differences in radioactive decay rates"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The electromagnetic separation method for isotopes, based on the principle of a mass spectrometer, separates isotopes by exploiting the difference in their behavior when exposed to:",
+    "choices": {
+      "A": "Porous barriers, allowing differential diffusion rates",
+      "B": "High-speed rotation, causing differential centripetal forces",
+      "C": "Magnetic fields, causing different radii of curvature for ions",
+      "D": "Supersonic flow through a curved nozzle, causing differential centrifugal pressure gradients"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the Girdler-Sulfide (GS) process for heavy water production, the equilibrium constant for the exchange reaction HDO + H2S <=> H2O + HDS decreases as temperature increases. How does an increase in temperature affect the equilibrium distribution of deuterium between the water and hydrogen sulfide phases?",
+    "choices": {
+      "A": "It shifts the equilibrium to relatively favor deuterium concentration in the water phase compared to the hydrogen sulfide phase.",
+      "B": "It shifts the equilibrium to relatively favor deuterium concentration in the hydrogen sulfide phase compared to the water phase.",
+      "C": "It does not affect the equilibrium distribution of deuterium.",
+      "D": "It causes deuterium to precipitate out of both phases."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the most widely used solvent extraction process for reprocessing spent nuclear fuel?",
+    "choices": {
+      "A": "Redox",
+      "B": "PUREX",
+      "C": "TRUEX",
+      "D": "CIVEX"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  }
+]

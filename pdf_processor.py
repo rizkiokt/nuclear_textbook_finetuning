@@ -2,6 +2,8 @@ import PyPDF2
 import os
 from typing import List, Dict
 
+TEXT_DIRECTORY = 'text_dataset'
+
 class PDFProcessor:
     def __init__(self, pdf_path: str):
         """Initialize the PDF processor with the path to the PDF file.
@@ -86,10 +88,10 @@ class PDFProcessor:
             processed_content (List[Dict[str, str]]): Preprocessed content
             filename (str): Name of the file to write to
         """
-        if not os.path.isdir('dataset'):
-            os.mkdir('dataset')
+        if not os.path.isdir(TEXT_DIRECTORY):
+            os.mkdir(TEXT_DIRECTORY) 
         
-        with open(f'dataset/{filename}.txt', 'w') as f:
+        with open(f'{TEXT_DIRECTORY}/{filename}.txt', 'w') as f:
             for page in processed_content:
                 f.write(f'page number: {page["page_number"]}\n text: {page["text"]}\n\n')
 
@@ -97,8 +99,54 @@ class PDFProcessor:
 
 
 if __name__ == '__main__':
-    pdf_processor = PDFProcessor('dataset/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
     extracted_content = pdf_processor.extract_text(page_start=23, page_end=62)
     processed_content = pdf_processor.preprocess_text(extracted_content)
     pdf_processor.write_to_file(processed_content, filename='ch2_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=70, page_end=127)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch3_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=135, page_end=241)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch4_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=248, page_end=278)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch5_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=284, page_end=338)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch6_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=345, page_end=415)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch7_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=421, page_end=468)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch8_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=484, page_end=560)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch9_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=566, page_end=623)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch10_processed')
+
+    pdf_processor = PDFProcessor(f'{TEXT_DIRECTORY}/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf')
+    extracted_content = pdf_processor.extract_text(page_start=630, page_end=739)
+    processed_content = pdf_processor.preprocess_text(extracted_content)
+    pdf_processor.write_to_file(processed_content, filename='ch11_processed')
+
 

@@ -1,0 +1,662 @@
+[
+  {
+    "question": "In nuclear reactor theory, what is a bare reactor?",
+    "choices": {
+      "A": "A reactor system that includes a reflector but no blanket.",
+      "B": "A reactor system that includes a blanket but no reflector.",
+      "C": "A reactor system consisting of only one region with neither a blanket nor a reflector.",
+      "D": "A reactor system operating at very low power levels where non-fission sources are significant."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Physically, how is the multiplication factor (k) for a finite reactor defined?",
+    "choices": {
+      "A": "The ratio of the neutron absorption rate to the neutron leakage rate.",
+      "B": "The ratio of the number of neutrons born in fission in one generation to the number lost from the previous generation.",
+      "C": "The ratio of the neutron diffusion coefficient to the macroscopic absorption cross-section.",
+      "D": "The ratio of the source density to the neutron flux."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is one of the central problems in nuclear reactor design addressed by methods like the group-diffusion method?",
+    "choices": {
+      "A": "Calculation of the temperature distribution within the fuel elements.",
+      "B": "Calculation of the pressure drop across the reactor core.",
+      "C": "Calculation of the size and composition required to maintain a balance between neutron production and loss.",
+      "D": "Calculation of the radioactive decay heat of fission products."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of the one-group reactor equation, the infinite multiplication factor (k\u221e) for a homogeneous mixture of fuel and coolant is defined as the product of:",
+    "choices": {
+      "A": "The diffusion coefficient and the macroscopic absorption cross-section.",
+      "B": "The number of neutrons per fission (\u03bd) and the fuel utilization (f).",
+      "C": "The average number of fission neutrons emitted per neutron absorbed in the fuel (\u03b7) and the fuel utilization (f).",
+      "D": "The geometric buckling (B\u00b2) and the diffusion area (L\u00b2)."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In one-group diffusion theory, the diffusion area (L\u00b2) is defined in terms of the diffusion coefficient (D) and the macroscopic absorption cross-section (\u03a3a) for the mixture as:",
+    "choices": {
+      "A": "L\u00b2 = \u03a3a / D",
+      "B": "L\u00b2 = D / \u03a3a",
+      "C": "L\u00b2 = D * \u03a3a",
+      "D": "L\u00b2 = 1 / (D * \u03a3a)"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a critical bare reactor described by the homogeneous one-group diffusion equation, what determines the absolute magnitude of the neutron flux?",
+    "choices": {
+      "A": "The material properties of the reactor core.",
+      "B": "The geometric dimensions of the reactor core.",
+      "C": "The boundary conditions applied at the extrapolated surface.",
+      "D": "The power level at which the system is operating."
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the standard boundary condition applied to the neutron flux at the extrapolated boundary of a bare reactor in diffusion theory?",
+    "choices": {
+      "A": "The flux gradient is zero.",
+      "B": "The flux is maximum.",
+      "C": "The flux vanishes.",
+      "D": "The flux is constant."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In one-group diffusion theory for a critical reactor, how is the buckling (B\u00b2) related to the infinite multiplication factor (k\u221e) and the diffusion area (L\u00b2)?",
+    "choices": {
+      "A": "B\u00b2 = L\u00b2 / (k\u221e - 1)",
+      "B": "B\u00b2 = (k\u221e - 1) / L\u00b2",
+      "C": "B\u00b2 = k\u221e / L\u00b2",
+      "D": "B\u00b2 = L\u00b2 / k\u221e"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a critical bare slab reactor with extrapolated thickness 'a', what is the shape of the fundamental mode neutron flux distribution as a function of position x (measured from the center)?",
+    "choices": {
+      "A": "Exponential",
+      "B": "Linear",
+      "C": "Cosine",
+      "D": "Bessel function of order zero"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a critical bare infinite cylindrical reactor with extrapolated radius R, the buckling (B\u00b2) is determined by the first zero of which mathematical function?",
+    "choices": {
+      "A": "Sine function",
+      "B": "Cosine function",
+      "C": "Modified Bessel function of the first kind, order zero (I\u2080)",
+      "D": "Ordinary Bessel function of the first kind, order zero (J\u2080)"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the one-group diffusion theory solution for the neutron flux distribution in a bare critical reactor, the magnitude of the flux (represented by an arbitrary constant multiplier) is physically determined by which factor?",
+    "choices": {
+      "A": "The reactor material properties",
+      "B": "The reactor power level",
+      "C": "The moderator-to-fuel ratio",
+      "D": "The neutron diffusion coefficient"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "According to one-group diffusion theory, the buckling for a critical bare rectangular parallelepiped reactor with extrapolated dimensions a, b, and c is given by:",
+    "choices": {
+      "A": "B\u00b2 = (\u03c0/a) * (\u03c0/b) * (\u03c0/c)",
+      "B": "B\u00b2 = (\u03c0/a)\u00b2 + (\u03c0/b)\u00b2 + (\u03c0/c)\u00b2",
+      "C": "B\u00b2 = \u221a((\u03c0/a)\u00b2 + (\u03c0/b)\u00b2 + (\u03c0/c)\u00b2)",
+      "D": "B\u00b2 = (\u03c0/a) + (\u03c0/b) + (\u03c0/c)"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which mathematical function typically describes the one-group neutron flux distribution in a bare, critical spherical reactor as a function of radial distance r from the center?",
+    "choices": {
+      "A": "A cos(Br)",
+      "B": "A Jo(Br)",
+      "C": "A sin(Br)/r",
+      "D": "A exp(-Br)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a bare, critical infinite cylindrical reactor, the one-group neutron flux distribution depends only on the radial distance and is represented by which type of function?",
+    "choices": {
+      "A": "Cosine function",
+      "B": "Exponential function",
+      "C": "Bessel function of the first kind, order zero",
+      "D": "Bessel function of the second kind, order zero"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a bare, uniform reactor operating at steady state, where is the maximum neutron flux and power density typically found?",
+    "choices": {
+      "A": "At the reactor surface",
+      "B": "Midway between the center and surface",
+      "C": "At the geometric center",
+      "D": "Distributed uniformly throughout the volume"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In one-group diffusion theory for a bare reactor, the critical buckling (B_c^2) is determined by the material properties through the infinite multiplication factor (k_inf) and the thermal diffusion area (L^2). What is the relationship between these parameters for a critical system?",
+    "choices": {
+      "A": "B_c^2 = k_inf * L^2",
+      "B": "B_c^2 = (k_inf - 1) / L^2",
+      "C": "B_c^2 = L^2 / (k_inf - 1)",
+      "D": "B_c^2 = k_inf / (1 + L^2)"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In one-group diffusion theory, the effective multiplication factor (k_eff) for a bare reactor is related to the infinite multiplication factor (k_inf) and the nonleakage probability (PL). For a critical reactor, which equation correctly expresses this relationship?",
+    "choices": {
+      "A": "k_eff = k_inf + PL",
+      "B": "k_eff = k_inf / PL",
+      "C": "k_eff = k_inf * PL",
+      "D": "k_eff = k_inf - PL"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A bare spherical reactor has material properties resulting in an infinite multiplication factor (k_inf) of 2.61 and a thermal diffusion area (L^2) of 384 cm^2. If the extrapolation distance is 6.84 cm, estimate the critical radius of the reactor.",
+    "choices": {
+      "A": "38.5 cm",
+      "B": "41.7 cm",
+      "C": "45.0 cm",
+      "D": "48.5 cm"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What does the ratio of maximum-to-average neutron flux in a bare reactor primarily indicate?",
+    "choices": {
+      "A": "The average neutron energy spectrum",
+      "B": "The degree of variation in the neutron flux distribution",
+      "C": "The thermal neutron diffusion coefficient",
+      "D": "The resonance escape probability"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a uniform, bare spherical reactor operating at steady state, where is the maximum neutron flux typically located?",
+    "choices": {
+      "A": "At the outer boundary of the sphere",
+      "B": "At the geometric center of the sphere",
+      "C": "Uniformly distributed throughout the sphere",
+      "D": "Midway between the center and the boundary"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following parameters is NOT one of the four factors in the four-factor formula (k\u221e = \u03b7f p\u03b5) used to describe the infinite multiplication factor of a thermal reactor?",
+    "choices": {
+      "A": "Thermal utilization factor (f)",
+      "B": "Neutron age (\u03c4)",
+      "C": "Resonance escape probability (p)",
+      "D": "Fast fission factor (\u03b5)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The one-group critical equation for a bare reactor can be expressed as k\u221e / (1 + B\u00b2L\u00b2) = 1. In this equation, the term 1 / (1 + B\u00b2L\u00b2) represents the probability that a neutron:",
+    "choices": {
+      "A": "Causes fission in the fuel",
+      "B": "Is absorbed within the reactor volume",
+      "C": "Leaks out of the reactor surface",
+      "D": "Slows down to thermal energy"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Modern power reactors employ techniques such as the use of reflectors, non-uniform fuel loading, and strategically placed absorbers. The primary purpose of these techniques is to:",
+    "choices": {
+      "A": "Increase the average neutron energy",
+      "B": "Reduce the total neutron leakage from the core",
+      "C": "Flatten the neutron flux distribution across the core",
+      "D": "Minimize the effects of fuel burnup"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The two-group critical equation for a bare thermal reactor is given by k\u221e / [(1 + B\u00b2L_T\u00b2)(1 + B\u00b2\u03c4)] = 1. In this expression, the term (1 + B\u00b2\u03c4)\u207b\u00b9 represents the probability that a fission neutron does not escape the reactor:",
+    "choices": {
+      "A": "After reaching thermal energy",
+      "B": "While slowing down from fission energies",
+      "C": "Due to absorption in the fuel",
+      "D": "After causing a fast fission"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In nuclear reactor theory, what is the definition of the thermal utilization factor (f) in a thermal reactor?",
+    "choices": {
+      "A": "The probability that a fission neutron is not absorbed in any resonances while slowing down.",
+      "B": "The ratio of the total number of fission neutrons produced to the number produced by thermal fission alone.",
+      "C": "The fraction of the total thermal neutrons absorbed in the reactor that are absorbed by the fuel.",
+      "D": "The average number of neutrons emitted per thermal neutron absorbed in fuel."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What does the resonance escape probability (p) represent in the context of a thermal reactor?",
+    "choices": {
+      "A": "The probability that a thermal neutron will leak from the reactor.",
+      "B": "The probability that a fission neutron will not be absorbed in any resonances while slowing down to thermal energies.",
+      "C": "The fraction of thermal neutrons absorbed in the fuel.",
+      "D": "The probability that a thermal neutron will cause fission upon absorption."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following parameters is NOT one of the four factors in the four-factor formula (k\u221e) for an infinite thermal reactor?",
+    "choices": {
+      "A": "Thermal utilization (f)",
+      "B": "Resonance escape probability (p)",
+      "C": "Fast fission factor (\u03b5)",
+      "D": "Thermal diffusion area (L\u00b2)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The effective multiplication factor (k) for a bare thermal reactor is related to the infinite multiplication factor (k\u221e) and neutron non-leakage probabilities. Which of the following correctly expresses this relationship, where PF is the probability a fast neutron does not leak while slowing down and PT is the probability a thermal neutron does not leak?",
+    "choices": {
+      "A": "k = k\u221e / (PF + PT)",
+      "B": "k = k\u221e * PF * PT",
+      "C": "k = k\u221e / (PF * PT)",
+      "D": "k = k\u221e * (PF + PT)"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Given the macroscopic thermal absorption cross-section of the fuel (\u03a3aF) and the macroscopic thermal absorption cross-section of the moderator (\u03a3aM), what is the correct expression for the thermal utilization (f) in a homogeneous thermal reactor?",
+    "choices": {
+      "A": "f = \u03a3aM / \u03a3aF",
+      "B": "f = \u03a3aF / \u03a3aM",
+      "C": "f = \u03a3aF / (\u03a3aF + \u03a3aM)",
+      "D": "f = (\u03a3aF + \u03a3aM) / \u03a3aM"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a critical bare spherical thermal reactor with radius R, the buckling is given by B\u00b2 = (\u03c0/R)\u00b2. The composition parameter Z = \u03a3aF / \u03a3aM must satisfy the modified one-group critical equation. Given the thermal diffusion area of the moderator (L\u00b2M), the neutron age of the moderator (\u03c4M), and the number of neutrons per thermal absorption in fuel (\u03b7T), which expression correctly relates Z to these parameters for a critical reactor assuming p=\u03b5=1?",
+    "choices": {
+      "A": "Z = (\u03b7T - 1 - B\u00b2\u03c4M) / (1 + B\u00b2(L\u00b2M + \u03c4M))",
+      "B": "Z = (1 + B\u00b2(L\u00b2M + \u03c4M)) / (\u03b7T - 1 - B\u00b2\u03c4M)",
+      "C": "Z = (1 + B\u00b2(L\u00b2M - \u03c4M)) / (\u03b7T - 1 + B\u00b2\u03c4M)",
+      "D": "Z = (\u03b7T + 1 + B\u00b2\u03c4M) / (1 - B\u00b2(L\u00b2M + \u03c4M))"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the term for the sum of the thermal diffusion area (L\u00b2) and the neutron age (\u03c4)?",
+    "choices": {
+      "A": "Buckling",
+      "B": "Thermal utilization",
+      "C": "Migration area",
+      "D": "Multiplication factor"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In modified one-group theory for a bare thermal reactor, which parameter typically replaces the thermal diffusion area (L\u00b2) used in a standard one-group calculation?",
+    "choices": {
+      "A": "Neutron age (\u03c4)",
+      "B": "Migration area (M\u00b2)",
+      "C": "Buckling (B\u00b2)",
+      "D": "Thermal utilization (f)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For which common moderator is the neutron age (\u03c4) generally *not* significantly less than the thermal diffusion area (L\u00b2), making modified one-group theory a more appropriate approach than standard one-group theory?",
+    "choices": {
+      "A": "Graphite",
+      "B": "Heavy Water (D\u2082O)",
+      "C": "Beryllium",
+      "D": "Light Water (H\u2082O)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Consider a bare homogeneous thermal reactor operating under modified one-group theory. The critical equation relates the infinite multiplication factor (k\u221e), the buckling (B\u00b2), and the migration area (M\u00b2). Which of the following is a correct form of the modified one-group critical equation?",
+    "choices": {
+      "A": "k\u221e B\u00b2M\u00b2 = 1",
+      "B": "k\u221e = 1 / (1 + B\u00b2M\u00b2)",
+      "C": "k\u221e = 1 + B\u00b2M\u00b2",
+      "D": "k\u221e / (B\u00b2M\u00b2) = 1"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a bare cylindrical thermal reactor with a specified homogeneous composition of fissile material and moderator, what is the approximate ratio of the cylinder's height (H) to its radius (R) that minimizes the critical mass?",
+    "choices": {
+      "A": "H/R = 1.00",
+      "B": "H/R = 1.82",
+      "C": "H/R = 2.405",
+      "D": "H/R = \u03c0"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a bare spherical thermal reactor of radius R composed of a homogeneous mixture of fissile fuel and moderator, operating under modified one-group theory with negligible resonance absorption and fast fission, the buckling is B\u00b2 = (\u03c0/R)\u00b2. The parameter Z is the ratio of the macroscopic thermal absorption cross-section of the fuel to that of the moderator. Given the moderator thermal diffusion area (L\u00b2M), the moderator age (\u03c4M), and the thermal neutrons produced per absorption in the fuel (\u03b7), which equation correctly expresses Z in terms of B\u00b2, \u03b7, L\u00b2M, and \u03c4M for a critical reactor?",
+    "choices": {
+      "A": "Z = (\u03b7 - 1 - B\u00b2\u03c4M) / (1 + B\u00b2(L\u00b2M + \u03c4M))",
+      "B": "Z = (1 + B\u00b2(L\u00b2M + \u03c4M)) / (\u03b7 - 1 - B\u00b2\u03c4M)",
+      "C": "Z = (\u03b7 - 1) / (1 + B\u00b2(L\u00b2M + \u03c4M) - B\u00b2\u03c4M)",
+      "D": "Z = (1 + B\u00b2L\u00b2M) / (\u03b7 - 1 - B\u00b2\u03c4M) + B\u00b2\u03c4M"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary benefit of surrounding a reactor core with a reflector?",
+    "choices": {
+      "A": "To increase the neutron multiplication factor (k-effective) significantly above 1.0.",
+      "B": "To reduce the critical size and mass of the reactor.",
+      "C": "To absorb all fast neutrons before they reach the core.",
+      "D": "To increase the reactor's power output without changing fuel enrichment."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a finite cylindrical reactor with the minimum critical mass, what is the approximate relationship between its height (H) and radius (R)?",
+    "choices": {
+      "A": "H = R",
+      "B": "H = 1.82R",
+      "C": "H = \u03c0R",
+      "D": "H = R / 1.82"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to one-group diffusion theory, which boundary conditions must be satisfied at the interface between a reactor core and a reflector?",
+    "choices": {
+      "A": "Continuity of flux and zero current.",
+      "B": "Zero flux and continuity of current.",
+      "C": "Continuity of flux and continuity of current.",
+      "D": "Zero flux and zero current."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a two-group calculation for a reflected thermal reactor, where is the thermal neutron flux predicted to exhibit a peak?",
+    "choices": {
+      "A": "At the exact center of the reactor core.",
+      "B": "Near the core-reflector interface, within the reflector.",
+      "C": "Uniformly throughout the core and reflector.",
+      "D": "At the outer boundary of the reflector."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a spherical reactor core surrounded by a reflector, the criticality condition involves a transcendental equation. The first root of this equation corresponds to the critical size. How does the value of BR (Buckling * Radius) for the critical reflected core compare to the value of BR for a critical bare spherical core of the same composition?",
+    "choices": {
+      "A": "BR for the reflected core is greater than BR for the bare core.",
+      "B": "BR for the reflected core is equal to BR for the bare core.",
+      "C": "BR for the reflected core is less than BR for the bare core.",
+      "D": "The relationship depends on the specific reflector material."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider the graphical solution for the critical radius of a reflected spherical reactor, where the left-hand side (LHS) and right-hand side (RHS) of the transcendental criticality equation are plotted as functions of BR. The LHS has infinite branches of width \u03c0. The first intersection of the LHS and RHS determines the critical condition. If the RHS is a straight line intersecting the vertical axis at a negative value, what does the value of BR at the first intersection imply compared to the bare reactor case (BR = \u03c0)?",
+    "choices": {
+      "A": "The first intersection occurs at BR = \u03c0, indicating no change in critical radius due to the reflector.",
+      "B": "The first intersection occurs at BR > \u03c0, indicating the reflected core is larger than the bare core.",
+      "C": "The first intersection occurs at BR < \u03c0, indicating the reflected core is smaller than the bare core.",
+      "D": "The first intersection can occur at BR > \u03c0 or BR < \u03c0 depending on the slope of the RHS line."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which of the following is a primary effect of adding a reflector to a reactor core?",
+    "choices": {
+      "A": "Increase the critical mass of the core.",
+      "B": "Increase the critical radius of the core.",
+      "C": "Flatten the thermal flux distribution within the core.",
+      "D": "Increase the maximum-to-average flux ratio."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a spherical reactor, how is reflector savings defined in terms of the bare core radius (Ro) and the reflected core radius (R)?",
+    "choices": {
+      "A": "Reflector Savings = R - Ro",
+      "B": "Reflector Savings = Ro - R",
+      "C": "Reflector Savings = (Ro - R) / 2",
+      "D": "Reflector Savings = (Ro + R) / 2"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A reactor is typically classified as heterogeneous if:",
+    "choices": {
+      "A": "The fuel is highly enriched.",
+      "B": "The neutron mean free path at some energy is comparable to or smaller than the fuel rod thickness.",
+      "C": "The reactor operates at very low power levels.",
+      "D": "The moderator material has a very low absorption cross-section."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How does the critical radius of a reflected spherical reactor typically compare to that of a bare spherical reactor of the same composition?",
+    "choices": {
+      "A": "It is larger than the bare critical radius.",
+      "B": "It is smaller than the bare critical radius.",
+      "C": "It is the same as the bare critical radius.",
+      "D": "It depends linearly on the square of the bare critical radius."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In a multigroup analysis of an infinite, critical reactor, what condition must the determinant of the coefficients of the linear algebraic equations for the group fluxes satisfy?",
+    "choices": {
+      "A": "It must be equal to the number of energy groups.",
+      "B": "It must be equal to the total macroscopic fission cross-section.",
+      "C": "It must be equal to zero.",
+      "D": "It must be greater than zero."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using the empirical formula \u03b4 = 7.2 + 0.10(M_c^2 - 40.0) cm for water-moderated/reflected reactors, calculate the reflector savings for a spherical reactor core with a migration area (M_c^2) of 30.8 cm^2.",
+    "choices": {
+      "A": "7.2 cm",
+      "B": "9.2 cm",
+      "C": "6.3 cm",
+      "D": "5.2 cm"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a spherical reactor, how is the reflected critical radius (R) related to the bare critical radius (R\u2080) and the reflector savings (\u03b4)?",
+    "choices": {
+      "A": "R = R\u2080 + \u03b4",
+      "B": "R = R\u2080 - \u03b4",
+      "C": "R = \u03b4 - R\u2080",
+      "D": "R = R\u2080 * \u03b4"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A nuclear reactor is considered quasi-homogeneous if:",
+    "choices": {
+      "A": "The fuel and moderator are uniformly mixed at the atomic level.",
+      "B": "The neutron mean free path at all energies is large compared to the fuel rod thickness.",
+      "C": "The fuel rods are made of highly enriched uranium.",
+      "D": "The reactor utilizes a liquid moderator and coolant."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In nuclear reactor theory, thermal utilization (f) represents the probability that a thermal neutron, upon being absorbed in the core, is absorbed in which component?",
+    "choices": {
+      "A": "The moderator",
+      "B": "The coolant",
+      "C": "The fuel",
+      "D": "Structural materials"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a finite cylindrical reactor with physical height H, extrapolated height H, and extrapolation distance d, if the reactor is reflected only on the bottom surface with reflector savings \u03b4, the extrapolated height is given by:",
+    "choices": {
+      "A": "H = H + 2\u03b4",
+      "B": "H = H + \u03b4",
+      "C": "H = H + d + \u03b4",
+      "D": "H = H + 2d"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The thermal disadvantage factor (\u03b6) in a heterogeneous reactor is defined as the ratio of the average thermal flux in the moderator (\u03c6TM) to the average thermal flux in the fuel (\u03c6TF). Why is this factor typically greater than unity?",
+    "choices": {
+      "A": "Thermal neutrons are preferentially absorbed in the moderator.",
+      "B": "The scattering cross-section is much higher in the fuel than the moderator.",
+      "C": "The absorption cross-section of the fuel is significantly higher than that of the moderator, leading to flux depression in the fuel.",
+      "D": "The volume of the moderator is always larger than the volume of the fuel."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using Deutsch's empirical formula for water-moderated and water-reflected systems, what is the reflector savings (in cm) if the migration area of the core is 35.0 cm\u00b2?",
+    "choices": {
+      "A": "6.7",
+      "B": "7.2",
+      "C": "7.7",
+      "D": "8.0"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the thermal utilization factor (f) in a nuclear reactor?",
+    "choices": {
+      "A": "The probability that a thermal neutron is absorbed in the fuel.",
+      "B": "The ratio of fast neutrons to thermal neutrons.",
+      "C": "The probability that a neutron escapes resonance capture.",
+      "D": "The ratio of neutrons absorbed in fuel to total neutrons absorbed in the core."
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the definition of the fast fission factor (\u03b5) in a nuclear reactor?",
+    "choices": {
+      "A": "The ratio of neutrons produced by thermal fission to those produced by fast fission.",
+      "B": "The ratio of the total number of neutrons emitted from both thermal and fast fission to the number emitted in thermal fission alone.",
+      "C": "The probability that a fast neutron causes fission before slowing down.",
+      "D": "The number of fast neutrons produced per thermal neutron absorbed."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a heterogeneous thermal reactor, how does the thermal neutron flux in the fuel typically compare to the thermal neutron flux in the moderator?",
+    "choices": {
+      "A": "The flux is generally higher in the fuel due to fission.",
+      "B": "The flux is generally lower in the fuel due to higher absorption.",
+      "C": "The flux is approximately the same in both regions.",
+      "D": "The flux distribution depends entirely on the moderator material."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Calculate the thermal fission factor (\u03b7) for natural uranium at room temperature, given \u03bd\u00b2\u00b3\u2075 = 2.42, \u03c3_f\u00b2\u00b3\u2075 = 582 b, g_f\u00b2\u00b3\u2075(20\u00b0C) = 0.976, \u03c3_a\u00b2\u00b3\u2075 = 681 b, g_a\u00b2\u00b3\u2075(20\u00b0C) = 0.978, \u03c3_a\u00b2\u00b3\u2078 = 2.70 b, g_a\u00b2\u00b3\u2078(20\u00b0C) = 1.0017, and N\u00b2\u00b3\u2078/N\u00b2\u00b3\u2075 = 138.",
+    "choices": {
+      "A": "1.401",
+      "B": "2.065",
+      "C": "1.32",
+      "D": "1.65"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate the resonance integral (I) for a natural uranium metal fuel rod with a radius of 1.02 cm and a density of 19.1 g/cm\u00b3, using the empirical formula I = A + C/\u221aa\u03c1, where A=2.8 and C=38.3 for \u00b2\u00b3\u2078U metal.",
+    "choices": {
+      "A": "11.5 b",
+      "B": "2.8 b",
+      "C": "38.3 b",
+      "D": "7.6 b"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate the thermal utilization factor (f) for a heterogeneous lattice with the following parameters: \u03a3aF = 0.3668 cm\u207b\u00b9, \u03a3aM = 0.0002728 cm\u207b\u00b9, VM/VF = 195.6, lattice function F = 1.0532, and lattice function E = 1.0557. Use the calculation method where 1/f = (\u03a3aM VM / \u03a3aF) * F + E.",
+    "choices": {
+      "A": "0.8272",
+      "B": "1.2089",
+      "C": "1.0532",
+      "D": "0.6783"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  }
+]

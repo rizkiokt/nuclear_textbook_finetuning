@@ -1,0 +1,662 @@
+[
+  {
+    "question": "What is the primary purpose of biological shielding in nuclear engineering?",
+    "choices": {
+      "A": "To reduce heating in reactor vessels.",
+      "B": "To protect electronic equipment from radiation.",
+      "C": "To reduce radiation exposure to personnel.",
+      "D": "To enhance neutron multiplication in the reactor core."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to radiation shielding principles, which type of radiation typically requires less shielding thickness compared to gamma-rays or neutrons due to its short range in matter?",
+    "choices": {
+      "A": "X-rays",
+      "B": "Beta particles",
+      "C": "Neutrons",
+      "D": "Gamma-rays"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In gamma-ray shielding calculations, what does the buildup factor primarily account for?",
+    "choices": {
+      "A": "The exponential attenuation of primary photons.",
+      "B": "The contribution of scattered photons and secondary radiation to the total dose or flux.",
+      "C": "The rate of radioactive decay within the shielding material.",
+      "D": "The absorption cross-section of the shielding material."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A monodirectional beam of 2 MeV gamma-rays with an initial intensity of 10\u2076 \u03b3-rays/cm\u00b2-sec is incident on a lead shield 10 cm thick. Given that the total attenuation coefficient (\u03bc) for lead at 2 MeV is 0.518 cm\u207b\u00b9, calculate the uncollided flux emerging from the shield.",
+    "choices": {
+      "A": "10\u2076 \u03b3-rays/cm\u00b2-sec",
+      "B": "5.63 x 10\u00b3 \u03b3-rays/cm\u00b2-sec",
+      "C": "1.56 x 10\u2074 \u03b3-rays/cm\u00b2-sec",
+      "D": "5.18 x 10\u207b\u00b3 \u03b3-rays/cm\u00b2-sec"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a monodirectional beam of gamma-rays incident on a slab shield of thickness 'a', the exposure rate behind the shield (X) is given by X = X\u2080Bm(\u03bca)e\u207b\u03bca, where X\u2080 is the exposure rate without the shield and \u03bc is the total attenuation coefficient. What is the term Bm(\u03bca)?",
+    "choices": {
+      "A": "The uncollided flux attenuation factor.",
+      "B": "The effective thickness of the shield in mean free paths.",
+      "C": "The exposure buildup factor for a monodirectional beam.",
+      "D": "The linear attenuation coefficient."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using the provided information, estimate the Exposure Buildup Factor (Bm) for a monodirectional 2 MeV gamma-ray beam incident on a lead shield with a thickness corresponding to 5.18 mean free paths (\u03bca = 5.18).",
+    "choices": {
+      "A": "Approximately 2.35",
+      "B": "Approximately 3.76",
+      "C": "Approximately 2.78",
+      "D": "Approximately 6.11"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In gamma-ray shielding calculations, what does the uncollided flux represent?",
+    "choices": {
+      "A": "The total flux of gamma rays, including those that have scattered.",
+      "B": "The flux of gamma rays that have undergone at least one scattering interaction.",
+      "C": "The flux of gamma rays that have passed through the shield without any interaction.",
+      "D": "The energy deposition rate per unit volume."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary purpose of using a buildup factor in gamma-ray shielding calculations?",
+    "choices": {
+      "A": "To account for the radioactive decay of the source.",
+      "B": "To simplify the calculation of the uncollided flux.",
+      "C": "To account for the contribution of scattered gamma rays to the total flux or dose.",
+      "D": "To determine the half-value layer of the shielding material."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For shielding calculations involving a monodirectional gamma-ray beam normally incident on a slab shield, which type of buildup factor is typically applied?",
+    "choices": {
+      "A": "Point isotropic exposure buildup factor (Bp).",
+      "B": "Monodirectional beam exposure buildup factor (Bm).",
+      "C": "Energy absorption buildup factor (Ba).",
+      "D": "Dose buildup factor (Bd)."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A monodirectional beam of 2-MeV gamma rays with an initial intensity of 10\u2076 \u03b3-rays/cm\u00b2-sec is incident on a lead shield. The linear attenuation coefficient for 2-MeV gamma rays in lead is 0.518 cm\u207b\u00b9. If the shield is 10 cm thick, calculate the uncollided flux at the rear surface of the shield.",
+    "choices": {
+      "A": "5.63 x 10\u00b3 \u03b3-rays/cm\u00b2-sec",
+      "B": "1.56 x 10\u2074 \u03b3-rays/cm\u00b2-sec",
+      "C": "1.00 x 10\u2076 \u03b3-rays/cm\u00b2-sec",
+      "D": "0.518 \u03b3-rays/cm\u00b2-sec"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using standard data for the point isotropic exposure buildup factor in Iron, what is the approximate value of Bp for 1.0 MeV gamma rays at an optical thickness (\u03bcR) of 7?",
+    "choices": {
+      "A": "5.39",
+      "B": "10.2",
+      "C": "16.2",
+      "D": "28.3"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A point isotropic source emits 10\u2078 \u03b3-rays/sec at 1 MeV. It is shielded by a spherical iron shield 10 cm thick. The linear attenuation coefficient for 1-MeV gamma rays in iron is 0.468 cm\u207b\u00b9. The mass energy absorption coefficient for 1-MeV gamma rays in air is 0.0280 cm\u00b2/g, and the constant for converting flux to exposure rate (k = C * Eo * (\u03bca/\u03c1)air * \u03c6b) has C = 0.0659 (mR/hr)/(\u03b3/cm\u00b2-sec)/(MeV-cm\u00b2/g). Using standard data for the point isotropic exposure buildup factor (Bp) in Iron and linear interpolation from \u03bcR=4 (Bp=10.2) to \u03bcR=7 (Bp=16.2) for 1 MeV gamma rays, estimate the exposure rate at the surface of the shield (R = 10 cm).",
+    "choices": {
+      "A": "Approximately 5.4 mR/hr",
+      "B": "Approximately 11.6 mR/hr",
+      "C": "Approximately 15.8 mR/hr",
+      "D": "Approximately 22.1 mR/hr"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the value of the parameter A for the Taylor form of the exposure buildup factor for Aluminum at 4 MeV?",
+    "choices": {
+      "A": "10.583",
+      "B": "7.526",
+      "C": "5.713",
+      "D": "4.716"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The exponential integral function E_n(x) is defined by which of the following integrals?",
+    "choices": {
+      "A": "$\\int_x^\\infty \\frac{e^{-t}}{t^n} dt$",
+      "B": "$\\int_0^x \\frac{e^{-t}}{t^n} dt$",
+      "C": "$\\int_x^\\infty t^n e^{-t} dt$",
+      "D": "$\\int_0^x t^n e^{-t} dt$"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Sievert integral function F($\\theta$, x) is defined by which of the following integrals?",
+    "choices": {
+      "A": "$\\int_0^\\theta e^{-x\\sec\\phi} d\\phi$",
+      "B": "$\\int_\\theta^{\\pi/2} e^{-x\\sec\\phi} d\\phi$",
+      "C": "$\\int_0^\\theta e^{-x\\cos\\phi} d\\phi$",
+      "D": "$\\int_\\theta^{\\pi/2} e^{-x\\cos\\phi} d\\phi$"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For an infinite isotropic planar source emitting S gamma rays/cm\u00b2-sec located behind a slab shield of thickness 'a', the uncollided flux at a point on the surface of the shield is given by which expression, where $\\mu$ is the linear attenuation coefficient and E1 is the exponential integral function?",
+    "choices": {
+      "A": "$S \\cdot E_1(\\mu a)$",
+      "B": "$S \\cdot E_1(\\mu a) / 2$",
+      "C": "$S / (2 \\pi \\mu a)$",
+      "D": "$S \\cdot E_2(\\mu a) / 2$"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For an isotropic line source of length L and strength S per unit length, imbedded along the axis of a cylindrical shield of radius R, the uncollided flux at a point P on the axis is given by which expression, where $\\mu$ is the linear attenuation coefficient, $\\theta_1$ and $\\theta_2$ are the angles subtended by the source ends at P, and F is the Sievert integral function?",
+    "choices": {
+      "A": "$S \\cdot [F(\\theta_2, \\mu R) - F(\\theta_1, \\mu R)] / (4 \\pi R)$",
+      "B": "$S \\cdot [F(\\theta_2, \\mu R) + F(\\theta_1, \\mu R)] / (4 \\pi R)$",
+      "C": "$S \\cdot [F(\\theta_2, R/\\mu) - F(\\theta_1, R/\\mu)] / (4 \\pi R)$",
+      "D": "$S \\cdot [F(\\theta_2, R/\\mu) + F(\\theta_1, R/\\mu)] / (4 \\pi R)$"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For an infinite isotropic planar source emitting S gamma rays/cm\u00b2-sec located behind a slab shield of thickness 'a', the buildup flux at a point on the surface of the shield is given by which expression, where $\\mu$ is the linear attenuation coefficient, $A_n$ and $\\alpha_n$ are parameters for the Taylor form of the buildup factor, and E1 is the exponential integral function?",
+    "choices": {
+      "A": "$S/2 \\sum_{n=1,2} A_n E_1((1 + \\alpha_n)\\mu a)$",
+      "B": "$S \\sum_{n=1,2} A_n E_1((1 + \\alpha_n)\\mu a)$",
+      "C": "$S/2 \\sum_{n=1,2} A_n E_2((1 + \\alpha_n)\\mu a)$",
+      "D": "$S \\sum_{n=1,2} A_n E_2((1 + \\alpha_n)\\mu a)$"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What mathematical function is commonly used to express the uncollided flux from a disc source after passing through a slab shield?",
+    "choices": {
+      "A": "Bessel function",
+      "B": "Sievert integral function",
+      "C": "Exponential integral function E1",
+      "D": "Legendre polynomial"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Sievert integral function, F(\u03b8, x), is primarily used in the analytical calculation of uncollided flux from which source geometry?",
+    "choices": {
+      "A": "Point source",
+      "B": "Infinite planar source",
+      "C": "Disc source",
+      "D": "Line source"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a uniform gamma-ray source distributed throughout a slab shield, the uncollided flux exiting the slab can be calculated using the exponential integral function of order 2, denoted as E2.",
+    "choices": {
+      "A": "True",
+      "B": "False",
+      "C": "True, but only for an infinite slab",
+      "D": "False, E1 is used"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When an isotropic planar source is located at a distance from a slab shield (as opposed to being adjacent), the uncollided flux calculation involves an integral transformation. How does the final expression for the uncollided flux compare to the case where the source and observation point are immediately adjacent to the shield?",
+    "choices": {
+      "A": "It is significantly different and requires a new function",
+      "B": "It is mathematically equivalent to the adjacent case",
+      "C": "It is simpler and reduces to a direct exponential attenuation",
+      "D": "It requires numerical integration methods only"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In calculating the buildup flux for a line source shielded by a cylinder, the Sievert integral function F(\u03b8, x) is used. To account for buildup, the argument 'x' in F(\u03b8, x) is modified. If the linear attenuation coefficient is \u03bc, how is 'x' typically modified for the n-th term of a polynomial buildup factor expansion?",
+    "choices": {
+      "A": "It is replaced by \u03bc/B_n",
+      "B": "It is replaced by \u03bc * B_n",
+      "C": "It is replaced by \u03bc * (1 + a_n)",
+      "D": "It is replaced by \u03bc / (1 + a_n)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For an isotropic line source of length 'l' along the z-axis, embedded in a cylindrical shield of radius R, the uncollided flux at a point P on the axis outside the shield is calculated by integrating contributions along the source length. If the integration variable is changed from 'z' (position along the source) to '\u03b8' (angle from P to a point on the source, relative to the perpendicular distance R), what is the correct differential transformation dz?",
+    "choices": {
+      "A": "dz = R tan\u03b8 d\u03b8",
+      "B": "dz = R sec\u03b8 d\u03b8",
+      "C": "dz = R sec\u00b2\u03b8 d\u03b8",
+      "D": "dz = R csc\u00b2\u03b8 d\u03b8"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the primary strategy employed for shielding against fast neutrons in a nuclear reactor shield?",
+    "choices": {
+      "A": "Direct absorption by high cross-section materials",
+      "B": "Slowing them down through elastic and inelastic collisions followed by absorption",
+      "C": "Reflecting them back into the reactor core",
+      "D": "Using materials with very low atomic mass exclusively"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which material is frequently utilized in nuclear reactor biological shields due to its effectiveness in slowing down neutrons and its structural properties?",
+    "choices": {
+      "A": "Lead",
+      "B": "Iron",
+      "C": "Concrete",
+      "D": "Boron Carbide"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In shielding calculations for a line source of gamma rays, which special function is commonly used to represent angular and attenuation dependencies?",
+    "choices": {
+      "A": "Bessel Function",
+      "B": "Gamma Function",
+      "C": "Error Function",
+      "D": "F(B, x) Function"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When calculating gamma-ray attenuation in a multilayered shield consisting of different materials, how is the overall buildup factor typically determined?",
+    "choices": {
+      "A": "By multiplying the buildup factors of each individual layer.",
+      "B": "By using approximate recipes that depend on the order and properties (atomic number, thickness) of the layers.",
+      "C": "By averaging the buildup factors of the individual layers.",
+      "D": "By simply using the buildup factor of the thickest layer."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Among the various radiation sources emanating from a nuclear reactor, which type is generally considered the most challenging to effectively shield against?",
+    "choices": {
+      "A": "Delayed Fission Neutrons",
+      "B": "Prompt Fission Gamma-Rays",
+      "C": "Prompt Fission Neutrons",
+      "D": "Fission Product Decay Gamma-Rays"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider a two-layer shield where a high-Z material is placed first, followed by a low-Z material. If the incident gamma-ray energy is significantly above the energy corresponding to the minimum attenuation coefficient in the high-Z material, how is the overall buildup factor approximated using one common recipe?",
+    "choices": {
+      "A": "The buildup factor of the low-Z layer is used, evaluated for the full thickness of the shield.",
+      "B": "The product of the buildup factor of the high-Z layer (evaluated at its thickness) and the buildup factor of the low-Z layer (evaluated at its thickness and an energy corresponding to the minimum attenuation in the high-Z material).",
+      "C": "The sum of the buildup factors for each layer evaluated independently.",
+      "D": "The buildup factor of the high-Z layer is used, evaluated for the full thickness of the shield."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In nuclear shielding, what primary process does the macroscopic removal cross-section quantify for fast neutrons in a hydrogenous medium?",
+    "choices": {
+      "A": "Absorption",
+      "B": "Inelastic scattering",
+      "C": "Elastic scattering that removes neutrons from the fast flux",
+      "D": "Photoelectric absorption"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which radiation source is generally considered the most important to shield against when designing the biological shield for a nuclear reactor?",
+    "choices": {
+      "A": "Delayed fission neutrons",
+      "B": "Prompt fission gamma-rays",
+      "C": "Capture gamma-rays",
+      "D": "Prompt fission neutrons"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a monodirectional beam of gamma-rays incident on a shield composed of two layers with thicknesses $a_1$ and $a_2$ and total attenuation coefficients $\\mu_1$ and $\\mu_2$ respectively, what is the uncollided flux transmission factor?",
+    "choices": {
+      "A": "$e^{-(\\mu_1 a_1 + \\mu_2 a_2)}$",
+      "B": "$e^{-\\mu_1 a_1} + e^{-\\mu_2 a_2}$",
+      "C": "$e^{-(\\mu_1 a_1) \\times (\\mu_2 a_2)}$",
+      "D": "$(\\mu_1 a_1 + \\mu_2 a_2)^{-1}$"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When shielding 0.5-MeV gamma-rays with layers of lead (high Z) and water (low Z), which arrangement of the layers generally results in a larger overall buildup of scattered radiation reaching the observer?",
+    "choices": {
+      "A": "Placing the lead layer before the water layer.",
+      "B": "Placing the water layer before the lead layer.",
+      "C": "The order of the layers does not significantly affect the overall buildup.",
+      "D": "Placing a layer of concrete between the lead and water layers."
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Hydrogen is a principal component in many reactor shields primarily because it is effective at:",
+    "choices": {
+      "A": "Absorbing fast neutrons via the $^1$H(n,$\\gamma$)$^2$H reaction.",
+      "B": "Causing large energy losses in fast neutrons through elastic scattering collisions.",
+      "C": "Undergoing inelastic scattering with fast neutrons, significantly reducing their energy.",
+      "D": "Absorbing thermal neutrons without emitting high-energy capture gamma rays."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider a layered shield consisting of a high-Z material followed by a low-Z material. According to approximate methods for calculating gamma-ray buildup, how is the overall buildup factor estimated when the incident gamma-ray energy is significantly above the minimum in the high-Z material's total attenuation coefficient curve (approximately 3 MeV)?",
+    "choices": {
+      "A": "Use the buildup factor of the second (low-Z) medium as if the first medium were not present.",
+      "B": "Use the buildup factor of the first (high-Z) medium evaluated at the total thickness of both layers.",
+      "C": "Multiply the buildup factor of the first (high-Z) medium by the buildup factor of the second (low-Z) medium, where the second factor is evaluated at an energy corresponding to the minimum in the high-Z material's attenuation curve.",
+      "D": "Use the buildup factor of the medium with the larger buildup factor, evaluated at the sum of the optical thicknesses ($\\mu_1 a_1 + \\mu_2 a_2$)."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Why is boron sometimes added to reactor shields?",
+    "choices": {
+      "A": "To increase the energy of capture gamma rays.",
+      "B": "To absorb thermal neutrons and produce low-energy gamma rays.",
+      "C": "To increase the fast neutron flux.",
+      "D": "To decrease the thermal neutron absorption cross-section."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When a fast neutron (>1 MeV) undergoes a collision with hydrogen in water, what is a primary consequence described in the text?",
+    "choices": {
+      "A": "Its energy increases significantly.",
+      "B": "Its mean free path for subsequent collisions is greatly shortened.",
+      "C": "It is immediately absorbed.",
+      "D": "It is scattered only through small angles."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of fast neutron shielding, what does the term \"removal cross-section\" represent?",
+    "choices": {
+      "A": "The probability of a neutron inducing fission.",
+      "B": "The effective cross-section for removing neutrons from the fast flux.",
+      "C": "The cross-section for elastic scattering only.",
+      "D": "The cross-section for thermal neutron absorption."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a point isotropic fission source in water, the fast neutron flux G(r) at large distances r is approximated by a specific functional form. Which of the following best represents this form, where A and \u03a3RW are constants?",
+    "choices": {
+      "A": "A e\u207b\u03a3RW r",
+      "B": "A e\u207b\u03a3RW r / (4\u03c0r\u00b2)",
+      "C": "A / r\u00b2",
+      "D": "A e\u207b\u03a3RW r\u00b2"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The text states that the removal cross-section for a material is defined under a specific condition regarding the surrounding medium. What is this condition?",
+    "choices": {
+      "A": "The material must be followed by a vacuum.",
+      "B": "The material must be surrounded by heavy water.",
+      "C": "The material must be followed by a medium containing sufficient hydrogen.",
+      "D": "The material must be followed by a thick layer of iron."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the approximate formula for the fast neutron flux at the surface of a thick hydrogenous shield surrounding a spherical core (Eq. 10.74), the parameter '\u03b1' represents the effective macroscopic removal cross-section of the core. Based on the text, what does this '\u03b1' depend on?",
+    "choices": {
+      "A": "The core radius and shield thickness.",
+      "B": "The volume fraction of metal in the core, and the removal cross-sections of water and metal.",
+      "C": "The total neutron production rate in the core.",
+      "D": "The microscopic removal cross-sections of the core materials only."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In the removal-diffusion method for radiation shielding calculations, neutrons are typically categorized into which three main energy classes?",
+    "choices": {
+      "A": "Prompt, Delayed, and Thermal",
+      "B": "Fast, Intermediate, and Thermal",
+      "C": "Fission, Capture, and Scattered",
+      "D": "Primary, Secondary, and Tertiary"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which method for calculating radiation penetration through shields involves simulating the paths and interactions of individual particles?",
+    "choices": {
+      "A": "Point Kernel Method",
+      "B": "Multigroup Diffusion Method",
+      "C": "Monte Carlo Method",
+      "D": "Removal-Attenuation Method"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For preliminary analytical calculations in reactor shield design using the removal-attenuation method, which type of kernel is commonly utilized?",
+    "choices": {
+      "A": "Diffusion Kernel",
+      "B": "Simple Exponential Kernel",
+      "C": "Build-up Factor Kernel",
+      "D": "Transport Kernel"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of removal-diffusion calculations, what does the source term Sh\u2192g represent?",
+    "choices": {
+      "A": "The macroscopic scattering cross-section from removal group h to intermediate group g.",
+      "B": "The total macroscopic removal cross-section for neutrons in removal group h.",
+      "C": "The rate at which neutrons are transferred from removal group h into intermediate group g per unit volume.",
+      "D": "The flux of neutrons in removal group h at a specific spatial point."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When a layer of material with a high removal cross-section is added to a hydrogenous shield to attenuate fast neutrons, it is most effective when placed:",
+    "choices": {
+      "A": "Adjacent to the radiation source (e.g., reactor core).",
+      "B": "In the middle of the shield thickness.",
+      "C": "Near the outer surface of the shield.",
+      "D": "Its effectiveness is independent of its position within the hydrogenous shield."
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a spherical reactor core of radius R emitting S neutrons/cm\u00b3-sec uniformly, surrounded by a shield of thickness a, the fast neutron flux at the outer surface of the shield (point P) for a small core and thick shield can be approximated by which expression, where \u03b1 is the effective removal cross-section in the core and \u03a3Rs is the removal cross-section in the shield?",
+    "choices": {
+      "A": "\u03a6(P) \u2248 (SA / (4\u03b1)) * (R / (R+a)) * exp(-\u03a3Rsa)",
+      "B": "\u03a6(P) \u2248 (SA / (4\u03b1)) * (R / (R+a))\u00b2 * exp(-\u03a3Rsa) * (1 - exp(-2\u03b1R))",
+      "C": "\u03a6(P) \u2248 (SA / (2\u03b1)) * (R / (R+a)) * exp(-\u03a3Rsa)",
+      "D": "\u03a6(P) \u2248 (SA / (2\u03b1)) * (R / (R+a))\u00b2 * exp(-\u03a3Rsa) * (1 - exp(-2\u03b1R))"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The Removal-Diffusion method for radiation shielding calculations is also known by what name?",
+    "choices": {
+      "A": "Diffusion-Attenuation method",
+      "B": "Spinney method",
+      "C": "Multigroup Transport method",
+      "D": "Point Kernel method"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of the Removal-Diffusion shielding method, which of the following is NOT typically considered a distinct class of neutrons?",
+    "choices": {
+      "A": "Removal group neutrons",
+      "B": "Thermal neutrons",
+      "C": "Epithermal neutrons",
+      "D": "Intermediate neutrons"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What fundamental approach does the Monte Carlo method use to estimate radiation penetration through a shield?",
+    "choices": {
+      "A": "Solving the transport equation numerically",
+      "B": "Simulating the life histories of individual particles",
+      "C": "Using empirical attenuation factors",
+      "D": "Applying point kernel integration"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the diffusion equation for an intermediate energy group 'g' within the Removal-Diffusion method, the source term Sh->g represents neutrons that have originated from which source?",
+    "choices": {
+      "A": "Prompt fission in the core",
+      "B": "Leakage from the thermal group",
+      "C": "Scattering from removal group 'h' into group 'g'",
+      "D": "Inelastic scattering within the intermediate group"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following is a significant source of gamma rays produced within a reactor shield itself due to neutron interactions?",
+    "choices": {
+      "A": "Prompt fission gamma rays",
+      "B": "Fission product decay gamma rays",
+      "C": "Capture gamma rays",
+      "D": "Core leakage gamma rays"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The source density of capture gamma rays in energy group 'n' at position 'r' due to capture in nucleus 'm' is proportional to which combination of factors at position 'r'?",
+    "choices": {
+      "A": "The number of fissions per unit volume and the removal cross-section for nucleus 'm'.",
+      "B": "The thermal neutron flux, the macroscopic thermal capture cross-section for nucleus 'm', and the number of photons in group 'n' emitted per capture in nucleus 'm'.",
+      "C": "The intermediate neutron flux in a higher energy group and the inelastic scattering cross-section for nucleus 'm'.",
+      "D": "The square of the distance from the core and the total macroscopic cross-section for nucleus 'm'."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are the primary sources of gamma rays emanating from an operating nuclear reactor?",
+    "choices": {
+      "A": "Prompt fission, fission product decay, radiative capture, and inelastic scattering",
+      "B": "Alpha decay, beta decay, and spontaneous fission",
+      "C": "Neutron scattering and absorption",
+      "D": "Cherenkov radiation and bremsstrahlung"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which reaction is the most important contributor to the radioactivity of water in water-cooled reactors?",
+    "choices": {
+      "A": "18O(n,\u03b3)19O",
+      "B": "17O(n,p)17N",
+      "C": "16O(n,p)16N",
+      "D": "23Na(n,\u03b3)24Na"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For neutrons incident on concrete slabs, how does the ratio of gamma-ray dose rate to neutron dose rate generally change as the slab thickness increases?",
+    "choices": {
+      "A": "It decreases",
+      "B": "It increases",
+      "C": "It remains constant",
+      "D": "It fluctuates unpredictably"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The activation product 17N, formed in water-cooled reactors via the 17O(n,p) reaction, is notable because its beta decay is followed by the emission of what type of particle?",
+    "choices": {
+      "A": "Alpha particle",
+      "B": "Neutron",
+      "C": "Positron",
+      "D": "Deuteron"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Based on data for thermal neutron capture gamma rays, which of the listed elements produces the highest number of photons per 100 captures in the 1-3 MeV energy range?",
+    "choices": {
+      "A": "H",
+      "B": "Na",
+      "C": "Al",
+      "D": "U"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Consider a simple coolant circuit where coolant spends time ti in the reactor flux and time to in the outer circuit. Assuming the residence times ti and to are small compared to the half-life of the induced activity, which expression best approximates the equilibrium activity per unit volume of coolant leaving the reactor?",
+    "choices": {
+      "A": "a = \u03a3act * \u03c6av * (ti + to)",
+      "B": "a = \u03a3act * \u03c6av * ti / (ti + to)",
+      "C": "a = \u03a3act * \u03c6av * to / (ti + to)",
+      "D": "a = \u03a3act * \u03c6av * (1 - e^(-\u03bbti))"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  }
+]

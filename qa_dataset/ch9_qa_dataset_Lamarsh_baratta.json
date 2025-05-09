@@ -1,0 +1,871 @@
+[
+  {
+    "question": "What is the conventional unit of absorbed dose?",
+    "choices": {
+      "A": "Roentgen",
+      "B": "Rem",
+      "C": "Rad",
+      "D": "Sievert"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Historically, miners in regions like Saxony and Czechoslovakia suffered from a high incidence of lung cancer primarily due to internal exposure from the inhalation of what substance?",
+    "choices": {
+      "A": "Uranium ore dust",
+      "B": "Radon gas and its decay products",
+      "C": "Heavy metal particles",
+      "D": "Thorium compounds"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the Systeme International (SI), what is the unit for equivalent dose?",
+    "choices": {
+      "A": "Gray",
+      "B": "Rad",
+      "C": "Sievert",
+      "D": "Roentgen"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the relationship between the SI unit (Gray) and the conventional unit (rad) for absorbed dose?",
+    "choices": {
+      "A": "1 Gray = 1 rad",
+      "B": "1 Gray = 10 rads",
+      "C": "1 Gray = 100 rads",
+      "D": "1 rad = 100 Grays"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The difference between absorbed dose (D) and equivalent dose (H) is that equivalent dose accounts for:",
+    "choices": {
+      "A": "The rate at which the dose is received",
+      "B": "The electrical charge produced in air",
+      "C": "The total energy deposited in the body",
+      "D": "The biological effectiveness of the radiation type"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A tissue receives an absorbed dose rate of 5 x 10\u207b\u2075 rad/sec from 1 MeV gamma rays. What is the equivalent dose rate in mSv/hr?",
+    "choices": {
+      "A": "0.18 mSv/hr",
+      "B": "1.8 mSv/hr",
+      "C": "18 mSv/hr",
+      "D": "180 mSv/hr"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the definition of absorbed dose?",
+    "choices": {
+      "A": "The sum of initial kinetic energies of all charged, ionizing particles released per unit mass.",
+      "B": "The energy imparted by ionizing radiation per unit mass of substance.",
+      "C": "The product of absorbed dose and the radiation weighting factor.",
+      "D": "The rate at which energy is deposited by radiation."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the standard international (SI) unit for absorbed dose?",
+    "choices": {
+      "A": "Rad",
+      "B": "Rem",
+      "C": "Sievert",
+      "D": "Gray"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Biological effects of radiation are broadly classified into which two categories?",
+    "choices": {
+      "A": "Chemical and Physical",
+      "B": "Direct and Indirect",
+      "C": "Stochastic and Nonstochastic",
+      "D": "Somatic and Genetic"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "If a tissue receives an absorbed dose of 5 rad from a radiation type with a Quality Factor (Q) of 10, what is the dose equivalent in rem?",
+    "choices": {
+      "A": "0.5 rem",
+      "B": "5 rem",
+      "C": "10 rem",
+      "D": "50 rem"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which radiation quantity is defined as the sum of the initial kinetic energies of all charged, ionizing particles released by indirectly ionizing radiation per unit mass?",
+    "choices": {
+      "A": "Absorbed Dose",
+      "B": "Equivalent Dose",
+      "C": "Kerma",
+      "D": "Population Dose"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "At the cellular level, radiation can cause biological effects through two fundamental mechanisms: direct and indirect effects. Which statement best describes the difference and relative importance of these mechanisms?",
+    "choices": {
+      "A": "Direct effect involves chemical reactions within the cell, while indirect effect involves molecule breakage; direct effect is considered more important.",
+      "B": "Direct effect involves molecule breakage by ionization, while indirect effect involves the production of reactive chemicals like radicals; indirect effect is considered more important.",
+      "C": "Direct effect is caused by indirectly ionizing radiation, while indirect effect is caused by directly ionizing radiation; both are equally important.",
+      "D": "Direct effect primarily damages the cell membrane, while indirect effect primarily damages the nucleus; direct effect is considered more important."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the basis for calculating the population dose from radiation exposure?",
+    "choices": {
+      "A": "The total number of people exposed, regardless of dose.",
+      "B": "The integral of the number of people receiving a given dose multiplied by that dose.",
+      "C": "The average dose received by the exposed population.",
+      "D": "The maximum dose received by any individual in the population."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are the two main classifications of cells found in the human body based on their function?",
+    "choices": {
+      "A": "Muscle cells and nerve cells.",
+      "B": "Blood cells and bone cells.",
+      "C": "Somatic cells and germ cells.",
+      "D": "Organ cells and tissue cells."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following is considered a stochastic effect of radiation exposure?",
+    "choices": {
+      "A": "Nonmalignant skin damage (erythema)",
+      "B": "Formation of cataracts",
+      "C": "Hematological effects",
+      "D": "Cancer"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Radiation can affect cellular organelles through two fundamental mechanisms. What are these mechanisms?",
+    "choices": {
+      "A": "Absorption and reflection.",
+      "B": "Conduction and convection.",
+      "C": "Direct effect and indirect effect.",
+      "D": "Chemical bonding and physical disruption."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Tissues with high rates of cell division, such as red blood marrow and the lining of the gastrointestinal tract, are generally more sensitive to radiation than tissues with low rates of cell division, such as muscle and bone. What is the primary reason for this difference in radiosensitivity?",
+    "choices": {
+      "A": "Higher metabolic activity in rapidly dividing cells.",
+      "B": "Increased damage to DNA during the synthesis phase.",
+      "C": "Cell death often occurs when damaged cells attempt mitosis.",
+      "D": "Accumulation of toxic chemicals in rapidly dividing cells."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The survival curve for cells exposed to low LET radiation typically exhibits a \"shoulder\" at low doses, where the decrease in survival fraction is less steep compared to higher doses. What is the most likely explanation for this shoulder?",
+    "choices": {
+      "A": "The radiation is completely absorbed by the cell membrane at low doses.",
+      "B": "The cell's repair mechanisms are effective at mending damage caused by low doses of low LET radiation.",
+      "C": "Low LET radiation requires multiple hits to cause lethal damage at low doses.",
+      "D": "The target molecules within the cell are saturated at low doses."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "When cells exposed to radiation cease to reproduce and eventually disintegrate, this biological effect is most accurately referred to as:",
+    "choices": {
+      "A": "Apoptosis",
+      "B": "Necrosis",
+      "C": "Reproductive death",
+      "D": "Mitotic failure"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In adult humans, which type of tissue is generally considered most radiosensitive due to its high rate of cell reproduction?",
+    "choices": {
+      "A": "Muscle tissue",
+      "B": "Bone tissue",
+      "C": "Red bone marrow",
+      "D": "Nerve tissue"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Without medical treatment, the acute whole-body radiation dose that is expected to result in death for 50% of an exposed population within 60 days (LD50/60) is approximately:",
+    "choices": {
+      "A": "75 rems",
+      "B": "340 rems",
+      "C": "1000 rems",
+      "D": "5000 rems"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Cell survival curves plotting surviving fraction versus absorbed dose show that for low Linear Energy Transfer (LET) radiation, compared to high LET radiation, the curve typically exhibits:",
+    "choices": {
+      "A": "A steeper drop at low doses, indicating higher sensitivity.",
+      "B": "A flatter region or \"shoulder\" at low doses, suggesting potential repair mechanisms.",
+      "C": "A linear decrease from zero dose, identical to high LET radiation.",
+      "D": "A threshold dose below which no cell killing occurs."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Acute whole-body radiation doses in the range of approximately 1,000 to 5,000 rems typically result in the Gastrointestinal Syndrome. The primary mechanism leading to death in this syndrome is:",
+    "choices": {
+      "A": "Rapid accumulation of fluid in the brain.",
+      "B": "Failure of the intestinal wall due to depletion of stem cells.",
+      "C": "Severe blood changes leading to hemorrhage and infection.",
+      "D": "Immediate cardiac arrest."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Regarding the dose-response relationship for radiation-induced cancer, particularly at low doses of low LET radiation, which statement best reflects the current understanding and ongoing debate?",
+    "choices": {
+      "A": "The relationship is definitively linear down to zero dose for all types of radiation.",
+      "B": "There is strong evidence that low doses of low LET radiation cause no increase in cancer risk.",
+      "C": "While high-dose effects are linear, the linear extrapolation to zero dose (linear hypothesis) may overestimate the risk for low LET radiation at low doses.",
+      "D": "Cancer induction is a nonstochastic process with a clear threshold dose for all radiation types."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Acute whole-body radiation doses in the range of 75 to 200 rems are most likely to cause which of the following early effects?",
+    "choices": {
+      "A": "No observable effects",
+      "B": "Vomiting in 5 to 50% of exposed individuals within a few hours, with fatigue and loss of appetite",
+      "C": "Severe blood changes with hemorrhage and increased susceptibility to infection",
+      "D": "Death in 80% to 100% of exposed individuals within 2 months"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Acute Radiation Syndrome (ARS) in humans is typically observed following acute whole-body radiation doses greater than approximately:",
+    "choices": {
+      "A": "5 rems",
+      "B": "75 rems",
+      "C": "200 rems",
+      "D": "600 rems"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following are the three main formed elements of human blood?",
+    "choices": {
+      "A": "Erythrocytes, Leukocytes, and Platelets",
+      "B": "Erythrocytes, Plasma, and Platelets",
+      "C": "Leukocytes, Neutrophils, and Plasma",
+      "D": "Erythrocytes, Leukocytes, and Lymphocytes"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The LD50/60 dose for humans, representing the acute whole-body dose leading to death in 50% of an exposed group within 60 days without medical treatment, is thought to be approximately:",
+    "choices": {
+      "A": "75 rems",
+      "B": "200 rems",
+      "C": "340 rems",
+      "D": "500 rems"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Based on the linear hypothesis for radiation-induced cancer risk, how is the excess incidence of cancer generally modeled to increase with acute dose at high doses?",
+    "choices": {
+      "A": "Exponentially with dose",
+      "B": "Non-linearly with a threshold",
+      "C": "Approximately linearly with dose",
+      "D": "Inversely with dose"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 40-year-old individual receives an acute whole-body dose of 50 rems. Using the linear hypothesis and the provided data for \"All other\" cancers (age 10+), with a latent period of 15 years and a plateau period of 30 years, what is the estimated probability of this individual dying from one of these cancers as a result of this exposure, assuming they live through the entire plateau period? (Risk coefficient for \"All other\" (10+) = 1.0 deaths / 10^6 / yr / rem)",
+    "choices": {
+      "A": "1.5 x 10\u207b\u2074",
+      "B": "7.5 x 10\u207b\u2074",
+      "C": "1.5 x 10\u207b\u00b3",
+      "D": "7.5 x 10\u207b\u00b3"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the approximate threshold absorbed dose range for low Linear Energy Transfer (LET) radiation to cause radiation cataracts?",
+    "choices": {
+      "A": "Below 100 rads",
+      "B": "200 to 500 rads",
+      "C": "500 to 1000 rads",
+      "D": "Above 1000 rads"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Based on average annual individual doses in the United States from natural sources, which of the following contributes the highest dose?",
+    "choices": {
+      "A": "Cosmic rays",
+      "B": "Terrestrial gamma rays",
+      "C": "Radon (222Rn)",
+      "D": "Potassium-40 (40K)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Regarding genetic effects of radiation exposure in humans, what is the current status of demonstration?",
+    "choices": {
+      "A": "They have been clearly demonstrated.",
+      "B": "They have been demonstrated only at very high doses.",
+      "C": "They have not been demonstrated.",
+      "D": "They are only observable in subsequent generations."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Studies on laboratory mice indicate that damage to genetic material is repairable. How does the dose rate generally affect the amount of genetic damage observed?",
+    "choices": {
+      "A": "Higher dose rates tend to produce more mutations per unit dose than lower dose rates.",
+      "B": "Lower dose rates tend to produce more mutations per unit dose than higher dose rates.",
+      "C": "Dose rate has no significant impact on the total genetic damage for a given dose.",
+      "D": "Genetic damage is only dependent on the cumulative dose, not the rate at which it is received."
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "According to the linear hypothesis used for estimating the consequences of radiation accidents, how does the total number of eventual cancer deaths in a population relate to the radiation exposure?",
+    "choices": {
+      "A": "The total number of deaths depends significantly on the distribution of doses among individuals.",
+      "B": "The total number of deaths is independent of the distribution of individual doses and depends only on the total population dose (man-rems).",
+      "C": "The total number of deaths is primarily determined by the peak individual dose received.",
+      "D": "The linear hypothesis is not used for estimating cancer deaths from accidents."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using the linear hypothesis and a population with a US age distribution, calculate the expected number of eventual leukemia cases in the 11-20 age group for a total population dose of 10^6 man-rems.",
+    "choices": {
+      "A": "0.70",
+      "B": "1.65",
+      "C": "4.90",
+      "D": "7.30"
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are the main components of the primary cosmic radiation that bombards the Earth?",
+    "choices": {
+      "A": "Neutrons and electrons",
+      "B": "Protons and alpha particles",
+      "C": "Gamma rays and charged pions",
+      "D": "Muons and heavy nuclei"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to typical data for the United States, which natural radiation source contributes the highest average annual individual dose?",
+    "choices": {
+      "A": "Cosmic rays",
+      "B": "Terrestrial gamma rays",
+      "C": "Potassium-40 (K-40)",
+      "D": "Radon-222 (Rn-222)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Under the linear hypothesis model for radiation-induced cancer risk, the total number of eventual cancer deaths in an irradiated population is primarily dependent on what factor?",
+    "choices": {
+      "A": "The age distribution of the population",
+      "B": "The distribution of doses received by individuals",
+      "C": "The total population dose (man-rems)",
+      "D": "The specific type of cancer being considered"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Using typical risk coefficients based on the linear hypothesis, what is the estimated total number of eventual deaths from bone cancer and breast cancer combined for a population receiving a total dose of 2 x 10\u00b6 man-rems?",
+    "choices": {
+      "A": "32.5",
+      "B": "65.0",
+      "C": "130.0",
+      "D": "270.0"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Radon-222 (Rn-222) is a noble gas with a relatively short half-life. While inhaled Rn-222 itself contributes little to the internal dose, why are its decay products, particularly Polonium-210 (Po-210), significant contributors to lung dose?",
+    "choices": {
+      "A": "Rn-222 decays quickly in the lungs, and its daughter products are chemically inert and retained.",
+      "B": "Rn-222 decays, and its decay products attach to particles that are inhaled and retained, with Po-210 emitting energetic alpha particles.",
+      "C": "Rn-222 is absorbed into the bloodstream and concentrates in the bone, where its decay products cause damage.",
+      "D": "Po-210 is a strong beta emitter with a long half-life, allowing it to accumulate in lung tissue."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An average 70 kg person has approximately 130 g of total potassium. Given that the isotopic abundance of K-40 is 0.0118 atom percent and its half-life is 1.3 x 10\u00b9 years, what is the approximate total activity of K-40 in the body in microcuries (\u00b5Ci)?",
+    "choices": {
+      "A": "~0.01 \u00b5Ci",
+      "B": "~0.11 \u00b5Ci",
+      "C": "~1.1 \u00b5Ci",
+      "D": "~11 \u00b5Ci"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Naturally occurring radionuclides are typically categorized into two groups based on their origin. What are these two categories?",
+    "choices": {
+      "A": "Alpha emitters and Beta emitters",
+      "B": "Primordial and Cosmogenic",
+      "C": "Terrestrial and Extraterrestrial",
+      "D": "Short-lived and Long-lived"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the recommended annual dose limit for a pregnant radiation worker during gestation, according to major standards-setting bodies?",
+    "choices": {
+      "A": "5 rems",
+      "B": "15 rems",
+      "C": "0.5 rems",
+      "D": "2 rems"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which organization, established in the United States in 1929 and later given a federal charter in 1964, serves as an independent scientific agency for radiation protection standards?",
+    "choices": {
+      "A": "International Commission on Radiological Protection (ICRP)",
+      "B": "Federal Radiation Council (FRC)",
+      "C": "Environmental Protection Agency (EPA)",
+      "D": "National Council on Radiation Protection and Measurements (NCRP)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Under US Nuclear Regulatory Commission regulations, a space accessible to personnel is defined as a radiation area if a person could receive a dose rate exceeding what value?",
+    "choices": {
+      "A": "100 mrems/week",
+      "B": "2.5 mrems/hr",
+      "C": "5 mrems/hr",
+      "D": "50 mrems/year"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The principle \"As Low As Reasonably Achievable\" (ALARA) is a key concept in radiation protection. Which of the following factors is considered when applying the ALARA principle?",
+    "choices": {
+      "A": "The state of technology for reducing exposure",
+      "B": "The economic costs of reducing exposure relative to benefits",
+      "C": "Relevant socioeconomic factors",
+      "D": "All of the above"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "According to the ICRP 1990 recommendations for occupational exposure, what is the annual dose limit for the lens of the eye?",
+    "choices": {
+      "A": "5 rems",
+      "B": "15 rems",
+      "C": "30 rems",
+      "D": "50 rems"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A gamma-ray flux of 1.0 x 10^5 photons/cm\u00b2-sec with an energy of 0.5 MeV is incident on muscle tissue. Given that the mass absorption coefficient for muscle tissue at 0.5 MeV is approximately 0.034 cm\u00b2/g, what is the absorbed dose rate in muscle tissue in mrad/hr? Use the formula D = 0.0576 \u03c6\u03b3 E (\u00b5a/\u03c1)tis.",
+    "choices": {
+      "A": "9.79 mrad/hr",
+      "B": "0.979 mrad/hr",
+      "C": "97.9 mrad/hr",
+      "D": "57.6 mrad/hr"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What energy deposition in air corresponds to an exposure of 1 Roentgen (R)?",
+    "choices": {
+      "A": "100 ergs/g",
+      "B": "5.47 x 10\u00b2 MeV/g",
+      "C": "1.60 x 10\u207b\u2076 ergs/g",
+      "D": "5.47 x 10\u2077 MeV/g"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What energy absorption per unit mass of tissue corresponds to an absorbed dose of 1 rad?",
+    "choices": {
+      "A": "100 ergs/g",
+      "B": "1 J/kg",
+      "C": "6.25 x 10\u2077 MeV/g",
+      "D": "1.60 x 10\u207b\u2078 rad/sec"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For gamma radiation, the quality factor (Q) used in calculating dose equivalent is typically:",
+    "choices": {
+      "A": "0",
+      "B": "1",
+      "C": "5",
+      "D": "20"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The relationship between absorbed dose (D) in a tissue and gamma ray exposure (X) in air is given by D = f * X, where f is an energy-dependent factor. This factor f is proportional to the ratio of which properties?",
+    "choices": {
+      "A": "The mass stopping power of tissue to the mass stopping power of air.",
+      "B": "The mass absorption coefficient of air to the mass absorption coefficient of tissue.",
+      "C": "The mass absorption coefficient of tissue to the mass absorption coefficient of air.",
+      "D": "The total mass attenuation coefficient of tissue to the total mass attenuation coefficient of air."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A monoenergetic beam of 1 MeV gamma rays has an intensity of 100 photons/cm\u00b2-sec. If the mass absorption coefficient of air at 1 MeV is 0.0271 cm\u00b2/g, what is the exposure rate in mR/hr?",
+    "choices": {
+      "A": "0.178 mR/hr",
+      "B": "0.0659 mR/hr",
+      "C": "1.78 mR/hr",
+      "D": "0.659 mR/hr"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Compared to gamma rays of similar energy (above thermal), what is generally true about the neutron flux required to produce the same dose equivalent rate in tissue?",
+    "choices": {
+      "A": "A much higher neutron flux is required.",
+      "B": "A slightly higher neutron flux is required.",
+      "C": "Approximately the same neutron flux is required.",
+      "D": "A much lower neutron flux is required."
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which method is primarily used to numerically calculate neutron dose deposition in tissue due to complex interactions?",
+    "choices": {
+      "A": "Analytical Integration",
+      "B": "Monte Carlo Simulation",
+      "C": "Diffusion Theory",
+      "D": "Point Kernel Method"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a given dose-equivalent, how does the required neutron flux generally compare to the required photon flux at energies above 1 MeV?",
+    "choices": {
+      "A": "Much larger",
+      "B": "Much smaller",
+      "C": "Approximately the same",
+      "D": "Dependent on the material composition"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For fast neutrons incident on tissue, what is the primary contributor to the absorbed dose?",
+    "choices": {
+      "A": "Capture gamma rays",
+      "B": "Recoiling heavier nuclei",
+      "C": "Recoil protons",
+      "D": "Internal conversion electrons"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Based on typical dose conversion factors for neutrons, approximately what fast neutron flux (greater than 1 MeV) is required to produce a dose-equivalent rate of 1 mrem/hr?",
+    "choices": {
+      "A": "7 n/cm\u00b2/sec",
+      "B": "260 n/cm\u00b2/sec",
+      "C": "550 n/cm\u00b2/sec",
+      "D": "8000 n/cm\u00b2/sec"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The effective decay constant (\u03bb_e) for a radionuclide in a specific organ is determined by which factors?",
+    "choices": {
+      "A": "Only the radioactive decay constant",
+      "B": "Only the biological decay constant",
+      "C": "The sum of the radioactive and biological decay constants",
+      "D": "The product of the radioactive and biological decay constants"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A radiation worker ingests 10 \u00b5Ci of a radionuclide. The target organ has a mass of 100 g. The effective energy equivalent (\u03b5) for this nuclide in this organ is 0.5 MeV, the fraction absorbed by the organ (q) is 0.5, and the effective decay constant (\u03bb_e) is 0.1 day\u207b\u00b9. Calculate the dose commitment to the organ in rems.",
+    "choices": {
+      "A": "1.28 rem",
+      "B": "5.11 rem",
+      "C": "12.78 rem",
+      "D": "25.55 rem"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What quantity is defined as 1 rad of absorbed dose?",
+    "choices": {
+      "A": "1 erg/g",
+      "B": "10 erg/g",
+      "C": "100 erg/g",
+      "D": "1000 erg/g"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How is the dose-equivalent rate obtained from the absorbed dose rate?",
+    "choices": {
+      "A": "By dividing the absorbed dose rate by the quality factor",
+      "B": "By multiplying the absorbed dose rate by the quality factor",
+      "C": "By adding the quality factor to the absorbed dose rate",
+      "D": "By subtracting the quality factor from the absorbed dose rate"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What term describes the time required for half of a substance to be removed from a body organ solely by biological processes?",
+    "choices": {
+      "A": "Radioactive half-life",
+      "B": "Effective half-life",
+      "C": "Biological half-life",
+      "D": "Physical half-life"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The reciprocal of the effective half-life of a radionuclide in an organ is equal to the sum of the reciprocals of which two quantities?",
+    "choices": {
+      "A": "Radioactive half-life and biological half-life",
+      "B": "Radioactive decay constant and biological decay constant",
+      "C": "Effective decay constant and radioactive half-life",
+      "D": "Biological half-life and effective decay constant"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a single intake of C\u2080 \u00b5Ci of a radionuclide into an organ with mass M, effective energy equivalent \\(\\bar{\\epsilon}\\), and fraction q reaching the organ, if the effective half-life is much shorter than the expected lifetime, the total dose commitment (H) in rem is proportional to which of the following?",
+    "choices": {
+      "A": "\\(M / (C_0\\bar{\\epsilon}q\\lambda_e)\\)",
+      "B": "\\(C_0\\bar{\\epsilon}q\\lambda_e / M\\)",
+      "C": "\\(C_0\\bar{\\epsilon}q / (M\\lambda_e)\\)",
+      "D": "\\(M\\lambda_e / (C_0\\bar{\\epsilon}q)\\)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Using the data provided for \\(^{137}\\text{Cs}\\) in a typical data table, what is the approximate effective decay constant (\\(\\lambda_e\\)) in day\\(^{-1}\\) for \\(^{137}\\text{Cs}\\) in the total body?",
+    "choices": {
+      "A": "\\(0.000063\\text{ day}^{-1}\\)",
+      "B": "\\(0.0099\\text{ day}^{-1}\\)",
+      "C": "\\(0.0100\\text{ day}^{-1}\\)",
+      "D": "\\(0.0101\\text{ day}^{-1}\\)"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What standard represents the maximum concentration of a radionuclide in air or water that, over a 50-year working lifetime of constant daily intake, does not cause the dose equivalent rate to any organ to exceed the maximum permissible dose rate for that organ?",
+    "choices": {
+      "A": "Annual Limit on Intake (ALI)",
+      "B": "Derived Air Concentration (DAC)",
+      "C": "Maximum Permissible Concentration (MPC)",
+      "D": "Working Level (WL)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a given radionuclide and pathway, what is the approximate ratio of the Maximum Permissible Concentration (MPC) for occupational exposure compared to the MPC for the general public?",
+    "choices": {
+      "A": "1:1",
+      "B": "5:1",
+      "C": "10:1",
+      "D": "50:1"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The quantity known as the Derived Air Concentration (DAC) is essentially equivalent to which older standard?",
+    "choices": {
+      "A": "Maximum Permissible Concentration in Water (MPC)w",
+      "B": "Annual Limit on Intake (ALI)",
+      "C": "Maximum Permissible Concentration in Air (MPC)a",
+      "D": "Working Level Month (WLM)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The calculated Maximum Permissible Concentration (MPC) for Tritium in water for a worker exposed continuously (168 hr/week) is 0.03 \u00b5Ci/cm\u00b3. Assuming a worker consumes half their daily water intake during an 8-hour workday and works 5 days a week, what is the approximate MPC for this worker based on a 40-hour work week?",
+    "choices": {
+      "A": "0.03 \u00b5Ci/cm\u00b3",
+      "B": "0.042 \u00b5Ci/cm\u00b3",
+      "C": "0.06 \u00b5Ci/cm\u00b3",
+      "D": "0.084 \u00b5Ci/cm\u00b3"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Annual Limit on Intake (ALI) for a radionuclide is defined based on limiting the dose to organs or the whole body. Which of the following best describes the dose quantity that the ALI aims to limit over a specified period?",
+    "choices": {
+      "A": "The instantaneous dose rate at any time",
+      "B": "The total accumulated dose over a single year",
+      "C": "The 50-year committed dose from a single year's intake",
+      "D": "The maximum total dose received over a person's entire lifetime"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A radiation worker is anticipated to receive a uniform external dose of 3 rems in a year. The Annual Limit on Intake (ALI) for inhaled 131I is 54 \u00b5Ci. According to recommended limits for combined external and internal exposure, what is the maximum annual intake of 131I (in \u00b5Ci) the worker may inhale without exceeding the limit?",
+    "choices": {
+      "A": "22",
+      "B": "32",
+      "C": "44",
+      "D": "54"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What term has the ICRP recommended replacing \"maximum permissible concentration\" (MPC) with for limiting the intake of radionuclides?",
+    "choices": {
+      "A": "Derived Air Concentration (DAC)",
+      "B": "Annual Limit on Intake (ALI)",
+      "C": "Working Level (WL)",
+      "D": "Radiation Protection Guide (RPG)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Derived Air Concentration (DAC) for a radionuclide is defined by dividing the Annual Limit on Intake (ALI) by what quantity?",
+    "choices": {
+      "A": "The maximum permissible concentration",
+      "B": "The total body burden",
+      "C": "The annual air intake per year",
+      "D": "The 50-year dose commitment"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In radiation protection, the unit \"Working Level\" (WL) is specifically defined in connection with measurements of levels of what substance and its daughters?",
+    "choices": {
+      "A": "Cesium-137",
+      "B": "Cobalt-60",
+      "C": "Radon-222",
+      "D": "Uranium-235"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to ICRP standards, the Annual Limit on Intake (ALI) for a radionuclide is determined based on ensuring that the dose to organs over a 50-year commitment period does not exceed specified limits. Which relationship fundamentally links the maximum permissible dose (Hmax), the 50-year dose commitment per unit intake (H50), and the ALI?",
+    "choices": {
+      "A": "ALI = Hmax / H50",
+      "B": "ALI = H50 / Hmax",
+      "C": "ALI = Hmax * H50",
+      "D": "ALI = Hmax + H50"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A radiation worker receives a uniform external dose of 2 rems in a year. If the annual whole body dose limit (Hwb,L) is 5 rems and the ALI for inhalation of 131I is 54 \u00b5Ci, what is the maximum annual intake of 131I (Ij) the worker may inhale without exceeding the recommended combined exposure limit?",
+    "choices": {
+      "A": "22 \u00b5Ci",
+      "B": "32 \u00b5Ci",
+      "C": "44 \u00b5Ci",
+      "D": "54 \u00b5Ci"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a planar disc source of radius R, uniformly emitting S gamma-rays/cm\u00b2-sec, the gamma-ray flux (\u03a6\u2095) at a distance x along the central axis of the disc is given by what formula?",
+    "choices": {
+      "A": "\u03a6\u2095(x) = (S/2) * ln((x\u00b2 + R\u00b2) / x\u00b2)",
+      "B": "\u03a6\u2095(x) = (S/2) * (1 - x / \u221a(x\u00b2 + R\u00b2))",
+      "C": "\u03a6\u2095(x) = S * R / (2 * \u221a(x\u00b2 + R\u00b2))",
+      "D": "\u03a6\u2095(x) = S / (4 * x)"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  }
+]

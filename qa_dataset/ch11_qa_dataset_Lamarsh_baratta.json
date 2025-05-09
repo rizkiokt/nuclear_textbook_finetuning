@@ -1,0 +1,1333 @@
+[
+  {
+    "question": "What is the primary federal agency in the United States responsible for licensing and regulating nuclear reactors?",
+    "choices": {
+      "A": "Department of Energy (DOE)",
+      "B": "Atomic Energy Commission (AEC)",
+      "C": "Environmental Protection Agency (EPA)",
+      "D": "Nuclear Regulatory Commission (NRC)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which act of Congress established the Nuclear Regulatory Commission (NRC) and separated its regulatory functions from nuclear research and development activities?",
+    "choices": {
+      "A": "Atomic Energy Act of 1946",
+      "B": "Atomic Energy Act of 1954",
+      "C": "Energy Reorganization Act of 1974",
+      "D": "National Environmental Policy Act of 1969"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the United States, the detailed rules and regulations of the Nuclear Regulatory Commission (NRC) are primarily published within which title and chapter of the Code of Federal Regulations (CFR)?",
+    "choices": {
+      "A": "Title 10, Chapter I",
+      "B": "Title 20, Chapter I",
+      "C": "Title 50, Chapter I",
+      "D": "Title 10, Chapter 50"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "As part of the application for a Construction Permit for a nuclear power plant, the applicant must submit a major technical document containing comprehensive data on the proposed site, facility description, safety features, accident analysis, and emergency plans. What is this document called?",
+    "choices": {
+      "A": "Final Safety Analysis Report (FSAR)",
+      "B": "Environmental Impact Statement (EIS)",
+      "C": "Preliminary Safety Analysis Report (PSAR)",
+      "D": "Safety Evaluation Report (SER)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which entity within the Nuclear Regulatory Commission (NRC) is responsible for conducting public hearings and making initial decisions regarding the granting, suspending, or revoking of NRC licenses?",
+    "choices": {
+      "A": "Office of Nuclear Reactor Regulation (NRR)",
+      "B": "Advisory Committee on Reactor Safeguards (ACRS)",
+      "C": "Atomic Safety and Licensing Boards (ASLB)",
+      "D": "Office of Inspection and Enforcement (IE)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following accurately describes the historical evolution of federal nuclear energy regulation in the United States as outlined in the provided text?",
+    "choices": {
+      "A": "The Atomic Energy Commission (AEC) initially handled both promotion and regulation, but the Energy Reorganization Act of 1974 separated these functions, creating the Nuclear Regulatory Commission (NRC) for regulation and the Department of Energy (DOE) (formed later) for research and development.",
+      "B": "The Atomic Energy Commission (AEC) was solely a regulatory body, which was later replaced by the Nuclear Regulatory Commission (NRC) under the Energy Reorganization Act of 1974.",
+      "C": "The Energy Research and Development Administration (ERDA) was the initial regulatory body, which was later merged into the Nuclear Regulatory Commission (NRC) by the Energy Reorganization Act of 1974.",
+      "D": "The Nuclear Regulatory Commission (NRC) was established by the Atomic Energy Act of 1954 to oversee all aspects of nuclear energy, including both promotion and regulation."
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are the two primary stages of the reactor licensing process in the United States?",
+    "choices": {
+      "A": "Preliminary Design Stage and Final Design Stage",
+      "B": "Construction Permit (CP) Stage and Operating License (OL) Stage",
+      "C": "Safety Review Stage and Environmental Review Stage",
+      "D": "Application Stage and Public Hearing Stage"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of nuclear power plant safety, what is considered the central safety problem?",
+    "choices": {
+      "A": "Ensuring the reactor operates at critical power levels",
+      "B": "Preventing the escape of large amounts of radioactive materials",
+      "C": "Managing the disposal of high-level waste",
+      "D": "Protecting the plant from external threats"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which material is widely used for cladding in PWR and BWR fuel rods?",
+    "choices": {
+      "A": "Stainless Steel",
+      "B": "Aluminum Alloy",
+      "C": "Zircaloy",
+      "D": "Graphite"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which document, submitted by the license applicant during the Construction Permit (CP) stage, contains comprehensive technical data including site characteristics, facility design with safety features, accident analysis, and preliminary operational plans?",
+    "choices": {
+      "A": "Safety Evaluation Report (SER)",
+      "B": "Final Environmental Statement (FES)",
+      "C": "Preliminary Safety Analysis Report (PSAR)",
+      "D": "Applicant's Environmental Report (AER)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the primary function of the containment structure surrounding a nuclear reactor?",
+    "choices": {
+      "A": "To serve as a primary radiation shield for personnel",
+      "B": "To house the steam turbine and generator",
+      "C": "To provide structural support for the reactor vessel",
+      "D": "To confine radioactivity in the event of a release from the primary system"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Under the licensing approach defined in 10 CFR Part 52, what is a significant advantage provided by the concept of design certification?",
+    "choices": {
+      "A": "It eliminates the need for a public hearing process for the certified design.",
+      "B": "It allows the applicant to begin construction without a Construction Permit.",
+      "C": "It means the purchaser of a certified design is not subjected to a complete review of that design during the license application.",
+      "D": "It removes the requirement for the applicant to submit an Environmental Report."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is considered the central safety problem in the design of a nuclear power plant?",
+    "choices": {
+      "A": "Maintaining criticality of the reactor core",
+      "B": "Ensuring the safe confinement of radioactive materials",
+      "C": "Maximizing the thermal efficiency of power generation",
+      "D": "Minimizing the consumption of fissile material"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following is typically the first physical barrier to the release of fission products from nuclear fuel in a light water reactor?",
+    "choices": {
+      "A": "The reactor vessel",
+      "B": "The containment structure",
+      "C": "The fuel matrix (e.g., UO2 pellet)",
+      "D": "The closed coolant system"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Under the traditional 10 CFR Part 50 licensing process, which permit is issued first, followed by a separate operating license?",
+    "choices": {
+      "A": "Early Site Permit (ESP)",
+      "B": "Design Certification",
+      "C": "Construction Permit (CP)",
+      "D": "Combined License (COL)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The second level of safety in the NRC's safety philosophy for nuclear power plants primarily focuses on:",
+    "choices": {
+      "A": "Designing for maximum safety in normal operation and preventing accidents",
+      "B": "Providing safety systems to protect operators and the public from incidents",
+      "C": "Evaluating hypothetical accidents assuming failure of protective systems",
+      "D": "Ensuring proper site selection and emergency evacuation plans"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which of the following is a key feature of the reactor licensing approach defined in 10 CFR Part 52, intended to facilitate standardization and simplification?",
+    "choices": {
+      "A": "Requirement for mandatory public hearings at the Operating License stage",
+      "B": "Issuance of separate Construction Permits and Operating Licenses",
+      "C": "Early resolution of safety issues through design certification rulemaking",
+      "D": "Elimination of independent safety reviews by the ACRS"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Nuclear power plant safety relies on a defense-in-depth approach employing multiple barriers and three levels of safety. Considering the hierarchy of these concepts, which barrier is typically the last line of defense against the release of large amounts of radioactivity to the environment from the facility itself?",
+    "choices": {
+      "A": "Fuel cladding",
+      "B": "Closed coolant system",
+      "C": "Reactor vessel",
+      "D": "Containment structure"
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which of the following best describes the typical containment structure levels for a Boiling Water Reactor (BWR)?",
+    "choices": {
+      "A": "A single, robust containment building.",
+      "B": "Primary containment enclosing the reactor (e.g., dry well and suppression pool) and a secondary containment corresponding to the reactor building.",
+      "C": "Three levels of containment, including a separate fuel handling area containment.",
+      "D": "A reactor vessel acting as the sole containment barrier."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to the NRC's three levels of safety philosophy, which level primarily emphasizes accident prevention through inherent design features, quality construction, and continuous surveillance?",
+    "choices": {
+      "A": "The First Level of Safety.",
+      "B": "The Second Level of Safety.",
+      "C": "The Third Level of Safety.",
+      "D": "The Design Basis Accident Level."
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An atmospheric condition characterized by temperature increasing with increasing altitude is referred to as:",
+    "choices": {
+      "A": "An adiabatic lapse rate.",
+      "B": "A superadiabatic condition.",
+      "C": "An isothermal profile.",
+      "D": "An inversion."
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of atmospheric dispersion of effluents, which temperature profile is considered most unstable and favorable for rapid vertical mixing and dispersion?",
+    "choices": {
+      "A": "Isothermal",
+      "B": "Inversion",
+      "C": "Superadiabatic",
+      "D": "Adiabatic"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Providing safety systems such as an Emergency Core Cooling System (ECCS) and redundant fast shutdown capability to protect the public and minimize damage in the event of an incident falls under which level of the NRC's safety philosophy?",
+    "choices": {
+      "A": "First Level of Safety",
+      "B": "Second Level of Safety",
+      "C": "Third Level of Safety",
+      "D": "Site Location Criteria"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A subsidence inversion forms when a column of air sinks within a high-pressure area, causing the upper portion to warm more than the lower portion. When radioactive effluent is released from a stack into such a stable inversion layer, the resulting plume behavior is typically characterized as:",
+    "choices": {
+      "A": "Looping, due to highly unstable conditions.",
+      "B": "Coning, indicative of neutral atmospheric stability.",
+      "C": "Fanning, where the plume spreads out horizontally within the stable layer.",
+      "D": "Fumigation, occurring when an inversion breaks up over a source."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the approximate adiabatic lapse rate for the decrease in atmospheric temperature with increasing altitude?",
+    "choices": {
+      "A": "1 \u00b0C per 1000 meters",
+      "B": "5.4 \u00b0F per 100 feet",
+      "C": "10 \u00b0C per 100 meters",
+      "D": "5.4 \u00b0F per 1000 feet"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An atmospheric temperature profile where a parcel of air, if displaced vertically, experiences no change in buoyancy relative to the surrounding atmosphere is referred to as:",
+    "choices": {
+      "A": "Superadiabatic",
+      "B": "Stable",
+      "C": "Neutral",
+      "D": "Inversion"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Assuming the same total emission rate and atmospheric conditions, how does releasing an effluent at ground level compare to releasing it from an elevated stack in terms of resulting ground-level concentration?",
+    "choices": {
+      "A": "Ground-level concentrations are generally lower for ground-level releases.",
+      "B": "Ground-level concentrations are generally higher for ground-level releases.",
+      "C": "There is typically no significant difference in ground-level concentrations.",
+      "D": "Ground-level releases result in concentration profiles that are independent of wind speed."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which atmospheric temperature profile is characterized by temperature decreasing more rapidly with altitude than the adiabatic lapse rate and is considered the most effective for dispersing pollutants?",
+    "choices": {
+      "A": "Isothermal",
+      "B": "Stable",
+      "C": "Inversion",
+      "D": "Superadiabatic"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 'fanning' plume, which spreads out horizontally in a thin layer at a relatively fixed altitude, is typically associated with which atmospheric stability condition?",
+    "choices": {
+      "A": "Unstable (Looping)",
+      "B": "Neutral (Coning)",
+      "C": "Stable (Inversion)",
+      "D": "Stable below, neutral aloft (Lofting)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the Gaussian plume model, the horizontal (\u03c3y) and vertical (\u03c3z) dispersion coefficients quantify the spread of the plume. For a given distance from the source, how do these coefficients generally compare between a stable atmosphere (e.g., Pasquill Category F) and a slightly unstable atmosphere (e.g., Pasquill Category C)?",
+    "choices": {
+      "A": "\u03c3y and \u03c3z values are typically higher in a stable atmosphere.",
+      "B": "\u03c3y and \u03c3z values are typically lower in a stable atmosphere.",
+      "C": "\u03c3y is higher in a stable atmosphere, but \u03c3z is lower.",
+      "D": "The dispersion coefficients are independent of atmospheric stability."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which atmospheric condition is generally considered most favorable for dispersing effluents away from the ground?",
+    "choices": {
+      "A": "Fanning",
+      "B": "Fumigation",
+      "C": "Lofting",
+      "D": "Looping"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Under which atmospheric stability condition is a plume pattern characterized by significant vertical fluctuations and a tendency for parts of the plume to touch the ground, despite generally good turbulence?",
+    "choices": {
+      "A": "Stable (Fanning)",
+      "B": "Unstable (Looping)",
+      "C": "Neutral (Coning)",
+      "D": "Stable below, neutral aloft (Lofting)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the process called where radioactivity in an effluent plume is picked up by water droplets and carried to the ground during periods of rain?",
+    "choices": {
+      "A": "Dry deposition",
+      "B": "Turbulent diffusion",
+      "C": "Washout",
+      "D": "Fumigation"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How do the horizontal (\u03c3y) and vertical (\u03c3z) dispersion coefficients generally compare between unstable and stable atmospheric conditions at the same distance from the source?",
+    "choices": {
+      "A": "\u03c3y and \u03c3z are higher in unstable conditions.",
+      "B": "\u03c3y and \u03c3z are lower in unstable conditions.",
+      "C": "\u03c3y is higher and \u03c3z is lower in unstable conditions.",
+      "D": "\u03c3y is lower and \u03c3z is higher in unstable conditions."
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For an effluent released from an elevated stack into a uniform wind, how does the ground-level concentration typically change with increasing distance from the source?",
+    "choices": {
+      "A": "It continuously decreases with distance.",
+      "B": "It continuously increases with distance.",
+      "C": "It rises to a maximum value and then decreases.",
+      "D": "It remains constant after an initial rise."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Based on the Gaussian plume model for ground-level concentration, how does releasing an effluent from an elevated stack (h > 0) compare to releasing it at ground level (h = 0), assuming all other conditions are the same?",
+    "choices": {
+      "A": "The ground-level concentration is always higher for the elevated release.",
+      "B": "The ground-level concentration is always lower or equal for the elevated release.",
+      "C": "The maximum ground-level concentration occurs closer to the source for the elevated release.",
+      "D": "The total amount of effluent reaching the ground is higher for the elevated release."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which Pasquill stability category is associated with extremely unstable atmospheric conditions?",
+    "choices": {
+      "A": "A",
+      "B": "C",
+      "C": "E",
+      "D": "F"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following radiation exposure pathways is typically *not* significant for noble gases released from a nuclear power plant?",
+    "choices": {
+      "A": "External dose from the plume",
+      "B": "Internal dose from inhalation",
+      "C": "External dose from ground deposition",
+      "D": "Direct dose from the plant structure"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Besides external dose from the plume and internal dose from inhalation, which of the following is a common pathway for radiation exposure from gaseous radioactive effluents?",
+    "choices": {
+      "A": "Direct dose from the reactor vessel",
+      "B": "External dose from radionuclides deposited on the ground",
+      "C": "Dose from neutron activation of air",
+      "D": "Internal dose from ingestion of contaminated water from primary coolant"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to the Pasquill classification system, a temperature gradient (\u0394T/\u0394z) between -1.7 \u00b0C/100 m and -1.5 \u00b0C/100 m (exclusive of -1.7, inclusive of -1.5) corresponds to which stability category?",
+    "choices": {
+      "A": "B",
+      "B": "C",
+      "C": "D",
+      "D": "E"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a release under moderately stable (Pasquill F) atmospheric conditions, estimate the vertical dispersion coefficient (\u03c3z) at a distance of 1000 meters from the source.",
+    "choices": {
+      "A": "Approximately 5 meters",
+      "B": "Approximately 10 meters",
+      "C": "Approximately 15 meters",
+      "D": "Approximately 20 meters"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For an elevated release from a stack of height h, the maximum ground-level concentration downwind occurs approximately at the distance where the vertical dispersion coefficient (\u03c3z) satisfies which condition?",
+    "choices": {
+      "A": "\u03c3z = h",
+      "B": "\u03c3z = h / \u221a2",
+      "C": "\u03c3z = h * \u221a2",
+      "D": "\u03c3z = h / 2"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which type of radioactive effluent is generally not subject to dry or wet deposition from an atmospheric plume?",
+    "choices": {
+      "A": "Particulates",
+      "B": "Iodine",
+      "C": "Noble Gases",
+      "D": "Tritium"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a person exposed to a uniform infinite cloud of a radionuclide, the external gamma dose rate is directly proportional to which of the following quantities?",
+    "choices": {
+      "A": "The square of the distance from the cloud center",
+      "B": "The radionuclide concentration and the average gamma energy per disintegration",
+      "C": "The half-life of the radionuclide",
+      "D": "The air density and the beta energy"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to standard health physics practice, what is the average breathing rate for a standard man over a full 24-hour day?",
+    "choices": {
+      "A": "1.2 x 10\u207b\u00b3 m\u00b3/sec",
+      "B": "2.32 x 10\u207b\u2074 m\u00b3/sec",
+      "C": "5.0 x 10\u207b\u2074 m\u00b3/sec",
+      "D": "20 m\u00b3/hour"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The effective decay constant (\u03bbe) for a radionuclide in a body organ is defined as the sum of which two decay constants?",
+    "choices": {
+      "A": "Radiological decay constant and physical decay constant",
+      "B": "Physical decay constant and biological clearance constant",
+      "C": "Radiological decay constant and biological clearance constant",
+      "D": "Alpha decay constant and beta decay constant"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the dose-rate factor (Cy) for external gamma exposure from Xenon-133 (\u00b9\u00b3\u00b3Xe) in units of rems/sec per Ci/m\u00b3? Use the average gamma energy per disintegration from standard tables.",
+    "choices": {
+      "A": "0.262",
+      "B": "0.030",
+      "C": "7.86 x 10\u207b\u00b3",
+      "D": "5.53 x 10\u207b\u2074"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "An infinite uniform cloud contains Krypton-88 (\u2078\u2078Kr) at a concentration of 1.0 x 10\u207b\u2079 Ci/m\u00b3. What is the absorbed beta dose rate in air (in rad/sec) immediately outside the body? Use the average beta energy per disintegration from standard tables.",
+    "choices": {
+      "A": "0.229 x 10\u207b\u2079 rad/sec",
+      "B": "7.81 x 10\u207b\u00b9\u00b9 rad/sec",
+      "C": "3.41 x 10\u207b\u00b9\u2070 rad/sec",
+      "D": "2.29 x 10\u207b\u2079 rad/sec"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Calculate the dose-commitment factor (Cdc) for Iodine-131 (\u00b9\u00b3\u00b9I) inhaled by an adult, in units of rem per Ci inhaled, delivered to the thyroid. Use the following parameters from standard tables and models: average beta energy \u03b5 = 0.23 MeV, fraction going to thyroid q = 0.23, adult thyroid mass M = 20 g, radiological half-life T\u2081/\u2082 = 8.04 days, biological half-life T\u2081/\u2082b = 138 days.",
+    "choices": {
+      "A": "1.48 x 10\u2076 rem/Ci",
+      "B": "6.68 x 10\u207b\u00b9\u2070 rem/Ci",
+      "C": "592 rem/Ci",
+      "D": "30 rem/Ci"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the average breathing rate for a person over a 24-hour period typically used in dose calculations?",
+    "choices": {
+      "A": "5 x 10^-4 m^3/sec",
+      "B": "20 m^3/hr",
+      "C": "2.32 x 10^-4 m^3/sec",
+      "D": "20 m^3/day"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When calculating the effective decay constant for a radionuclide retained in a specific body organ, which two constants are typically combined?",
+    "choices": {
+      "A": "Radiological decay constant and biological clearance constant",
+      "B": "Leakage constant from a building and radiological decay constant",
+      "C": "Biological clearance constant and inhalation rate",
+      "D": "Radiological decay constant and dose commitment factor"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For continuous inhalation of a radionuclide at a constant air concentration, the dose rate to an organ approaches a steady-state equilibrium when the duration of inhalation is long compared to which parameters?",
+    "choices": {
+      "A": "The radiological half-life only",
+      "B": "The biological half-life only",
+      "C": "Both the radiological and biological half-lives",
+      "D": "The time constant for building leakage"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Calculate the effective decay constant (\u039be) in s\u207b\u00b9 for Iodine-131 (\u00b9\u00b3\u00b9I) in the adult thyroid, given its radiological half-life is 8.04 days and its biological half-life in the thyroid is 138 days.",
+    "choices": {
+      "A": "9.98 x 10\u207b\u2077",
+      "B": "5.81 x 10\u207b\u2078",
+      "C": "1.06 x 10\u207b\u2076",
+      "D": "1.46 x 10\u207b\u2075"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A radionuclide with a radioactive decay constant \u03bb (in s\u207b\u00b9) is released into a containment building that leaks at a rate of p percent per day. What is the effective decay constant (\u039bc) in s\u207b\u00b9 for the activity of this radionuclide remaining inside the building?",
+    "choices": {
+      "A": "\u03bb + p",
+      "B": "\u03bb * (p/100)",
+      "C": "\u03bb + (0.01 * p / 86400)",
+      "D": "\u03bb + 0.01 * p"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A nuclear plant releases an average of 1.23 Ci of \u00b9\u00b3\u00b9I per year. At a location 2000 m downwind, the air concentration is 1.95 x 10\u207b\u00b9\u00b2 Ci/m\u00b3. Assuming a normal breathing rate of 2.32 x 10\u207b\u2074 m\u00b3/sec, calculate the annual dose to an adult thyroid. Use the following parameters for \u00b9\u00b3\u00b9I in the thyroid: energy per disintegration (\u03b5) = 0.23 MeV, fraction going to thyroid (q) = 0.23, thyroid mass (M) = 20 g, and effective decay constant (\u039be) = 1.06 x 10\u207b\u2076 s\u207b\u00b9.",
+    "choices": {
+      "A": "0.0211 mrem",
+      "B": "2.11 mrem",
+      "C": "21.1 mrem",
+      "D": "211 mrem"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What are the dose limits used by the NRC for the boundary of an exclusion area for an individual exposed for two hours following a postulated fission product release?",
+    "choices": {
+      "A": "25 rem whole body, 300 rem thyroid",
+      "B": "25 rem whole body, 300 rem organ",
+      "C": "5 rem whole body, 15 rem thyroid",
+      "D": "50 rem whole body, 500 rem thyroid"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to NRC regulations, what is the primary characteristic used to define a Low-Population Zone (LPZ)?",
+    "choices": {
+      "A": "An area where all activities are controlled by the licensee.",
+      "B": "An area containing residents where appropriate protective measures can be taken during a serious accident.",
+      "C": "The distance from the reactor to the nearest boundary of a densely populated center.",
+      "D": "An area where the population density is less than 500 people per square mile."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are the standard units used to express population dose?",
+    "choices": {
+      "A": "rems",
+      "B": "mrem/hr",
+      "C": "person-rems",
+      "D": "Curies"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When considering the release of a stable fission product into a leaking containment building, the rate at which the amount of the nuclide inside the building decreases over time is determined by:",
+    "choices": {
+      "A": "Its radioactive decay constant only.",
+      "B": "The building leakage rate expressed as an equivalent decay constant.",
+      "C": "The sum of its radioactive decay constant and the building leakage rate expressed as an equivalent decay constant.",
+      "D": "The product of its radioactive decay constant and the building leakage rate."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In evaluating reactor sites, the NRC generally requires that the population center distance be no less than what multiple of the radius of the Low-Population Zone (LPZ)?",
+    "choices": {
+      "A": "1.0 times",
+      "B": "1.33 times",
+      "C": "2.0 times",
+      "D": "5.0 times"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a radioactive nuclide released into a reactor containment building that leaks to the atmosphere, the rate at which the amount of the nuclide inside the building decreases is characterized by a total decay constant. This total decay constant is the sum of:",
+    "choices": {
+      "A": "The nuclide's radioactive decay constant and the building's physical leakage rate.",
+      "B": "The nuclide's radioactive decay constant and the building leakage rate expressed as an equivalent decay constant.",
+      "C": "The building's physical leakage rate and the atmospheric dispersion coefficient.",
+      "D": "The nuclide's radioactive decay constant and the dose conversion factor."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The total population dose from a radiation release is typically measured in what units?",
+    "choices": {
+      "A": "Curies",
+      "B": "Rems",
+      "C": "Person-rems",
+      "D": "Becquerels"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to regulatory definitions for reactor siting, the boundary of an exclusion area is sized such that an individual at any point on its boundary for two hours immediately following a postulated fission product release would not exceed what total radiation dose to the whole body?",
+    "choices": {
+      "A": "5 rem",
+      "B": "10 rem",
+      "C": "25 rem",
+      "D": "100 rem"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In typical postulated accident scenarios used for reactor siting evaluations, what fraction of the noble gas inventory is assumed to be immediately released into the reactor building (containment)?",
+    "choices": {
+      "A": "10%",
+      "B": "25%",
+      "C": "50%",
+      "D": "100%"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Calculate the saturation activity of 131I in a reactor operating at 3,200 MW thermal power, given its cumulative fission yield is 2.77%.",
+    "choices": {
+      "A": "2.34 x 10^6 Ci",
+      "B": "7.50 x 10^7 Ci",
+      "C": "1.71 x 10^7 Ci",
+      "D": "8.46 x 10^5 Ci"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For higher power reactors, which dose pathway is typically the controlling factor in determining the required radius of the exclusion area?",
+    "choices": {
+      "A": "External dose from noble gases",
+      "B": "Direct dose from nuclides within the building",
+      "C": "Internal thyroid dose from iodine isotopes",
+      "D": "Dose from radionuclides deposited on the ground"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Assuming a reactor operating at 3,200 MW reaches 131I saturation activity and a postulated accident occurs where 25% of the total iodine inventory is released into containment, with 91% of that released iodine being in elemental form, calculate the activity of elemental 131I released into containment, ignoring containment spray or filter effects. Use a 131I saturation activity of 7.50 x 10^7 Ci.",
+    "choices": {
+      "A": "7.50 x 10^7 Ci",
+      "B": "1.71 x 10^7 Ci",
+      "C": "6.83 x 10^7 Ci",
+      "D": "1.88 x 10^7 Ci"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For initial dose calculations in reactor siting studies following a postulated accident, which mode of exposure is typically considered dominant?",
+    "choices": {
+      "A": "External dose from noble gases",
+      "B": "Direct dose from nuclides within the reactor building",
+      "C": "Internal thyroid dose from iodine",
+      "D": "Ground deposition dose from particulates"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "On the Modified Mercalli Intensity Scale, what physical characteristic is primarily measured to determine the intensity level of an earthquake?",
+    "choices": {
+      "A": "Total energy released",
+      "B": "Distance from the epicenter",
+      "C": "Maximum ground acceleration",
+      "D": "Frequency of seismic waves"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Structures and systems important to safety at a nuclear power plant must be designed to withstand various natural phenomena. Which phenomenon is characterized by relatively small diameters (feet to a mile) and extremely high rotating horizontal winds (100-300 mph) with a strong updraft?",
+    "choices": {
+      "A": "Hurricane",
+      "B": "Tsunami",
+      "C": "Earthquake",
+      "D": "Tornado"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the standard assumptions used for calculating the potential radiological consequences of a loss-of-coolant accident (LOCA) for reactor siting, what fraction of the total noble gas inventory in the core is assumed to be immediately released into the reactor containment building?",
+    "choices": {
+      "A": "25%",
+      "B": "91%",
+      "C": "100%",
+      "D": "4%"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When evaluating the exclusion area and low-population zone radii for a nuclear power plant site at the Construction Permit (CP) licensing stage, a conservative approach is taken for the thyroid dose limit. What is the specific thyroid dose limit used for this purpose, which differs from the final safety analysis report (FSAR) stage limit?",
+    "choices": {
+      "A": "25 rems in 2 hours",
+      "B": "150 rems in 2 hours",
+      "C": "300 rems in 2 hours",
+      "D": "300 rems for infinite time"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 1000 MWe Pressurized Water Reactor operates at a thermal power of approximately 3200 MW. Based on typical core inventory data for such a plant at the end of a fuel cycle, what is the approximate saturation activity for the fission product 132I, which has a cumulative fission yield of 0.0413?",
+    "choices": {
+      "A": "1.2 x 10^8 Curies",
+      "B": "8.5 x 10^5 Curies",
+      "C": "1.7 x 10^7 Curies",
+      "D": "7.5 x 10^7 Curies"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What scale is used to measure the intensity of an earthquake, typically related to ground acceleration and observed effects?",
+    "choices": {
+      "A": "Richter scale",
+      "B": "Mercalli scale",
+      "C": "Beaufort scale",
+      "D": "Saffir-Simpson scale"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What term describes the maximum earthquake event that safety-related portions of a nuclear plant must be designed to withstand and remain functional?",
+    "choices": {
+      "A": "Operating Basis Earthquake (OBE)",
+      "B": "Maximum Credible Earthquake (MCE)",
+      "C": "Safe Shutdown Earthquake (SSE)",
+      "D": "Design Basis Accident (DBA)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "During a loss-of-coolant accident (LOCA) in a pressurized water reactor (PWR), what are two primary functions of the containment spray system?",
+    "choices": {
+      "A": "Provide emergency core cooling and remove hydrogen",
+      "B": "Condense steam and remove airborne radioactivity",
+      "C": "Inject borated water and pressurize the containment",
+      "D": "Filter noble gases and cool the reactor vessel"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The energy (E) released by an earthquake is related to its Richter magnitude (M) by the empirical formula log\u2081\u2080 E = 11.4 + 1.5M. Approximately how much more energy is released by an earthquake with a Richter magnitude of 7 compared to one with a Richter magnitude of 5?",
+    "choices": {
+      "A": "About 32 times more energy",
+      "B": "About 64 times more energy",
+      "C": "About 1000 times more energy",
+      "D": "About 32,000 times more energy"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the NRC accident classification system, what is the primary distinction between Class 8 (which includes Design Basis Accidents) and Class 9 accidents?",
+    "choices": {
+      "A": "Class 8 accidents involve fuel melting, while Class 9 accidents do not.",
+      "B": "Class 8 accidents are analyzed for safety design basis, while Class 9 accidents are considered too improbable to be included in this analysis.",
+      "C": "Class 8 accidents are less severe than Class 7, while Class 9 accidents are more severe than Class 8.",
+      "D": "Class 8 accidents are only analyzed in the PSAR, while Class 9 accidents are only analyzed in the FSAR."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Following a large break loss-of-coolant accident (LOCA) in a Pressurized Water Reactor (PWR), which emergency core cooling system (ECCS) component is designed to provide rapid initial cooling to the core as the primary system pressure drops below approximately 650 psi, before the main electrically driven pumps are fully operational?",
+    "choices": {
+      "A": "High-pressure coolant injection system",
+      "B": "Containment spray system",
+      "C": "Low-pressure coolant injection system",
+      "D": "Accumulator injection system"
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What does the acronym LOCA stand for in the context of nuclear reactors?",
+    "choices": {
+      "A": "Loss of Core Assembly",
+      "B": "Low Operating Control Area",
+      "C": "Loss-of-Coolant Accident",
+      "D": "Liquid Oxide Containment Area"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary purpose of the Emergency Core Cooling System (ECCS) in a nuclear reactor?",
+    "choices": {
+      "A": "To control the reactor power during normal operation",
+      "B": "To cool the containment building atmosphere after an accident",
+      "C": "To prevent core meltdown during a Loss-of-Coolant Accident (LOCA)",
+      "D": "To remove residual decay heat after a normal shutdown"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What type of nuclear reactor was involved in the Chernobyl accident?",
+    "choices": {
+      "A": "Pressurized Water Reactor (PWR)",
+      "B": "Boiling Water Reactor (BWR)",
+      "C": "High-Temperature Gas-cooled Reactor (HTGR)",
+      "D": "Graphite-moderated Boiling Water Pressure Tube Reactor (RBMK)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a Pressurized Water Reactor (PWR), the passive part of the Emergency Core Cooling System (ECCS) typically consists of accumulator tanks containing borated water. How is this passive system activated during a large break LOCA?",
+    "choices": {
+      "A": "It is manually activated by control room operators.",
+      "B": "Electrically driven pumps initiate flow when a low-pressure signal is received.",
+      "C": "A reversal of pressure across a check valve occurs when the reactor vessel pressure drops below the accumulator pressure.",
+      "D": "It is activated by high temperature sensors in the reactor core."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What phenomenon, often referred to as the \"China syndrome,\" describes a theoretical consequence of a severe reactor accident where core melting occurs?",
+    "choices": {
+      "A": "The uncontrolled increase in reactor power due to positive void reactivity.",
+      "B": "The melting of fuel and structural material that could potentially melt through the reactor vessel and underlying concrete.",
+      "C": "The rapid flashing of primary coolant to steam inside the containment building.",
+      "D": "The failure of control rods to fully insert into the core."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which combination of characteristics and events were significant contributors to the uncontrolled power excursion during the Chernobyl accident?",
+    "choices": {
+      "A": "Negative void reactivity coefficient, control rod insertion increasing neutron absorption, and high coolant flow rate.",
+      "B": "Positive void reactivity coefficient, control rod design causing initial positive reactivity insertion upon insertion, and unstable operating conditions at low power.",
+      "C": "Steam line break outside containment, failure of the pressurizer relief valve, and operator error during shutdown.",
+      "D": "Loss of feedwater flow to the steam generators, heavy object drop onto fuel, and insufficient control rod insertion speed."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What radioactive isotopes were the primary contributors to public radiation exposure immediately following the Chernobyl accident?",
+    "choices": {
+      "A": "Krypton-85 and Xenon-133",
+      "B": "Strontium-90 and Plutonium-239",
+      "C": "Iodine-131 and Cesium-137",
+      "D": "Ruthenium-106 and Tellurium-132"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the Three Mile Island (TMI-2) accident, what was a primary operator action that significantly worsened the event?",
+    "choices": {
+      "A": "Failing to insert control rods during the initial transient.",
+      "B": "Manually overriding and turning off the emergency core cooling system (ECCS).",
+      "C": "Opening the pressurizer relief valve manually.",
+      "D": "Increasing feedwater flow during the pressure excursion."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a primary function of the Emergency Core Cooling System (ECCS) in a light-water reactor (LWR) during a Loss of Coolant Accident (LOCA)?",
+    "choices": {
+      "A": "To prevent the initial pressure increase in the primary system.",
+      "B": "To provide makeup water to the reactor core to prevent fuel overheating.",
+      "C": "To filter radioactive releases from the containment atmosphere.",
+      "D": "To ignite hydrogen produced during fuel damage."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the RBMK reactor design, a positive steam void reactivity effect means that:",
+    "choices": {
+      "A": "An increase in steam content in the core leads to a decrease in reactivity.",
+      "B": "A reduction in coolant density leads to increased neutron absorption.",
+      "C": "An increase in steam content in the core leads to an increase in reactivity.",
+      "D": "The moderator effect of water is more important than graphite."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "According to typical regulatory assumptions for light-water reactor (LWR) Loss of Coolant Accident (LOCA) dose calculations, what fraction of the core's noble gas inventory is assumed to be released into containment?",
+    "choices": {
+      "A": "25%",
+      "B": "50%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "During a Design Basis Depressurization Accident (DBDA) in a High-Temperature Gas-cooled Reactor (HTGR), the Core Auxiliary Cooling System (CACS) is designed to be activated:",
+    "choices": {
+      "A": "Automatically upon detection of low primary system pressure.",
+      "B": "If the main coolant loops fail to operate using steam from the main steam line.",
+      "C": "If the main coolant loops fail to operate using steam from the auxiliary boilers.",
+      "D": "Only after the containment filtration system is initiated."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which health effect showed a significant increase among children in the areas affected by the Chernobyl accident, particularly in Belorussia and parts of Ukraine and Russia?",
+    "choices": {
+      "A": "Leukemia",
+      "B": "Stress-related illnesses",
+      "C": "Thyroid cancer",
+      "D": "Chronic bronchitis"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a typical Boiling Water Reactor (BWR), from which direction do the control rods typically enter the core?",
+    "choices": {
+      "A": "From the top",
+      "B": "From the bottom",
+      "C": "From the side",
+      "D": "Through the steam lines"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What was the primary cause of the criticality accident at the Tokai-Mura fuel fabrication facility in 1999?",
+    "choices": {
+      "A": "A loss of primary coolant",
+      "B": "Inadvertent withdrawal of control rods",
+      "C": "Reaching a critical mass during fuel preparation",
+      "D": "A steam pipe break outside containment"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "During a small break Loss of Coolant Accident (LOCA) in a typical BWR, where is the initial source of water for the high-pressure, turbine-driven pump system?",
+    "choices": {
+      "A": "The suppression pool",
+      "B": "The condensate water storage tank",
+      "C": "The reactor pressure vessel",
+      "D": "The emergency service water system"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the primary function of the Filtration, Recirculation, and Ventilation System (FRVS) in a BWR during a LOCA or fuel-handling accident?",
+    "choices": {
+      "A": "To provide makeup water to the core",
+      "B": "To remove decay heat from the suppression pool",
+      "C": "To reduce the release of airborne radioactivity to the environment",
+      "D": "To maintain positive pressure within the reactor building"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which characteristic of High-Temperature Gas-cooled Reactors (HTGRs) significantly contributes to slower core temperature transients during a depressurization accident compared to a LOCA in a light-water reactor?",
+    "choices": {
+      "A": "The use of helium as a single-phase coolant",
+      "B": "The lower operating pressure",
+      "C": "The high heat capacity of the large mass of graphite in the core",
+      "D": "The absence of a suppression pool"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In a Boiling Water Reactor (BWR), what is the assumed maximum time for steam line isolation valves to close following a steam pipe break?",
+    "choices": {
+      "A": "1 second",
+      "B": "5.5 seconds",
+      "C": "10.5 seconds",
+      "D": "60 seconds"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Control rods in a Boiling Water Reactor (BWR) are typically inserted from which direction relative to the core?",
+    "choices": {
+      "A": "From the top, downwards",
+      "B": "From the bottom, upwards",
+      "C": "Horizontally",
+      "D": "From the side"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In the context of accident risk analysis, how is \"risk\" technically defined for a specified event?",
+    "choices": {
+      "A": "The total number of events over a given period.",
+      "B": "The frequency of the event multiplied by its probability.",
+      "C": "The consequence of the event per unit time.",
+      "D": "The public perception of the event's severity."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a fast reactor Core Disruptive Accident (CDA) initiated by a sodium flow blockage, what is the typical initial consequence within the fuel rods in the affected region?",
+    "choices": {
+      "A": "Rapid solidification of fuel.",
+      "B": "Melting of fuel rods.",
+      "C": "Immediate criticality excursion.",
+      "D": "Ejection of control rods."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "If a safety system requires both AC and DC power to operate, and the failure of either AC or DC power causes the safety system to fail, how would the loss of AC power and loss of DC power typically be represented in a fault tree leading to the safety system failure?",
+    "choices": {
+      "A": "Connected by an \"AND\" gate.",
+      "B": "Connected by an \"OR\" gate.",
+      "C": "Represented as independent, unrelated events.",
+      "D": "Connected by a \"NOR\" gate."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For a 3,440-MW Boiling Water Reactor (BWR), how does the calculated thyroid dose at the Exclusion Area Boundary (EZB) from a Rod Drop accident compare to the calculated thyroid dose at the EZB from a Steam Pipe Break accident?",
+    "choices": {
+      "A": "The Rod Drop thyroid dose is significantly higher than the Steam Pipe Break thyroid dose.",
+      "B": "The Rod Drop thyroid dose is significantly lower than the Steam Pipe Break thyroid dose.",
+      "C": "The thyroid doses for both accidents are approximately equal at the EZB.",
+      "D": "The Steam Pipe Break results in a whole-body dose, not a thyroid dose."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In the context of risk assessment for engineered systems, risk is technically defined as:",
+    "choices": {
+      "A": "The total number of events that occur over a specific period.",
+      "B": "The frequency of an event multiplied by the magnitude of its consequences.",
+      "C": "The probability of an event occurring within a given timeframe.",
+      "D": "The measure of public concern regarding a potential hazard."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Based on typical U.S. accidental death statistics, which of the following causes historically presented the highest individual risk of acute fatality per person-year among common activities?",
+    "choices": {
+      "A": "Air travel",
+      "B": "Motor vehicles",
+      "C": "Fires and hot substances",
+      "D": "Drowning"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In accident risk analysis for complex systems like nuclear power plants, what is the primary purpose of an event tree?",
+    "choices": {
+      "A": "To identify the root causes of a specific system failure.",
+      "B": "To calculate the probability of failure for individual components.",
+      "C": "To map out possible sequences of events following an initiating event.",
+      "D": "To quantify the health effects resulting from a release of hazardous material."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "When analyzing potential accident sequences using an event tree, why might a 'basic tree' be simplified into a 'reduced tree'?",
+    "choices": {
+      "A": "To exclude events with very low probabilities, simplifying calculations.",
+      "B": "To remove branches representing physically impossible or illogical sequences of system operations or failures.",
+      "C": "To combine similar outcomes into a single end state, reducing the number of branches.",
+      "D": "To focus only on sequences that lead to a release of hazardous material."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the process of nuclear plant accident risk calculation, fault tree analysis is commonly used to determine which of the following?",
+    "choices": {
+      "A": "The total societal risk from plant operation.",
+      "B": "The probability of initiating events like pipe breaks.",
+      "C": "The failure probabilities of engineered safety features.",
+      "D": "The magnitude of consequences given a specific release."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Public perception of risk often exhibits 'risk aversion'. This phenomenon suggests that the public tends to view events less favorably primarily based on:",
+    "choices": {
+      "A": "The frequency of the event, preferring less frequent risks.",
+      "B": "The magnitude of the potential consequences, even if the probability is very low.",
+      "C": "Whether the risk is voluntary or involuntary.",
+      "D": "The scientific uncertainty associated with the risk calculation."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What principle guides the regulation of radioactive material in effluents released from nuclear power plants to unrestricted areas in the United States?",
+    "choices": {
+      "A": "Maximum Permissible Concentration (MPC)",
+      "B": "As Low As Reasonably Achievable (ALARA)",
+      "C": "Zero Emission Standard (ZES)",
+      "D": "Best Available Control Technology (BACT)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Historically, which type of light water reactor has typically emitted higher levels of radioactive gaseous effluents, primarily due to the condenser off-gas system?",
+    "choices": {
+      "A": "Pressurized Water Reactor (PWR)",
+      "B": "Boiling Water Reactor (BWR)",
+      "C": "Advanced Gas Reactor (AGR)",
+      "D": "Sodium-Cooled Fast Reactor (SFR)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Radioactive effluents from nuclear power plants are typically released to the environment in what forms?",
+    "choices": {
+      "A": "Solid and Aerosol",
+      "B": "Gaseous and Liquid",
+      "C": "Particulate and Slurry",
+      "D": "Plasma and Solid"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to U.S. regulatory guidance for water-cooled reactors, what are the annual dose limits to any individual in an unrestricted area resulting from radioactive material in liquid effluents, excluding tritium and dissolved gases?",
+    "choices": {
+      "A": "3 mrems to the total body or 10 mrems to any organ",
+      "B": "5 mrems to the total body or 15 mrems to the skin",
+      "C": "10 mrads air dose for gamma or 20 mrads air dose for beta",
+      "D": "15 mrems to any organ"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are the principal exposure pathways for humans from radioactive gaseous effluents containing noble gases and iodine isotopes released from a nuclear power plant?",
+    "choices": {
+      "A": "Inhalation of contaminated air, ingestion of contaminated water, and direct exposure from the passing plume.",
+      "B": "Ingestion of contaminated soil, direct exposure from ground deposition, and consumption of fish from nearby water bodies.",
+      "C": "Inhalation of contaminated air, direct exposure from the airborne plume and ground deposition, and ingestion of contaminated food products (vegetation, meat, milk).",
+      "D": "Direct exposure from waste storage tanks, inhalation of resuspended dust, and contact with solidified waste containers."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 1000 MWe coal-fired power plant operates at 38% efficiency using coal with 9% ash content and a heating value of 13,000 Btu/lb. The fly ash contains 3 pCi/g of Radium-226. If the fly ash removal system has an efficiency of 97.5%, approximately how much Radium-226 activity is emitted from the stack annually?",
+    "choices": {
+      "A": "0.0046 Ci",
+      "B": "0.0185 Ci",
+      "C": "0.0740 Ci",
+      "D": "0.2960 Ci"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the annual dose limit for radioactive material in liquid effluents to the total body of an individual in an unrestricted area?",
+    "choices": {
+      "A": "10 mrems",
+      "B": "3 mrems",
+      "C": "15 mrems",
+      "D": "20 mrems"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Compared to Pressurized Water Reactors (PWRs), Boiling Water Reactors (BWRs) have historically emitted more of which type of radioactive effluent?",
+    "choices": {
+      "A": "Liquid effluents (excluding tritium)",
+      "B": "Tritium in liquid effluents",
+      "C": "Gaseous effluents",
+      "D": "Halogens and particulates"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Tritium is primarily described as a pure emitter of which type of radiation?",
+    "choices": {
+      "A": "Alpha particles",
+      "B": "Beta particles",
+      "C": "Gamma rays",
+      "D": "Neutrons"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following is NOT listed as a principal exposure pathway to humans from radioactive gaseous effluents?",
+    "choices": {
+      "A": "Direct exposure from the atmospheric plume",
+      "B": "Ingestion of seafood from contaminated water",
+      "C": "Inhalation of airborne radionuclides",
+      "D": "Ingestion of milk from grazing animals"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Fossil fuel power plants, particularly those burning coal, emit radioactive effluents originating from trace amounts of which elements in the fly ash?",
+    "choices": {
+      "A": "Cesium and Iodine",
+      "B": "Strontium and Barium",
+      "C": "Uranium and Thorium",
+      "D": "Plutonium and Americium"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When calculating the dose to an infant thyroid from consuming milk contaminated with radioiodine compared to an adult thyroid consuming the same amount of milk, the infant dose is approximately how many times higher?",
+    "choices": {
+      "A": "The same",
+      "B": "Two times",
+      "C": "Five times",
+      "D": "Ten times"
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  }
+]

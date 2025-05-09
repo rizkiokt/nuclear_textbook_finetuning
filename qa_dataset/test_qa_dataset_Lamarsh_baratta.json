@@ -1,0 +1,1102 @@
+[
+  {
+    "question": "Which method for calculating radiation penetration through shields involves simulating the paths and interactions of individual particles?",
+    "choices": {
+      "A": "Point Kernel Method",
+      "B": "Multigroup Diffusion Method",
+      "C": "Monte Carlo Method",
+      "D": "Removal-Attenuation Method"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Consider the dependence of gamma-ray interaction cross-sections on the atomic number (Z) of the interacting material. How do the photoelectric effect and pair production cross-sections generally vary with Z?",
+    "choices": {
+      "A": "Photoelectric varies approximately as Z^2, Pair Production varies approximately as Z^4-5.",
+      "B": "Photoelectric varies approximately as Z^4-5, Pair Production varies approximately as Z^2.",
+      "C": "Both vary approximately linearly with Z.",
+      "D": "Both are largely independent of Z."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "An alpha particle emitted during radioactive decay consists of which of the following?",
+    "choices": {
+      "A": "One proton and one neutron",
+      "B": "Two protons and two neutrons",
+      "C": "One electron",
+      "D": "A high-energy photon"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary function of the containment structure surrounding a nuclear reactor?",
+    "choices": {
+      "A": "To serve as a primary radiation shield for personnel",
+      "B": "To house the steam turbine and generator",
+      "C": "To provide structural support for the reactor vessel",
+      "D": "To confine radioactivity in the event of a release from the primary system"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "For an infinite isotropic planar source emitting S gamma rays/cm\u00b2-sec located behind a slab shield of thickness 'a', the buildup flux at a point on the surface of the shield is given by which expression, where $\\mu$ is the linear attenuation coefficient, $A_n$ and $\\alpha_n$ are parameters for the Taylor form of the buildup factor, and E1 is the exponential integral function?",
+    "choices": {
+      "A": "$S/2 \\sum_{n=1,2} A_n E_1((1 + \\alpha_n)\\mu a)$",
+      "B": "$S \\sum_{n=1,2} A_n E_1((1 + \\alpha_n)\\mu a)$",
+      "C": "$S/2 \\sum_{n=1,2} A_n E_2((1 + \\alpha_n)\\mu a)$",
+      "D": "$S \\sum_{n=1,2} A_n E_2((1 + \\alpha_n)\\mu a)$"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The intensity of a monoenergetic, monodirectional neutron beam that has not collided after penetrating a distance 'x' into a material decreases exponentially with distance according to which factor?",
+    "choices": {
+      "A": "e^(\u03a3\u209cx)",
+      "B": "e^(-\u03a3\u209cx)",
+      "C": "\u03a3\u209cx",
+      "D": "1/(\u03a3\u209cx)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A material has a total macroscopic cross-section of 0.25 cm\u207b\u00b9. If a neutron flux of 5 x 10\u2079 neutrons/cm\u00b2-sec is present in this material, what is the collision density (collisions/cm\u00b3-sec)?",
+    "choices": {
+      "A": "1.25 x 10\u2079",
+      "B": "2.0 x 10\u2079",
+      "C": "1.25 x 10\u00b9\u2070",
+      "D": "2.0 x 10\u00b9\u2070"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which liquid metal is universally chosen as the coolant for modern Liquid Metal Cooled Fast Breeder Reactors (LMFBRs)?",
+    "choices": {
+      "A": "Mercury",
+      "B": "Sodium",
+      "C": "Lead-Bismuth",
+      "D": "Potassium"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the minimum energy required for a photon to undergo pair production?",
+    "choices": {
+      "A": "0.511 MeV",
+      "B": "1.02 MeV",
+      "C": "2.04 MeV",
+      "D": "0 MeV"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The prompt jump approximation for the ratio of reactor power after a reactivity change to the power before the change is generally considered valid for reactivities below what approximate threshold?",
+    "choices": {
+      "A": "0.10$",
+      "B": "0.25$",
+      "C": "0.50$",
+      "D": "1.00$"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a primary characteristic distinguishing 'permanent poisons' from transient fission product poisons like Xenon-135 in a nuclear reactor?",
+    "choices": {
+      "A": "Permanent poisons have very short half-lives and decay quickly after production.",
+      "B": "Permanent poisons are stable or have very long effective half-lives compared to the core lifetime, leading to continuous accumulation.",
+      "C": "Permanent poisons are only produced during reactor shutdown and decay during operation.",
+      "D": "Permanent poisons are removed from the core via control rod insertion or chemical shim."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the primary purpose of using a buildup factor in gamma-ray shielding calculations?",
+    "choices": {
+      "A": "To account for the radioactive decay of the source.",
+      "B": "To simplify the calculation of the uncollided flux.",
+      "C": "To account for the contribution of scattered gamma rays to the total flux or dose.",
+      "D": "To determine the half-value layer of the shielding material."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In thermal reactors, which material is commonly used as a moderator?",
+    "choices": {
+      "A": "Liquid Sodium",
+      "B": "Iron",
+      "C": "Water or Heavy Water",
+      "D": "Uranium Dioxide"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a critical bare infinite cylindrical reactor with extrapolated radius R, the buckling (B\u00b2) is determined by the first zero of which mathematical function?",
+    "choices": {
+      "A": "Sine function",
+      "B": "Cosine function",
+      "C": "Modified Bessel function of the first kind, order zero (I\u2080)",
+      "D": "Ordinary Bessel function of the first kind, order zero (J\u2080)"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Atoms of the same chemical element that have different numbers of neutrons are known as:",
+    "choices": {
+      "A": "Nuclides",
+      "B": "Isotopes",
+      "C": "Ions",
+      "D": "Molecules"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which type of radiation is classified as directly ionizing?",
+    "choices": {
+      "A": "Gamma rays",
+      "B": "Neutrons",
+      "C": "Alpha particles",
+      "D": "X-rays"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The thermal diffusion area (L_T\u00b2) of a moderator depends on both density (\u03c1) and absolute temperature (T). For ordinary water, if the temperature changes from a reference temperature T\u2080 to T, the dependence on the temperature ratio (T/T\u2080) in the formula for L_T\u00b2 is raised to which power?",
+    "choices": {
+      "A": "0.470",
+      "B": "0.112",
+      "C": "0.970",
+      "D": "1.0"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "According to one-group diffusion theory, which boundary conditions must be satisfied at the interface between a reactor core and a reflector?",
+    "choices": {
+      "A": "Continuity of flux and zero current.",
+      "B": "Zero flux and continuity of current.",
+      "C": "Continuity of flux and continuity of current.",
+      "D": "Zero flux and zero current."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a typical thermal reactor operating at steady state, approximately what percentage of the total thermal power is contributed by fission product decay heating after several days of continuous operation?",
+    "choices": {
+      "A": "Less than 1%",
+      "B": "Around 7%",
+      "C": "About 15%",
+      "D": "More than 20%"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which pair of fission products are considered major poisons in a nuclear reactor due to their high neutron absorption cross-sections and accumulation characteristics?",
+    "choices": {
+      "A": "Iodine-131 and Cesium-137",
+      "B": "Strontium-90 and Krypton-85",
+      "C": "Xenon-135 and Samarium-149",
+      "D": "Tritium and Carbon-14"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Why must uranium fuel in Light-Water Reactors (LWRs) be enriched?",
+    "choices": {
+      "A": "To increase the fuel's melting point",
+      "B": "To reduce the operating pressure of the primary loop",
+      "C": "Because ordinary water significantly absorbs thermal neutrons",
+      "D": "To simplify the control rod design"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In nuclear reactor theory, what is the definition of the thermal utilization factor (f) in a thermal reactor?",
+    "choices": {
+      "A": "The probability that a fission neutron is not absorbed in any resonances while slowing down.",
+      "B": "The ratio of the total number of fission neutrons produced to the number produced by thermal fission alone.",
+      "C": "The fraction of the total thermal neutrons absorbed in the reactor that are absorbed by the fuel.",
+      "D": "The average number of neutrons emitted per thermal neutron absorbed in fuel."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to typical data for the United States, which natural radiation source contributes the highest average annual individual dose?",
+    "choices": {
+      "A": "Cosmic rays",
+      "B": "Terrestrial gamma rays",
+      "C": "Potassium-40 (K-40)",
+      "D": "Radon-222 (Rn-222)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For gamma-ray interactions with lead, which interaction process is typically the most dominant mode of interaction in the energy range from approximately 0.5 MeV to 5 MeV?",
+    "choices": {
+      "A": "Photoelectric effect",
+      "B": "Compton scattering",
+      "C": "Pair production",
+      "D": "Neutron capture"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the primary compound of uranium used as the process gas in the gaseous diffusion enrichment method?",
+    "choices": {
+      "A": "UO2",
+      "B": "UF6",
+      "C": "U3O8",
+      "D": "Metallic Uranium"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are the main components of the primary cosmic radiation that bombards the Earth?",
+    "choices": {
+      "A": "Neutrons and electrons",
+      "B": "Protons and alpha particles",
+      "C": "Gamma rays and charged pions",
+      "D": "Muons and heavy nuclei"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a bare cylindrical thermal reactor with a specified homogeneous composition of fissile material and moderator, what is the approximate ratio of the cylinder's height (H) to its radius (R) that minimizes the critical mass?",
+    "choices": {
+      "A": "H/R = 1.00",
+      "B": "H/R = 1.82",
+      "C": "H/R = 2.405",
+      "D": "H/R = \u03c0"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A reactor core operating at a thermal power of 1,893 MW contains 39,372 fuel rods. Assuming 180 MeV is deposited locally in the fuel per fission and the total recoverable energy per fission is 200 MeV, what is the approximate total heat production rate in a fuel rod located at the axis of the reactor core?",
+    "choices": {
+      "A": "87.9 kW",
+      "B": "100 kW",
+      "C": "343 kW",
+      "D": "482.3 kW"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "How is the Q value of a nuclear reaction (a + b \u2192 c + d) related to the total binding energies (BE) of the initial and product nuclei?",
+    "choices": {
+      "A": "Q = BE(a) + BE(b) - (BE(c) + BE(d))",
+      "B": "Q = (BE(c) + BE(d)) - (BE(a) + BE(b))",
+      "C": "Q = BE(c) - BE(d) - (BE(a) - BE(b))",
+      "D": "Q = (BE(a) + BE(c)) - (BE(b) + BE(d))"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A photon is emitted from an atom with an energy of 10.19 eV. What is the approximate wavelength of this photon?",
+    "choices": {
+      "A": "1.217 x 10\u207b\u2077 m",
+      "B": "1.240 x 10\u207b\u2076 m",
+      "C": "1.019 x 10\u207b\u2075 m",
+      "D": "8.203 x 10\u207b\u2078 m"
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the approximate adiabatic lapse rate for the decrease in atmospheric temperature with increasing altitude?",
+    "choices": {
+      "A": "1 \u00b0C per 1000 meters",
+      "B": "5.4 \u00b0F per 100 feet",
+      "C": "10 \u00b0C per 100 meters",
+      "D": "5.4 \u00b0F per 1000 feet"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What type of radiation is produced when a positron and an electron (negatron) annihilate?",
+    "choices": {
+      "A": "Alpha radiation",
+      "B": "Bremsstrahlung",
+      "C": "Annihilation radiation",
+      "D": "Neutron radiation"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to typical regulatory assumptions for light-water reactor (LWR) Loss of Coolant Accident (LOCA) dose calculations, what fraction of the core's noble gas inventory is assumed to be released into containment?",
+    "choices": {
+      "A": "25%",
+      "B": "50%",
+      "C": "90%",
+      "D": "100%"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Under the traditional 10 CFR Part 50 licensing process, which permit is issued first, followed by a separate operating license?",
+    "choices": {
+      "A": "Early Site Permit (ESP)",
+      "B": "Design Certification",
+      "C": "Construction Permit (CP)",
+      "D": "Combined License (COL)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What material is typically used as the primary moderator in a CANDU reactor?",
+    "choices": {
+      "A": "Light Water",
+      "B": "Graphite",
+      "C": "Heavy Water",
+      "D": "Beryllium"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Based on the linear hypothesis for radiation-induced cancer risk, how is the excess incidence of cancer generally modeled to increase with acute dose at high doses?",
+    "choices": {
+      "A": "Exponentially with dose",
+      "B": "Non-linearly with a threshold",
+      "C": "Approximately linearly with dose",
+      "D": "Inversely with dose"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The nuclear Doppler effect contributes to a negative prompt temperature coefficient in thermal reactors primarily because:",
+    "choices": {
+      "A": "The total area under the resonance absorption cross-section curves decreases with increasing temperature.",
+      "B": "Increasing temperature causes resonance broadening, which leads to an increase in the neutron flux within the broadened resonance region, thereby increasing resonance absorption.",
+      "C": "The moderator scattering cross-section increases with temperature, thermalizing neutrons away from resonance energies.",
+      "D": "Fuel expansion reduces the fuel density, decreasing the macroscopic absorption cross-section."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The prompt temperature coefficient is primarily associated with temperature changes in which component of the reactor?",
+    "choices": {
+      "A": "Fuel",
+      "B": "Moderator",
+      "C": "Coolant",
+      "D": "Control rods"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Acute Radiation Syndrome (ARS) in humans is typically observed following acute whole-body radiation doses greater than approximately:",
+    "choices": {
+      "A": "5 rems",
+      "B": "75 rems",
+      "C": "200 rems",
+      "D": "600 rems"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What term describes the maximum earthquake event that safety-related portions of a nuclear plant must be designed to withstand and remain functional?",
+    "choices": {
+      "A": "Operating Basis Earthquake (OBE)",
+      "B": "Maximum Credible Earthquake (MCE)",
+      "C": "Safe Shutdown Earthquake (SSE)",
+      "D": "Design Basis Accident (DBA)"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which of the following accurately describes the historical evolution of federal nuclear energy regulation in the United States as outlined in the provided text?",
+    "choices": {
+      "A": "The Atomic Energy Commission (AEC) initially handled both promotion and regulation, but the Energy Reorganization Act of 1974 separated these functions, creating the Nuclear Regulatory Commission (NRC) for regulation and the Department of Energy (DOE) (formed later) for research and development.",
+      "B": "The Atomic Energy Commission (AEC) was solely a regulatory body, which was later replaced by the Nuclear Regulatory Commission (NRC) under the Energy Reorganization Act of 1974.",
+      "C": "The Energy Research and Development Administration (ERDA) was the initial regulatory body, which was later merged into the Nuclear Regulatory Commission (NRC) by the Energy Reorganization Act of 1974.",
+      "D": "The Nuclear Regulatory Commission (NRC) was established by the Atomic Energy Act of 1954 to oversee all aspects of nuclear energy, including both promotion and regulation."
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a finite cylindrical reactor with physical height H, extrapolated height H, and extrapolation distance d, if the reactor is reflected only on the bottom surface with reflector savings \u03b4, the extrapolated height is given by:",
+    "choices": {
+      "A": "H = H + 2\u03b4",
+      "B": "H = H + \u03b4",
+      "C": "H = H + d + \u03b4",
+      "D": "H = H + 2d"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In an infinite thermal reactor, the prompt neutron lifetime (lp) is approximately equal to the:",
+    "choices": {
+      "A": "Reactor period",
+      "B": "Mean generation time",
+      "C": "Thermal utilization factor",
+      "D": "Mean diffusion time"
+    },
+    "answer": "D",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What are the dose limits used by the NRC for the boundary of an exclusion area for an individual exposed for two hours following a postulated fission product release?",
+    "choices": {
+      "A": "25 rem whole body, 300 rem thyroid",
+      "B": "25 rem whole body, 300 rem organ",
+      "C": "5 rem whole body, 15 rem thyroid",
+      "D": "50 rem whole body, 500 rem thyroid"
+    },
+    "answer": "A",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "An atmospheric condition characterized by temperature increasing with increasing altitude is referred to as:",
+    "choices": {
+      "A": "An adiabatic lapse rate.",
+      "B": "A superadiabatic condition.",
+      "C": "An isothermal profile.",
+      "D": "An inversion."
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The second level of safety in the NRC's safety philosophy for nuclear power plants primarily focuses on:",
+    "choices": {
+      "A": "Designing for maximum safety in normal operation and preventing accidents",
+      "B": "Providing safety systems to protect operators and the public from incidents",
+      "C": "Evaluating hypothetical accidents assuming failure of protective systems",
+      "D": "Ensuring proper site selection and emergency evacuation plans"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the thermal utilization factor (f) in a nuclear reactor?",
+    "choices": {
+      "A": "The probability that a thermal neutron is absorbed in the fuel.",
+      "B": "The ratio of fast neutrons to thermal neutrons.",
+      "C": "The probability that a neutron escapes resonance capture.",
+      "D": "The ratio of neutrons absorbed in fuel to total neutrons absorbed in the core."
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a given radionuclide and pathway, what is the approximate ratio of the Maximum Permissible Concentration (MPC) for occupational exposure compared to the MPC for the general public?",
+    "choices": {
+      "A": "1:1",
+      "B": "5:1",
+      "C": "10:1",
+      "D": "50:1"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Using the data provided for \\(^{137}\\text{Cs}\\) in a typical data table, what is the approximate effective decay constant (\\(\\lambda_e\\)) in day\\(^{-1}\\) for \\(^{137}\\text{Cs}\\) in the total body?",
+    "choices": {
+      "A": "\\(0.000063\\text{ day}^{-1}\\)",
+      "B": "\\(0.0099\\text{ day}^{-1}\\)",
+      "C": "\\(0.0100\\text{ day}^{-1}\\)",
+      "D": "\\(0.0101\\text{ day}^{-1}\\)"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What fundamental approach does the Monte Carlo method use to estimate radiation penetration through a shield?",
+    "choices": {
+      "A": "Solving the transport equation numerically",
+      "B": "Simulating the life histories of individual particles",
+      "C": "Using empirical attenuation factors",
+      "D": "Applying point kernel integration"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Consider two identical infinite planar sources, each emitting S neutrons per cm\u00b2 per second, placed symmetrically at x = -a and x = +a in an infinite homogeneous diffusing medium with diffusion coefficient D and diffusion length L. Using the principle of superposition, what is the total neutron flux at the point x = 0, located midway between the two sources?",
+    "choices": {
+      "A": "\\frac{SL}{D} e^{-a/L}",
+      "B": "\\frac{SL}{2D} e^{-a/L}",
+      "C": "\\frac{S}{2D} e^{-a/L}",
+      "D": "\\frac{S}{D} e^{-a/L}"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "In the process of nuclear plant accident risk calculation, fault tree analysis is commonly used to determine which of the following?",
+    "choices": {
+      "A": "The total societal risk from plant operation.",
+      "B": "The probability of initiating events like pipe breaks.",
+      "C": "The failure probabilities of engineered safety features.",
+      "D": "The magnitude of consequences given a specific release."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When analyzing heat flow through a fuel element consisting of fuel and cladding, the presence of a thin gas-filled gap between the fuel and cladding will generally have what effect on the total thermal resistance compared to perfect contact?",
+    "choices": {
+      "A": "Decrease the total thermal resistance",
+      "B": "Increase the total thermal resistance",
+      "C": "Have no effect on the total thermal resistance",
+      "D": "Make the thermal resistance infinite"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Which radiation source is generally considered the most important to shield against when designing the biological shield for a nuclear reactor?",
+    "choices": {
+      "A": "Delayed fission neutrons",
+      "B": "Prompt fission gamma-rays",
+      "C": "Capture gamma-rays",
+      "D": "Prompt fission neutrons"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "According to radiation shielding principles, which type of radiation typically requires less shielding thickness compared to gamma-rays or neutrons due to its short range in matter?",
+    "choices": {
+      "A": "X-rays",
+      "B": "Beta particles",
+      "C": "Neutrons",
+      "D": "Gamma-rays"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In calculating the buildup flux for a line source shielded by a cylinder, the Sievert integral function F(\u03b8, x) is used. To account for buildup, the argument 'x' in F(\u03b8, x) is modified. If the linear attenuation coefficient is \u03bc, how is 'x' typically modified for the n-th term of a polynomial buildup factor expansion?",
+    "choices": {
+      "A": "It is replaced by \u03bc/B_n",
+      "B": "It is replaced by \u03bc * B_n",
+      "C": "It is replaced by \u03bc * (1 + a_n)",
+      "D": "It is replaced by \u03bc / (1 + a_n)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In the context of fast neutron shielding, what does the term \"removal cross-section\" represent?",
+    "choices": {
+      "A": "The probability of a neutron inducing fission.",
+      "B": "The effective cross-section for removing neutrons from the fast flux.",
+      "C": "The cross-section for elastic scattering only.",
+      "D": "The cross-section for thermal neutron absorption."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What are the two primary stages of the reactor licensing process in the United States?",
+    "choices": {
+      "A": "Preliminary Design Stage and Final Design Stage",
+      "B": "Construction Permit (CP) Stage and Operating License (OL) Stage",
+      "C": "Safety Review Stage and Environmental Review Stage",
+      "D": "Application Stage and Public Hearing Stage"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A subsidence inversion forms when a column of air sinks within a high-pressure area, causing the upper portion to warm more than the lower portion. When radioactive effluent is released from a stack into such a stable inversion layer, the resulting plume behavior is typically characterized as:",
+    "choices": {
+      "A": "Looping, due to highly unstable conditions.",
+      "B": "Coning, indicative of neutral atmospheric stability.",
+      "C": "Fanning, where the plume spreads out horizontally within the stable layer.",
+      "D": "Fumigation, occurring when an inversion breaks up over a source."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "When calculating the worth of a control rod using diffusion theory, an extrapolation distance 'd' is typically applied at the surface of a strongly absorbing rod. What is the main purpose of this boundary condition?",
+    "choices": {
+      "A": "To account for neutron scattering within the rod material",
+      "B": "To correct for the breakdown of diffusion theory near a strong neutron sink",
+      "C": "To represent the effective increase in the rod's physical radius due to thermal expansion",
+      "D": "To adjust for the energy dependence of the neutron absorption cross-section"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Following a large break loss-of-coolant accident (LOCA) in a Pressurized Water Reactor (PWR), which emergency core cooling system (ECCS) component is designed to provide rapid initial cooling to the core as the primary system pressure drops below approximately 650 psi, before the main electrically driven pumps are fully operational?",
+    "choices": {
+      "A": "High-pressure coolant injection system",
+      "B": "Containment spray system",
+      "C": "Low-pressure coolant injection system",
+      "D": "Accumulator injection system"
+    },
+    "answer": "D",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which of the following is considered a stochastic effect of radiation exposure?",
+    "choices": {
+      "A": "Nonmalignant skin damage (erythema)",
+      "B": "Formation of cataracts",
+      "C": "Hematological effects",
+      "D": "Cancer"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For an elevated release from a stack of height h, the maximum ground-level concentration downwind occurs approximately at the distance where the vertical dispersion coefficient (\u03c3z) satisfies which condition?",
+    "choices": {
+      "A": "\u03c3z = h",
+      "B": "\u03c3z = h / \u221a2",
+      "C": "\u03c3z = h * \u221a2",
+      "D": "\u03c3z = h / 2"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "The effective multiplication factor (k) for a bare thermal reactor is related to the infinite multiplication factor (k\u221e) and neutron non-leakage probabilities. Which of the following correctly expresses this relationship, where PF is the probability a fast neutron does not leak while slowing down and PT is the probability a thermal neutron does not leak?",
+    "choices": {
+      "A": "k = k\u221e / (PF + PT)",
+      "B": "k = k\u221e * PF * PT",
+      "C": "k = k\u221e / (PF * PT)",
+      "D": "k = k\u221e * (PF + PT)"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A thermal reactor uses chemical shim control. If the thermal utilization (f\u2080) in the absence of boron is 0.900, what approximate concentration of boric acid (H\u2083BO\u2083) in parts per million (ppm) is needed to achieve a shim worth of 10% \u0394k/k?",
+    "choices": {
+      "A": "521 ppm",
+      "B": "789 ppm",
+      "C": "1042 ppm",
+      "D": "1301 ppm"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the relationship between the thermal neutron flux (\u03c6T) and the 2200 m/s flux (\u03c60) at a temperature T (in Kelvin), assuming the neutron energy distribution is Maxwellian?",
+    "choices": {
+      "A": "\u03c6T = \u03c60 * (T / 293.61)^0.5",
+      "B": "\u03c60 = \u03c6T * (T / 293.61)^0.5",
+      "C": "\u03c60 = (sqrt(pi)/2) * \u03c6T * (293.61 / T)^0.5",
+      "D": "\u03c6T = (sqrt(pi)/2) * \u03c60 * (293.61 / T)^0.5"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which type of light-water reactor typically uses steam generators to transfer heat from the primary coolant to a secondary loop where steam is produced?",
+    "choices": {
+      "A": "Boiling-Water Reactor (BWR)",
+      "B": "Pressurized Water Reactor (PWR)",
+      "C": "Advanced Boiling-Water Reactor (ABWR)",
+      "D": "Simplified Boiling Water Reactor (SBWR)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a reactor core, how does the spatial distribution of neutron flux typically change over core life due to fuel burnup and poison accumulation, assuming the reactor operates at constant power?",
+    "choices": {
+      "A": "The flux becomes more peaked in the center.",
+      "B": "The flux becomes flatter across the core.",
+      "C": "The flux profile remains unchanged.",
+      "D": "The flux decreases uniformly throughout the core."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Physically, how is the multiplication factor (k) for a finite reactor defined?",
+    "choices": {
+      "A": "The ratio of the neutron absorption rate to the neutron leakage rate.",
+      "B": "The ratio of the number of neutrons born in fission in one generation to the number lost from the previous generation.",
+      "C": "The ratio of the neutron diffusion coefficient to the macroscopic absorption cross-section.",
+      "D": "The ratio of the source density to the neutron flux."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Acute whole-body radiation doses in the range of 75 to 200 rems are most likely to cause which of the following early effects?",
+    "choices": {
+      "A": "No observable effects",
+      "B": "Vomiting in 5 to 50% of exposed individuals within a few hours, with fatigue and loss of appetite",
+      "C": "Severe blood changes with hemorrhage and increased susceptibility to infection",
+      "D": "Death in 80% to 100% of exposed individuals within 2 months"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Fuel rods in a Pressurized Water Reactor (PWR) are often pressurized with helium. What is the primary reason for this?",
+    "choices": {
+      "A": "To improve neutron moderation",
+      "B": "To prevent fuel densification",
+      "C": "To counteract external pressure and reduce cladding stress",
+      "D": "To facilitate fission product release"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is the primary mechanism by which the fission product Xenon-135 affects the reactivity of a nuclear reactor?",
+    "choices": {
+      "A": "It increases neutron production through delayed neutron emission.",
+      "B": "It absorbs thermal neutrons, effectively reducing the neutron population available for fission.",
+      "C": "It acts as a neutron moderator, slowing down fast neutrons.",
+      "D": "It causes swelling and distortion of the fuel elements."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A fuel cladding surface is at a temperature of 650\u00b0F. The bulk coolant temperature is 601\u00b0F. If the heat transfer coefficient between the cladding and the coolant is 7500 BTU/hr-ft\u00b2-\u00b0F, what is the heat flux from the cladding surface?",
+    "choices": {
+      "A": "49 BTU/hr-ft\u00b2",
+      "B": "367500 BTU/hr-ft\u00b2",
+      "C": "45000 BTU/hr-ft\u00b2",
+      "D": "7500 BTU/hr-ft\u00b2"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What is the basis for calculating the population dose from radiation exposure?",
+    "choices": {
+      "A": "The total number of people exposed, regardless of dose.",
+      "B": "The integral of the number of people receiving a given dose multiplied by that dose.",
+      "C": "The average dose received by the exposed population.",
+      "D": "The maximum dose received by any individual in the population."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "What is a primary function of the Emergency Core Cooling System (ECCS) in a light-water reactor (LWR) during a Loss of Coolant Accident (LOCA)?",
+    "choices": {
+      "A": "To prevent the initial pressure increase in the primary system.",
+      "B": "To provide makeup water to the reactor core to prevent fuel overheating.",
+      "C": "To filter radioactive releases from the containment atmosphere.",
+      "D": "To ignite hydrogen produced during fuel damage."
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "For a single intake of C\u2080 \u00b5Ci of a radionuclide into an organ with mass M, effective energy equivalent \\(\\bar{\\epsilon}\\), and fraction q reaching the organ, if the effective half-life is much shorter than the expected lifetime, the total dose commitment (H) in rem is proportional to which of the following?",
+    "choices": {
+      "A": "\\(M / (C_0\\bar{\\epsilon}q\\lambda_e)\\)",
+      "B": "\\(C_0\\bar{\\epsilon}q\\lambda_e / M\\)",
+      "C": "\\(C_0\\bar{\\epsilon}q / (M\\lambda_e)\\)",
+      "D": "\\(M\\lambda_e / (C_0\\bar{\\epsilon}q)\\)"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "When a layer of material with a high removal cross-section is added to a hydrogenous shield to attenuate fast neutrons, it is most effective when placed:",
+    "choices": {
+      "A": "Adjacent to the radiation source (e.g., reactor core).",
+      "B": "In the middle of the shield thickness.",
+      "C": "Near the outer surface of the shield.",
+      "D": "Its effectiveness is independent of its position within the hydrogenous shield."
+    },
+    "answer": "A",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "The Light Water Breeder Reactor (LWBR) utilizes a unique control method involving the movement of seed regions within fuel modules. The primary reason ordinary neutron-absorbing control rods are avoided in the LWBR design is because:",
+    "choices": {
+      "A": "The fast neutron spectrum makes them ineffective.",
+      "B": "They would corrode rapidly in the high-temperature water.",
+      "C": "They would absorb too many neutrons, preventing breeding.",
+      "D": "The homogeneous fuel mixture makes rod insertion impossible."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Considering the relationship between neutron spectrum and breeding ratio, and the coolant properties discussed, which reactor type and fuel combination is generally expected to achieve a higher breeding ratio compared to an LMFBR with Uranium-Plutonium Oxide fuel?",
+    "choices": {
+      "A": "LMFBR with Thorium-233U Oxide fuel.",
+      "B": "GCFR with Uranium-Plutonium Oxide fuel.",
+      "C": "MSBR with Thorium-233U fuel.",
+      "D": "LMFBR with Uranium-Plutonium Oxide fuel operating at lower temperature."
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Intermediate time problems in reactor kinetics, typically spanning hours to a day or two, are primarily characterized by the need to account for:",
+    "choices": {
+      "A": "Rapid changes in neutron flux shape",
+      "B": "Significant depletion of nuclear fuel",
+      "C": "Changing concentrations of fission product poisons",
+      "D": "Large variations in reactor coolant temperature"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "In evaluating reactor sites, the NRC generally requires that the population center distance be no less than what multiple of the radius of the Low-Population Zone (LPZ)?",
+    "choices": {
+      "A": "1.0 times",
+      "B": "1.33 times",
+      "C": "2.0 times",
+      "D": "5.0 times"
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "Which organization, established in the United States in 1929 and later given a federal charter in 1964, serves as an independent scientific agency for radiation protection standards?",
+    "choices": {
+      "A": "International Commission on Radiological Protection (ICRP)",
+      "B": "Federal Radiation Council (FRC)",
+      "C": "Environmental Protection Agency (EPA)",
+      "D": "National Council on Radiation Protection and Measurements (NCRP)"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "How is nuclear resource utilization (U) defined?",
+    "choices": {
+      "A": "The ratio of the mass of fissile material loaded to the total fuel load.",
+      "B": "The ratio of the total energy produced to the initial fuel mass.",
+      "C": "The ratio of the amount of fuel that fissions to the amount of natural uranium or thorium input required.",
+      "D": "The fraction of spent fuel that is recycled."
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A 235U-fueled thermal reactor operates at a constant thermal power of 825 MW for 1.5 years. Using the ratio of fission product decay power to operating power (P(ts)/Po) values corresponding to operating times and cooling times provided in typical calculations for such reactors, estimate the approximate total fission product decay power 1 year after shutdown.",
+    "choices": {
+      "A": "0.132 MW",
+      "B": "11.5 MW",
+      "C": "57.7 MW",
+      "D": "0.00016 MW"
+    },
+    "answer": "A",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "For a spherical reactor core of radius R emitting S neutrons/cm\u00b3-sec uniformly, surrounded by a shield of thickness a, the fast neutron flux at the outer surface of the shield (point P) for a small core and thick shield can be approximated by which expression, where \u03b1 is the effective removal cross-section in the core and \u03a3Rs is the removal cross-section in the shield?",
+    "choices": {
+      "A": "\u03a6(P) \u2248 (SA / (4\u03b1)) * (R / (R+a)) * exp(-\u03a3Rsa)",
+      "B": "\u03a6(P) \u2248 (SA / (4\u03b1)) * (R / (R+a))\u00b2 * exp(-\u03a3Rsa) * (1 - exp(-2\u03b1R))",
+      "C": "\u03a6(P) \u2248 (SA / (2\u03b1)) * (R / (R+a)) * exp(-\u03a3Rsa)",
+      "D": "\u03a6(P) \u2248 (SA / (2\u03b1)) * (R / (R+a))\u00b2 * exp(-\u03a3Rsa) * (1 - exp(-2\u03b1R))"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Which of the following is a primary effect of adding a reflector to a reactor core?",
+    "choices": {
+      "A": "Increase the critical mass of the core.",
+      "B": "Increase the critical radius of the core.",
+      "C": "Flatten the thermal flux distribution within the core.",
+      "D": "Increase the maximum-to-average flux ratio."
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "In a fast reactor Core Disruptive Accident (CDA) initiated by a sodium flow blockage, what is the typical initial consequence within the fuel rods in the affected region?",
+    "choices": {
+      "A": "Rapid solidification of fuel.",
+      "B": "Melting of fuel rods.",
+      "C": "Immediate criticality excursion.",
+      "D": "Ejection of control rods."
+    },
+    "answer": "B",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "A bare spherical reactor has material properties resulting in an infinite multiplication factor (k_inf) of 2.61 and a thermal diffusion area (L^2) of 384 cm^2. If the extrapolation distance is 6.84 cm, estimate the critical radius of the reactor.",
+    "choices": {
+      "A": "38.5 cm",
+      "B": "41.7 cm",
+      "C": "45.0 cm",
+      "D": "48.5 cm"
+    },
+    "answer": "B",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Samarium-149, a significant neutron poison in nuclear reactors, is primarily formed through the decay chain originating from which nuclide produced in fission?",
+    "choices": {
+      "A": "Iodine-135",
+      "B": "Neodymium-149",
+      "C": "Cesium-137",
+      "D": "Strontium-90"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "Compared to the gaseous diffusion process for uranium enrichment, the gas centrifuge method primarily offers a significant advantage in terms of:",
+    "choices": {
+      "A": "Single-stage separation factor",
+      "B": "Required cascade size",
+      "C": "Corrosion resistance of materials",
+      "D": "Electrical power consumption"
+    },
+    "answer": "D",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "A bare square cylindrical reactor 70 cm in height has an axial control rod worth 6.5% reactivity when fully inserted. If the reactor is critical with the rod fully withdrawn, approximately how far must the rod be inserted from the top to introduce 1.0% negative reactivity?",
+    "choices": {
+      "A": "10.5 cm",
+      "B": "15.8 cm",
+      "C": "21.3 cm",
+      "D": "28.7 cm"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is considered the central safety problem in the design of a nuclear power plant?",
+    "choices": {
+      "A": "Maintaining criticality of the reactor core",
+      "B": "Ensuring the safe confinement of radioactive materials",
+      "C": "Maximizing the thermal efficiency of power generation",
+      "D": "Minimizing the consumption of fissile material"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The Removal-Diffusion method for radiation shielding calculations is also known by what name?",
+    "choices": {
+      "A": "Diffusion-Attenuation method",
+      "B": "Spinney method",
+      "C": "Multigroup Transport method",
+      "D": "Point Kernel method"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The probability p(x)dx that a neutron will have its first collision in the distance interval dx around distance x is given by \u03a3\u209ce^(-\u03a3\u209cx) dx. Based on this probability distribution, what is the physical meaning of the quantity 1/\u03a3\u209c?",
+    "choices": {
+      "A": "The maximum distance a neutron can travel without a collision",
+      "B": "The distance at which the probability of a collision becomes zero",
+      "C": "The average distance a neutron travels between collisions",
+      "D": "The distance at which half of the neutrons have collided"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Based on the typical binding energy per nucleon curve, nuclear fission of a very heavy nucleus releases energy because:",
+    "choices": {
+      "A": "The binding energy per nucleon is lower for the resulting fission products compared to the original heavy nucleus.",
+      "B": "The total binding energy of the heavy nucleus is greater than the sum of the total binding energies of the fission products.",
+      "C": "The binding energy per nucleon is higher for the resulting fission products compared to the original heavy nucleus.",
+      "D": "The mass defect of the heavy nucleus is greater than the sum of the mass defects of the fission products."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "A nuclear reactor operates at a constant power of 50 MW for 30 days. Using the approximate formula for total fission product activity, Activity \u2248 1.4 \u00d7 10\u2076 P [t\u207b\u2070.\u00b2 - (t + T)\u207b\u2070.\u00b2] Ci, where P is power in MW, T is operating time in days, and t is time after shutdown in days, estimate the total activity (in Curies) of the accumulated fission products 7 days after shutdown.",
+    "choices": {
+      "A": "1.4 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - 37\u207b\u2070.\u00b2]",
+      "B": "0.28 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - 37\u207b\u2070.\u00b2]",
+      "C": "1.4 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - (7+30)\u207b\u2070.\u00b2]",
+      "D": "0.28 \u00d7 10\u2076 \u00d7 50 \u00d7 [7\u207b\u2070.\u00b2 - (7+30)\u207b\u2070.\u00b2]"
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "Regarding the dose-response relationship for radiation-induced cancer, particularly at low doses of low LET radiation, which statement best reflects the current understanding and ongoing debate?",
+    "choices": {
+      "A": "The relationship is definitively linear down to zero dose for all types of radiation.",
+      "B": "There is strong evidence that low doses of low LET radiation cause no increase in cancer risk.",
+      "C": "While high-dose effects are linear, the linear extrapolation to zero dose (linear hypothesis) may overestimate the risk for low LET radiation at low doses.",
+      "D": "Cancer induction is a nonstochastic process with a clear threshold dose for all radiation types."
+    },
+    "answer": "C",
+    "difficulty": "Hard"
+  },
+  {
+    "question": "What is the process called where radioactivity in an effluent plume is picked up by water droplets and carried to the ground during periods of rain?",
+    "choices": {
+      "A": "Dry deposition",
+      "B": "Turbulent diffusion",
+      "C": "Washout",
+      "D": "Fumigation"
+    },
+    "answer": "C",
+    "difficulty": "Easy"
+  },
+  {
+    "question": "The diffusion coefficient (D) is a key parameter in neutron diffusion theory. Based on its definition relating neutron current density and flux gradient (J = -D grad \u03c6), what are the typical units for the diffusion coefficient in neutron diffusion problems?",
+    "choices": {
+      "A": "cm\u00b2/sec",
+      "B": "cm\u207b\u00b9",
+      "C": "cm",
+      "D": "neutrons/cm\u00b3"
+    },
+    "answer": "C",
+    "difficulty": "Medium"
+  },
+  {
+    "question": "What principle guides the regulation of radioactive material in effluents released from nuclear power plants to unrestricted areas in the United States?",
+    "choices": {
+      "A": "Maximum Permissible Concentration (MPC)",
+      "B": "As Low As Reasonably Achievable (ALARA)",
+      "C": "Zero Emission Standard (ZES)",
+      "D": "Best Available Control Technology (BACT)"
+    },
+    "answer": "B",
+    "difficulty": "Easy"
+  }
+]
